@@ -8,35 +8,29 @@ This repository is intended for personal study in machine-learning
 
 ### Useful Video Lectures
 
------
+* [김성훈 교수님 - 모두를 위한 딥러닝 시즌 1](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 
-[김성훈 교수님 - 모두를 위한 딥러닝 시즌 1](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* [김성훈 교수님 - Pytorch Zero To All](<https://youtu.be/SKq-pmkekTk>)
 
-[김성훈 교수님 - Pytorch Zero To All](<https://youtu.be/SKq-pmkekTk>)
+* [김성훈 교수님 - 모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
-[김성훈 교수님 - 모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
+* [Stanford - CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
-[Stanford - CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-
-[Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
-
-
+* [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
 
 
 
 ### By Category
 
------
-
 #### Loss Functions and Optimization
 
-[Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+* [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 
 
 #### Natural Language Processing
 
-[조경현 교수님 - 딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
+* [조경현 교수님 - 딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
 
 
 
@@ -44,17 +38,13 @@ This repository is intended for personal study in machine-learning
 
 ### Blogs
 
--------
+* [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
-[Laon People - Machine Learning](https://laonple.blog.me/221196685472)
-
-[https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
+* [https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
 
 
 
 ### References
-
--------
 
 [김성훈 교수님 - "모두를 위한 딥러닝 시즌 1"](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 
