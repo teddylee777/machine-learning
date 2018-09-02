@@ -4,6 +4,8 @@ This repository is intended for personal study in machine-learning
 
 **Many of my source code contains example codes from referenced lectures**
 
+----
+
 
 
 ### Useful Video Lectures
@@ -18,6 +20,8 @@ This repository is intended for personal study in machine-learning
 
 * [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
 
+----
+
 
 
 ### By Category
@@ -26,6 +30,8 @@ This repository is intended for personal study in machine-learning
 
 * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
+----
+
 
 
 #### Natural Language Processing
@@ -33,6 +39,8 @@ This repository is intended for personal study in machine-learning
 * [조경현 교수님 - 딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
 
 
+
+----
 
 
 
@@ -43,6 +51,8 @@ This repository is intended for personal study in machine-learning
 * [https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
 
 
+
+----
 
 ### References
 
