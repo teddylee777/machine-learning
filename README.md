@@ -61,7 +61,8 @@ This repository is intended for personal study in machine-learning
 
 ### GitHub
 
-* https://github.com/hunkim/DeepLearningZeroToAll
+* [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
+* [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
 
 
 
