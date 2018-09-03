@@ -50,6 +50,8 @@ This repository is intended for personal study in machine-learning
 
 ## Blogs
 
+* [파이썬 킴](http://pythonkim.tistory.com/notice/25)
+  * 김성훈 교수님의 "모두를 위한 딥러닝 시즌 1" 강좌별 정리가 되어 있는 블로그
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
 * [https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
@@ -80,6 +82,10 @@ This repository is intended for personal study in machine-learning
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
+
+* [Keras GAN](https://github.com/osh/KerasGAN)
+
+  * Keras를 활용한 GAN구현
 
 
 ## Facebook Groups
