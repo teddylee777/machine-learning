@@ -64,6 +64,15 @@ This repository is intended for personal study in machine-learning
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
 
+----
+
+
+
+### Facebook Groups
+
+* [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
+* [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
+
 
 
 ----
