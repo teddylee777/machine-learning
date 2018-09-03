@@ -49,6 +49,19 @@ This repository is intended for personal study in machine-learning
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
 * [https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
+* [Team AI Korea](http://aikorea.org/blog/)
+* [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
+* [TensorFlow 한글 문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/)
+* [데이터 사이언스 스쿨](https://datascienceschool.net/)
+* [텐서 플로우 블로그](https://tensorflow.blog/)
+
+
+
+-----
+
+### GitHub
+
+* https://github.com/hunkim/DeepLearningZeroToAll
 
 
 
