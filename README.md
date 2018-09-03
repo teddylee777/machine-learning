@@ -2,6 +2,10 @@
 
 This repository is intended for personal study in machine-learning
 
+머신러닝을 스터디 하는 많은 분들에게 도움이 되고자 작성하였습니다. 
+
+직접 들은 강의는 코멘트하였으나, 지극히 개인적인 의견이 반영 되었습니다.
+
 **Many of my source code contains example codes from referenced lectures**
 
 ----
@@ -27,6 +31,8 @@ This repository is intended for personal study in machine-learning
 * [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
   * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
 * [Mathematical Monk Youtube](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+* [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+  * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용)
 
 ----
 
@@ -42,6 +48,7 @@ This repository is intended for personal study in machine-learning
   * [Stanford - CS231n - Convolution Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=5)
 * Natural Language Processing
   * [조경현 교수님 - 딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
+  * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 
 
@@ -77,6 +84,10 @@ This repository is intended for personal study in machine-learning
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
 
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
+
+* [최성준님의 깃헙](https://github.com/sjchoi86)
+
+  * tensorflow를 활용한 많은 튜토리얼이 있음
 
 
 ----
