@@ -8,6 +8,8 @@ This repository is intended for personal study in machine-learning
 
 **Many of my source code contains example codes from referenced lectures**
 
+-----
+
 
 
 ## Video Lectures
@@ -52,6 +54,8 @@ This repository is intended for personal study in machine-learning
 
 * [파이썬 킴](http://pythonkim.tistory.com/notice/25)
   * 김성훈 교수님의 "모두를 위한 딥러닝 시즌 1" 강좌별 정리가 되어 있는 블로그
+* [Google - Tensorflow Get Started (영문)](https://www.tensorflow.org/tutorials/)
+  - Google의 공식 document 사이트 이며, Tensorflow 의 기본 구현 방법 튜토리얼
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
 * [https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
