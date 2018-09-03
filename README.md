@@ -8,11 +8,9 @@ This repository is intended for personal study in machine-learning
 
 **Many of my source code contains example codes from referenced lectures**
 
-----
 
 
-
-### Useful Video Lectures
+## Video Lectures
 
 * [Andrew Ng - Machine Learning by coursera](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
@@ -34,11 +32,9 @@ This repository is intended for personal study in machine-learning
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용)
 
-----
 
 
-
-### By Category
+## By Category
 
 * Back Propagation
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
@@ -52,9 +48,7 @@ This repository is intended for personal study in machine-learning
 
 
 
-----
-
-### Blogs
+## Blogs
 
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
@@ -75,9 +69,7 @@ This repository is intended for personal study in machine-learning
 * [Agustinus Kristiadi's Blog (영문)](https://wiseodd.github.io/page5/)
 
 
------
-
-### GitHub
+## GitHub
 
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
 
@@ -90,30 +82,15 @@ This repository is intended for personal study in machine-learning
   * tensorflow를 활용한 많은 튜토리얼이 있음
 
 
-----
-
-
-
-### Facebook Groups
+## Facebook Groups
 
 * [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
 * [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
 
 
 
-----
+## References
 
-### References
-
-[김성훈 교수님 - "모두를 위한 딥러닝 시즌 1"](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-
-[Udacity - "Deep Learning"]([https://www.udacity.com/course/deep-learning--ud730](https://www.youtube.com/redirect?redir_token=go5JZuiEPeBNmCijm-3XT2DeidV8MTUzNTQ3Njk3OUAxNTM1MzkwNTc5&q=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fdeep-learning--ud730&event=comments) )
-
-[Stanford - CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&index=1&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-
-
-
-
-
-
-
+* [김성훈 교수님 - "모두를 위한 딥러닝 시즌 1"](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* [Udacity - "Deep Learning"]([https://www.udacity.com/course/deep-learning--ud730](https://www.youtube.com/redirect?redir_token=go5JZuiEPeBNmCijm-3XT2DeidV8MTUzNTQ3Njk3OUAxNTM1MzkwNTc5&q=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fdeep-learning--ud730&event=comments) )
+* [Stanford - CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&index=1&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
