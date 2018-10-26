@@ -76,9 +76,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## Blogs
 
 * [파이썬 킴](http://pythonkim.tistory.com/notice/25)
+
   * 김성훈 교수님의 "모두를 위한 딥러닝 시즌 1" 강좌별 정리가 되어 있는 블로그
+
 * [Google - Tensorflow Get Started (영문)](https://www.tensorflow.org/tutorials/)
+
   - Google의 공식 document 사이트 이며, Tensorflow 의 기본 구현 방법 튜토리얼
+
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
 * [https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
@@ -100,23 +104,31 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Colah's Blog](http://colah.github.io/)
 
 
+
 ## GitHub
 
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
   * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
+
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
+
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
+
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
+
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
+
 * [Keras GAN](https://github.com/osh/KerasGAN)
 
   * Keras를 활용한 GAN구현
+
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
+
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
-* 
+
 
 
 ## Facebook Groups
