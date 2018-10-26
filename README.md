@@ -105,24 +105,18 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
   * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
-
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
-
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
-
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
-
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
-
 * [Keras GAN](https://github.com/osh/KerasGAN)
 
   * Keras를 활용한 GAN구현
-
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
-
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
+* 
 
 
 ## Facebook Groups
@@ -146,7 +140,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 기타
 
-
+- [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
 
 
 
