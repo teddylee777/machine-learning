@@ -71,6 +71,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
 
+* **Azure 머신러닝**
+  * [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 
 
 ## Blogs
