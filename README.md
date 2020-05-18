@@ -132,7 +132,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 웹사이트 (Web Sites)
 
 * [Paper With Code](https://paperswithcode.com/)
- * 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
+  - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
 
 ## Facebook Groups
 
