@@ -48,12 +48,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [최성준님 - 논문으로 시작하는 딥러닝](https://www.edwith.org/deeplearningchoi)
 
-* [문일철 교수님 - (2018) 인공지능 및 기계학습 개론 I](https://www.edwith.org/machinelearning1_17)
-
-* [문일철 교수님 - (2018) 인공지능 및 기계학습 개론 II](https://www.edwith.org/machinelearning2__17)
-
-
-
 
 ## By Subjects
 
@@ -139,6 +133,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
+  
+## 논문 읽기 (YouTube)
+
+* [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
+
+* [딥러닝 논문 읽기 PR12-season2](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
+
+* [딥러닝 논문 읽기 PR12-season3](https://www.youtube.com/watch?v=D-baIgejA4M&list=PL_skMddDjnzq1wDI3t2cH9hlK6wBBapeA)
+
+* [딥러닝 논문 읽기 모임](https://www.youtube.com/channel/UCDULrK2OJsiDhFroa2Aj_LQ)
 
 ## Facebook Groups
 
