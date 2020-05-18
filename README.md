@@ -75,6 +75,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## Blogs
 
+* [테디노트](https://teddylee777.github.io/)
+  - 데이터분석, 머신러닝, 딥러닝 블로그 (제꺼)
+  
 * [파이썬 킴](http://pythonkim.tistory.com/notice/25)
 
   * 김성훈 교수님의 "모두를 위한 딥러닝 시즌 1" 강좌별 정리가 되어 있는 블로그
