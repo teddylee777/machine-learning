@@ -1,0 +1,1210 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import matplotlib.pyplot as plt\n",
+    "import seaborn as sns\n",
+    "import warnings\n",
+    "\n",
+    "%matplotlib inline\n",
+    "warnings.filterwarnings('ignore')\n",
+    "plt.rcParams['figure.figsize'] = (18, 8)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train = pd.read_csv('data/train.csv')\n",
+    "test = pd.read_csv('data/test.csv')\n",
+    "gender_submission = pd.read_csv('data/gender_submission.csv')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "RangeIndex: 891 entries, 0 to 890\n",
+      "Data columns (total 12 columns):\n",
+      "PassengerId    891 non-null int64\n",
+      "Survived       891 non-null int64\n",
+      "Pclass         891 non-null int64\n",
+      "Name           891 non-null object\n",
+      "Sex            891 non-null object\n",
+      "Age            714 non-null float64\n",
+      "SibSp          891 non-null int64\n",
+      "Parch          891 non-null int64\n",
+      "Ticket         891 non-null object\n",
+      "Fare           891 non-null float64\n",
+      "Cabin          204 non-null object\n",
+      "Embarked       889 non-null object\n",
+      "dtypes: float64(2), int64(5), object(5)\n",
+      "memory usage: 83.7+ KB\n"
+     ]
+    }
+   ],
+   "source": [
+    "train.info()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Sex"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Sex_clean'] = train['Sex'].astype('category').cat.codes\n",
+    "test['Sex_clean'] = test['Sex'].astype('category').cat.codes"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Embarked"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Embarked'].isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['Embarked'].isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "S    644\n",
+       "C    168\n",
+       "Q     77\n",
+       "Name: Embarked, dtype: int64"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Embarked'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Embarked'].fillna('S', inplace=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Embarked'].isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Embarked_clean'] = train['Embarked'].astype('category').cat.codes\n",
+    "test['Embarked_clean'] = test['Embarked'].astype('category').cat.codes"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Family"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Family'] = 1 + train['SibSp'] + train['Parch']\n",
+    "test['Family'] = 1 + test['SibSp'] + test['Parch']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Solo'] = (train['Family'] == 1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test['Solo'] = (test['Family'] == 1)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    " ## Fare"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['FareBin'] = pd.qcut(train['Fare'], 5)\n",
+    "test['FareBin'] = pd.qcut(test['Fare'], 5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(7.854, 10.5]        184\n",
+       "(21.679, 39.688]     180\n",
+       "(-0.001, 7.854]      179\n",
+       "(39.688, 512.329]    176\n",
+       "(10.5, 21.679]       172\n",
+       "Name: FareBin, dtype: int64"
+      ]
+     },
+     "execution_count": 15,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['FareBin'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(-0.001, 7.796]     85\n",
+       "(46.62, 512.329]    84\n",
+       "(21.438, 46.62]     83\n",
+       "(11.025, 21.438]    83\n",
+       "(7.796, 11.025]     82\n",
+       "Name: FareBin, dtype: int64"
+      ]
+     },
+     "execution_count": 16,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['FareBin'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Fare_clean'] = train['FareBin'].astype('category').cat.codes\n",
+    "test['Fare_clean'] = test['FareBin'].astype('category').cat.codes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1    184\n",
+       "3    180\n",
+       "0    179\n",
+       "4    176\n",
+       "2    172\n",
+       "Name: Fare_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Fare_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       " 0    85\n",
+       " 4    84\n",
+       " 3    83\n",
+       " 2    83\n",
+       " 1    82\n",
+       "-1     1\n",
+       "Name: Fare_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 19,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['Fare_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Title"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Title'] = train['Name'].str.extract(' ([A-Za-z]+)\\.', expand=False)\n",
+    "test['Title'] = test['Name'].str.extract(' ([A-Za-z]+)\\.', expand=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Title'] = train['Title'].replace(['Lady', 'Countess','Capt', 'Col','Don', 'Dr', 'Major', 'Rev', 'Sir', 'Jonkheer', 'Dona'], 'Other')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Mr        517\n",
+       "Miss      182\n",
+       "Mrs       125\n",
+       "Master     40\n",
+       "Other      23\n",
+       "Mlle        2\n",
+       "Ms          1\n",
+       "Mme         1\n",
+       "Name: Title, dtype: int64"
+      ]
+     },
+     "execution_count": 22,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Title'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Title'] = train['Title'].replace('Mlle', 'Miss')\n",
+    "train['Title'] = train['Title'].replace('Ms', 'Miss')\n",
+    "train['Title'] = train['Title'].replace('Mme', 'Mrs')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Mr        517\n",
+       "Miss      185\n",
+       "Mrs       126\n",
+       "Master     40\n",
+       "Other      23\n",
+       "Name: Title, dtype: int64"
+      ]
+     },
+     "execution_count": 24,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Title'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test['Title'] = test['Title'].replace(['Lady', 'Countess','Capt', 'Col','Don', 'Dr', 'Major', 'Rev', 'Sir', 'Jonkheer', 'Dona'], 'Other')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test['Title'] = test['Title'].replace('Mlle', 'Miss')\n",
+    "test['Title'] = test['Title'].replace('Ms', 'Miss')\n",
+    "test['Title'] = test['Title'].replace('Mme', 'Mrs')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Mr        240\n",
+       "Miss       79\n",
+       "Mrs        72\n",
+       "Master     21\n",
+       "Other       6\n",
+       "Name: Title, dtype: int64"
+      ]
+     },
+     "execution_count": 27,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['Title'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Title_clean'] = train['Title'].astype('category').cat.codes\n",
+    "test['Title_clean'] = test['Title'].astype('category').cat.codes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2    517\n",
+       "1    185\n",
+       "3    126\n",
+       "0     40\n",
+       "4     23\n",
+       "Name: Title_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 29,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Title_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2    240\n",
+       "1     79\n",
+       "3     72\n",
+       "0     21\n",
+       "4      6\n",
+       "Name: Title_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 30,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['Title_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Age"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "177"
+      ]
+     },
+     "execution_count": 31,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Age'].isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "86"
+      ]
+     },
+     "execution_count": 32,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['Age'].isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train[\"Age\"].fillna(train.groupby(\"Title\")[\"Age\"].transform(\"median\"), inplace=True)\n",
+    "test[\"Age\"].fillna(test.groupby(\"Title\")[\"Age\"].transform(\"median\"), inplace=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train.loc[ train['Age'] <= 10, 'Age_clean'] = 0\n",
+    "train.loc[(train['Age'] > 10) & (train['Age'] <= 16), 'Age_clean'] = 1\n",
+    "train.loc[(train['Age'] > 16) & (train['Age'] <= 20), 'Age_clean'] = 2\n",
+    "train.loc[(train['Age'] > 20) & (train['Age'] <= 26), 'Age_clean'] = 3\n",
+    "train.loc[(train['Age'] > 26) & (train['Age'] <= 30), 'Age_clean'] = 4\n",
+    "train.loc[(train['Age'] > 30) & (train['Age'] <= 36), 'Age_clean'] = 5\n",
+    "train.loc[(train['Age'] > 36) & (train['Age'] <= 40), 'Age_clean'] = 6\n",
+    "train.loc[(train['Age'] > 40) & (train['Age'] <= 46), 'Age_clean'] = 7\n",
+    "train.loc[(train['Age'] > 46) & (train['Age'] <= 50), 'Age_clean'] = 8\n",
+    "train.loc[(train['Age'] > 50) & (train['Age'] <= 60), 'Age_clean'] = 9\n",
+    "train.loc[ train['Age'] > 60, 'Age_clean'] = 10"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test.loc[ test['Age'] <= 10, 'Age_clean'] = 0\n",
+    "test.loc[(test['Age'] > 10) & (test['Age'] <= 16), 'Age_clean'] = 1\n",
+    "test.loc[(test['Age'] > 16) & (test['Age'] <= 20), 'Age_clean'] = 2\n",
+    "test.loc[(test['Age'] > 20) & (test['Age'] <= 26), 'Age_clean'] = 3\n",
+    "test.loc[(test['Age'] > 26) & (test['Age'] <= 30), 'Age_clean'] = 4\n",
+    "test.loc[(test['Age'] > 30) & (test['Age'] <= 36), 'Age_clean'] = 5\n",
+    "test.loc[(test['Age'] > 36) & (test['Age'] <= 40), 'Age_clean'] = 6\n",
+    "test.loc[(test['Age'] > 40) & (test['Age'] <= 46), 'Age_clean'] = 7\n",
+    "test.loc[(test['Age'] > 46) & (test['Age'] <= 50), 'Age_clean'] = 8\n",
+    "test.loc[(test['Age'] > 50) & (test['Age'] <= 60), 'Age_clean'] = 9\n",
+    "test.loc[ test['Age'] > 60, 'Age_clean'] = 10"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4.0     209\n",
+       "3.0     176\n",
+       "5.0     127\n",
+       "2.0      79\n",
+       "0.0      68\n",
+       "7.0      52\n",
+       "6.0      45\n",
+       "9.0      42\n",
+       "1.0      36\n",
+       "8.0      35\n",
+       "10.0     22\n",
+       "Name: Age_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 36,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Age_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4.0     103\n",
+       "3.0     100\n",
+       "5.0      36\n",
+       "2.0      35\n",
+       "6.0      29\n",
+       "7.0      28\n",
+       "0.0      26\n",
+       "9.0      20\n",
+       "8.0      18\n",
+       "1.0      12\n",
+       "10.0     11\n",
+       "Name: Age_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 37,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['Age_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Cabin"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "C    59\n",
+       "B    47\n",
+       "D    33\n",
+       "E    32\n",
+       "A    15\n",
+       "F    13\n",
+       "G     4\n",
+       "T     1\n",
+       "Name: Cabin, dtype: int64"
+      ]
+     },
+     "execution_count": 38,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Cabin'].str[:1].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "mapping = {\n",
+    "    'A': 0,\n",
+    "    'B': 1,\n",
+    "    'C': 2,\n",
+    "    'D': 3,\n",
+    "    'E': 4,\n",
+    "    'F': 5,\n",
+    "    'G': 6,\n",
+    "    'T': 7\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Cabin_clean'] = train['Cabin'].str[:1]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Cabin_clean'] = train['Cabin_clean'].map(mapping)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Cabin_clean</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>3</td>\n",
+       "      <td>NaN</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>2.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>3</td>\n",
+       "      <td>NaN</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1</td>\n",
+       "      <td>2.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>3</td>\n",
+       "      <td>NaN</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>5</th>\n",
+       "      <td>3</td>\n",
+       "      <td>NaN</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>6</th>\n",
+       "      <td>1</td>\n",
+       "      <td>4.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>7</th>\n",
+       "      <td>3</td>\n",
+       "      <td>NaN</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>8</th>\n",
+       "      <td>3</td>\n",
+       "      <td>NaN</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>9</th>\n",
+       "      <td>2</td>\n",
+       "      <td>NaN</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   Pclass  Cabin_clean\n",
+       "0       3          NaN\n",
+       "1       1          2.0\n",
+       "2       3          NaN\n",
+       "3       1          2.0\n",
+       "4       3          NaN\n",
+       "5       3          NaN\n",
+       "6       1          4.0\n",
+       "7       3          NaN\n",
+       "8       3          NaN\n",
+       "9       2          NaN"
+      ]
+     },
+     "execution_count": 42,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train[['Pclass', 'Cabin_clean']].head(10)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 43,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Pclass\n",
+       "1    2.0\n",
+       "2    4.5\n",
+       "3    5.0\n",
+       "Name: Cabin_clean, dtype: float64"
+      ]
+     },
+     "execution_count": 43,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train.groupby('Pclass')['Cabin_clean'].median()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0    NaN\n",
+       "1    2.0\n",
+       "2    NaN\n",
+       "3    2.0\n",
+       "4    NaN\n",
+       "5    NaN\n",
+       "6    4.0\n",
+       "7    NaN\n",
+       "8    NaN\n",
+       "9    NaN\n",
+       "Name: Cabin_clean, dtype: float64"
+      ]
+     },
+     "execution_count": 44,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Cabin_clean'].head(10)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test['Cabin_clean'] = test['Cabin'].str[:1]\n",
+    "test['Cabin_clean'] = test['Cabin_clean'].map(mapping)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train['Cabin_clean'] = train.groupby('Pclass')['Cabin_clean'].transform('median')\n",
+    "test['Cabin_clean'] = test.groupby('Pclass')['Cabin_clean'].transform('median')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 47,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "5.0    491\n",
+       "2.0    216\n",
+       "4.5    184\n",
+       "Name: Cabin_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 47,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "train['Cabin_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "5.0    311\n",
+       "2.0    107\n",
+       "Name: Cabin_clean, dtype: int64"
+      ]
+     },
+     "execution_count": 48,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test['Cabin_clean'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Feature & label"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "feature = [\n",
+    "    'Pclass',\n",
+    "    'SibSp',\n",
+    "    'Parch',\n",
+    "    'Sex_clean',\n",
+    "    'Embarked_clean',\n",
+    "    'Family',\n",
+    "    'Solo',\n",
+    "    'Title_clean',\n",
+    "    'Age_clean',\n",
+    "    'Cabin_clean',\n",
+    "    'Fare_clean',\n",
+    "]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 50,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "label = [\n",
+    "    'Survived',\n",
+    "]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Model Selection"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 51,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "data = train[feature]\n",
+    "target = train[label]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 52,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from sklearn.model_selection import train_test_split\n",
+    "from sklearn.model_selection import KFold\n",
+    "from sklearn.model_selection import cross_val_score"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "k_fold = KFold(n_splits=10, shuffle=True, random_state=0)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 54,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "x_train, x_test, y_train, y_test = train_test_split(data, target, random_state=0)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 55,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from sklearn.ensemble import RandomForestClassifier"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 56,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.8271660424469414"
+      ]
+     },
+     "execution_count": 56,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "clf = RandomForestClassifier(n_estimators=50, max_depth=6, random_state=0)\n",
+    "cross_val_score(clf, data, target, cv=k_fold, scoring='accuracy', ).mean()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Make Prediction"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 57,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "x_train = train[feature]\n",
+    "x_test = test[feature]\n",
+    "y_train = train[label]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',\n",
+       "                       max_depth=6, max_features='auto', max_leaf_nodes=None,\n",
+       "                       min_impurity_decrease=0.0, min_impurity_split=None,\n",
+       "                       min_samples_leaf=1, min_samples_split=2,\n",
+       "                       min_weight_fraction_leaf=0.0, n_estimators=50,\n",
+       "                       n_jobs=None, oob_score=False, random_state=0, verbose=0,\n",
+       "                       warm_start=False)"
+      ]
+     },
+     "execution_count": 58,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "clf.fit(x_train, y_train)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 59,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pred = clf.predict(x_test)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "gender_submission['Survived'] = pred"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 61,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "gender_submission.to_csv('titanic-submission-3.csv',index=False)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
