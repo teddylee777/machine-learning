@@ -57,19 +57,25 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## By Subjects
 
-* Back Propagation
+* **Back Propagation**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
-* Loss Functions and Optimization
+
+* **Loss Functions and Optimization**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-* Convolution Neural Networks (CNN)
+
+* **Convolution Neural Networks (CNN)**
   * [Stanford - CS231n - Convolution Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=5)
-* Recurrent Neural Networks
+
+* **Recurrent Neural Networks**
   * [Stanford - CS231n - Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=10)
   * [Programming LSTM with Keras and TensorFlow](https://www.youtube.com/watch?v=UnclHXZszpw&t=572s)
-* Natural Language Processing
+
+* **Natural Language Processing**
   * [조경현 교수님 - 딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
   * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+  
+  * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
 
 
 
@@ -77,6 +83,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [테디노트](https://teddylee777.github.io/)
   - 데이터분석, 머신러닝, 딥러닝 블로그 (제꺼)
+  
+* [데이터 사이언스 스쿨](https://datascienceschool.net/)
+
+* [텐서 플로우 블로그](https://tensorflow.blog/)
   
 * [파이썬 킴](http://pythonkim.tistory.com/notice/25)
 
@@ -96,16 +106,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [TensorFlow 한글 문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/)
 
-* [데이터 사이언스 스쿨](https://datascienceschool.net/)
-
-* [텐서 플로우 블로그](https://tensorflow.blog/)
-
-* [조대협의 블로그](http://bcho.tistory.com/1149)
-
 * [Agustinus Kristiadi's Blog (영문)](https://wiseodd.github.io/page5/)
 
-* [Colah's Blog](http://colah.github.io/)
-
+* [Colah's Blog (영문)](http://colah.github.io/)
 
 
 ## GitHub
@@ -161,10 +164,3 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 - [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
 
-
-
-## References
-
-* [김성훈 교수님 - "모두를 위한 딥러닝 시즌 1"](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-* [Udacity - "Deep Learning"]([https://www.udacity.com/course/deep-learning--ud730](https://www.youtube.com/redirect?redir_token=go5JZuiEPeBNmCijm-3XT2DeidV8MTUzNTQ3Njk3OUAxNTM1MzkwNTc5&q=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fdeep-learning--ud730&event=comments) )
-* [Stanford - CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&index=1&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
