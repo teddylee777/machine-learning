@@ -135,6 +135,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
 * [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
+* [Kaggle Korea](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)
 
 
 
