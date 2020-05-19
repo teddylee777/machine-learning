@@ -101,7 +101,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
-* [https://ratsgo.github.io/blog/categories/#natural-language-processing](https://ratsgo.github.io/blog/categories/#natural-language-processing)
+* [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
 
 * [Team AI Korea](http://aikorea.org/blog/)
 
