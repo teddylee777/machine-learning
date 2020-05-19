@@ -74,6 +74,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **Azure 머신러닝**
   * [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 
+* **강화학습**
+  * [팡요랩 - 쉽게구현하는 강화학습](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
 
 ## Blogs
 
