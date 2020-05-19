@@ -103,6 +103,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
 * [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
+  * 자연어 처리 분야 뿐만 아니라, 다른 딥러닝 관련 글도 퀄리티가 높다. 다만, 이해에 조금 어려운 부분도 있다.
 
 * [Team AI Korea](http://aikorea.org/blog/)
 
