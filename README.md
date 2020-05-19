@@ -178,6 +178,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition)
 * [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)
 
+## 오픈데이터
+
+* [공공데이터포털](https://www.data.go.kr/)
+* [https://opendatainception.io/](https://opendatainception.io/)
+
 
 ## 기타
 
