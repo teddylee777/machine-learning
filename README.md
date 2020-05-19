@@ -148,6 +148,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
   
+## YouTube 채널
+* [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
+  * 재미난 인공지능을 활용한 다양한 프로젝트를 진행해보고 풀이까지 쉽게 제공.
+
 ## 논문 읽기 (YouTube)
 
 * [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
@@ -164,8 +168,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
 * [Kaggle Korea](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)
 
-
-
 ## 해볼만한 Kaggle
 
 #### Vision (Image)
@@ -175,7 +177,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
 * [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition)
 * [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)
-
 
 
 ## 기타
