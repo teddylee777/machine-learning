@@ -185,7 +185,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 * [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 * [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
-* [https://www.kaggle.com/c/rossmann-store-sales](https://www.kaggle.com/c/rossmann-store-sales)
+* [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
 
 
 ## 오픈데이터
