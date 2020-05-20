@@ -193,6 +193,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [공공데이터포털](https://www.data.go.kr/)
 * [Open Data Inception](https://opendatainception.io/)
 * [AI Hub](http://www.aihub.or.kr/)
+* [Appen](https://appen.com/resources/datasets/)
 
 
 ## 기타
