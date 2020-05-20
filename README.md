@@ -1,9 +1,5 @@
 # Machine Learning Study 혼자 해보기
 
-새롭게 내용이 업데이트 되었습니다!
-
-내꺼를 복사해 왔습니다. 원본에 업데이트 할 내용 추가 합니다.
-
 **취지**
 
 This repository is intended for personal study in machine-learning
