@@ -2,16 +2,16 @@
 
 This repository is intended for personal study in machine-learning
 
-**Many of my source code contains example codes from referenced lectures**
-
-
-
 머신러닝 분야를 스스로 스터디 하는 많은 분들에게 도움이 되고자 작성하였습니다.
 
 온라인 상에서 좋은 분들이 공유해 주신 Lecture와 Blog를 참고하여 스터디 하실 수 있습니다.
 
 직접 들은 강의는 코멘트하였으나, 지극히 개인적인 의견이 반영 되었습니다.
 
+
+**기여**
+
+더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요! (조건 없는 Merge!)
 -----
 
 
