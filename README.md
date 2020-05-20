@@ -1,5 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
+반갑습니다.
+
 **취지**
 
 This repository is intended for personal study in machine-learning
