@@ -129,6 +129,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
 
+* [텐서플로우 공식 깃헙(한글)](https://github.com/tensorflow/docs-l10n/tree/master/site/ko)
+  * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
+
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
