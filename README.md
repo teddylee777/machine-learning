@@ -1,20 +1,20 @@
 # Machine Learning Study 혼자 해보기
 
+**취지**
+
 This repository is intended for personal study in machine-learning
 
-**Many of my source code contains example codes from referenced lectures**
-
-
-
-머신러닝 분야를 스스로 스터디 하는 많은 분들에게 도움이 되고자 작성하였습니다.
+머신러닝 분야를 **스스로 스터디 하는 많은 분들께 도움**이 되고자 작성하였습니다.
 
 온라인 상에서 좋은 분들이 공유해 주신 Lecture와 Blog를 참고하여 스터디 하실 수 있습니다.
 
 직접 들은 강의는 코멘트하였으나, 지극히 개인적인 의견이 반영 되었습니다.
 
+**기여 (Contributor)**
+
+더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요! (조건 없는 Merge!)
+
 -----
-
-
 
 ## Video Lectures
 
@@ -76,6 +76,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 
 * **강화학습 (Reinforcement Learning)**
+  * [김성훈 교수님 - 강화학습](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
   * [데이비드 실버 교수님 - 강화학습(영문)](https://www.davidsilver.uk/teaching/)
   * [팡요램 - 강화학습 개론(10강)](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
   * [팡요랩 - 쉽게구현하는 강화학습(2강)](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
@@ -128,6 +129,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
 
+* [텐서플로우 공식 깃헙(한글)](https://github.com/tensorflow/docs-l10n/tree/master/site/ko)
+  * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
+
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
@@ -147,6 +151,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
+* [AI Hub](http://www.aihub.or.kr/)
+  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
   
 ## YouTube 채널
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
@@ -177,6 +183,22 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
 * [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition)
 * [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)
+
+#### 시계열 (Time Series)
+
+* [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+* [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+* [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
+* [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+
+
+## 오픈데이터
+
+* [공공데이터포털](https://www.data.go.kr/)
+* [Open Data Inception](https://opendatainception.io/)
+* [AI Hub](http://www.aihub.or.kr/)
+* [Appen](https://appen.com/resources/datasets/)
+* [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
 
 
 ## 기타
