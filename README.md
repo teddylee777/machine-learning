@@ -207,6 +207,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
 * [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
 
+#### 음성
+
+* [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
 ## 오픈데이터
 
