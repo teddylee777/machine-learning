@@ -1,5 +1,10 @@
 # Machine Learning Study 혼자 해보기
 
+## YouTube
+
+[유튜브 채널](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
+[블로그](https://teddylee777.github.io/)
+
 **취지**
 
 This repository is intended for personal study in machine-learning
