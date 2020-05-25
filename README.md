@@ -153,6 +153,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
 * [AI Hub](http://www.aihub.or.kr/)
   - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
+* [Keras Examples](https://keras.io/examples/)
+  - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
   
 ## YouTube 채널
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
