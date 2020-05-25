@@ -1,9 +1,11 @@
 # Machine Learning Study 혼자 해보기
 
-## YouTube
+## 지식공유
 
-[유튜브 채널](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
-[블로그](https://teddylee777.github.io/)
+블로그, 유튜브를 통해 지식공유를 실천하고 있습니다.
+
+- [유튜브 채널](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
+- [블로그](https://teddylee777.github.io/)
 
 **취지**
 
