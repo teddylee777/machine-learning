@@ -185,6 +185,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 해볼만한 Kaggle
 
+#### 입문자
+
+* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+  - 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
+* [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
+  - 자전저 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
+
 #### Vision (Image)
 
 * [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
