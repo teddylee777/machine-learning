@@ -38,6 +38,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Stanford - CS231n (영문)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   * 영어로 진행되는 강좌. 영어가 익숙하다면 제일 먼저 이 강의를 듣고 개념을 정리하는 것을 추천.
+  
+* [박조은님 - 캐글실습으로 배우는 데이터사이언스](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
+  * 입문자를 위하여 이해하기 쉽게 설명해주는 강의이며, 캐글을 경험하지 못한 분들은 입문용 강의로 추천.
 
 * [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
 
@@ -55,6 +58,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [김성훈 교수님 - 모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
 * [최성준님 - 논문으로 시작하는 딥러닝](https://www.edwith.org/deeplearningchoi)
+
 
 
 ## By Subjects
