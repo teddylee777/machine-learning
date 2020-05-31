@@ -161,6 +161,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [미술관에 GAN 딥러닝](https://github.com/rickiepark/GDL_code)
   * GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
+  
+* [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
+  * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
 
 ## 웹사이트 (Web Sites)
 
