@@ -1,5 +1,12 @@
 # Machine Learning Study 혼자 해보기
 
+## 지식공유
+
+블로그, 유튜브를 통해 지식공유를 실천하고 있습니다.
+
+- [유튜브 채널](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
+- [블로그](https://teddylee777.github.io/)
+
 **취지**
 
 This repository is intended for personal study in machine-learning
@@ -31,6 +38,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Stanford - CS231n (영문)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   * 영어로 진행되는 강좌. 영어가 익숙하다면 제일 먼저 이 강의를 듣고 개념을 정리하는 것을 추천.
+  
+* [박조은님 - 캐글실습으로 배우는 데이터사이언스](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
+  * 입문자를 위하여 이해하기 쉽게 설명해주는 강의이며, 캐글을 경험하지 못한 분들은 입문용 강의로 추천.
 
 * [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
 
@@ -48,6 +58,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [김성훈 교수님 - 모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
 * [최성준님 - 논문으로 시작하는 딥러닝](https://www.edwith.org/deeplearningchoi)
+
 
 
 ## By Subjects
@@ -68,8 +79,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * **Natural Language Processing**
   * [조경현 교수님 - 딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
-  * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-  
+  * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
 
 * **Azure 머신러닝**
@@ -80,6 +90,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [데이비드 실버 교수님 - 강화학습(영문)](https://www.davidsilver.uk/teaching/)
   * [팡요램 - 강화학습 개론(10강)](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
   * [팡요랩 - 쉽게구현하는 강화학습(2강)](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
+  * [T아카데미 - 강화학습 입문하기(season 1)](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
+  * [T아카데미 - 강화학습 입문하기(policy gradient)](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
+  
+* **데이터**
+  * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
 
 ## Blogs
 
@@ -87,6 +102,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 데이터분석, 머신러닝, 딥러닝 블로그 (제꺼)
   
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
+  - 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
 
 * [텐서 플로우 블로그](https://tensorflow.blog/)
   
@@ -105,6 +121,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
   * 자연어 처리 분야 뿐만 아니라, 다른 딥러닝 관련 글도 퀄리티가 높다. 다만, 이해에 조금 어려운 부분도 있다.
+  
+* [수아랩 이호성님 블로그](https://hoya012.github.io/)
+  * 수준 높은 논문을 정리한 글들이 많다. 논문 스터디에 대하여 요약된 글도 좋다.
 
 * [Team AI Korea](http://aikorea.org/blog/)
 
@@ -141,11 +160,15 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * Keras를 활용한 GAN구현
 
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
+  - DCGAN에 대한 Tutorial 
 
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
 
 * [미술관에 GAN 딥러닝](https://github.com/rickiepark/GDL_code)
   * GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
+  
+* [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
+  * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
 
 ## 웹사이트 (Web Sites)
 
@@ -153,6 +176,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
 * [AI Hub](http://www.aihub.or.kr/)
   - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
+* [Keras Examples](https://keras.io/examples/)
+  - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
   
 ## YouTube 채널
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
@@ -176,6 +201,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 해볼만한 Kaggle
 
+#### 입문자
+
+* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+  - 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
+* [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
+  - 자전저 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
+
 #### Vision (Image)
 
 * [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
@@ -191,6 +223,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
 * [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
 
+#### 음성
+
+* [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
 ## 오픈데이터
 
@@ -200,6 +235,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Appen](https://appen.com/resources/datasets/)
 * [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
 
+## 텐서플로우 자격증
+* [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/KBMQZy)
 
 ## 기타
 
