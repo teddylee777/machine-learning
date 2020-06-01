@@ -102,6 +102,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 데이터분석, 머신러닝, 딥러닝 블로그 (제꺼)
   
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
+  - 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
 
 * [텐서 플로우 블로그](https://tensorflow.blog/)
   
@@ -156,6 +157,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * Keras를 활용한 GAN구현
 
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
+  - DCGAN에 대한 Tutorial 
 
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
 
