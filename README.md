@@ -121,6 +121,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
   * 자연어 처리 분야 뿐만 아니라, 다른 딥러닝 관련 글도 퀄리티가 높다. 다만, 이해에 조금 어려운 부분도 있다.
+  
+* [수아랩 이호성님 블로그](https://hoya012.github.io/)
+  * 수준 높은 논문을 정리한 글들이 많다. 논문 스터디에 대하여 요약된 글도 좋다.
 
 * [Team AI Korea](http://aikorea.org/blog/)
 
