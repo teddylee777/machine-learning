@@ -179,6 +179,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Keras Examples](https://keras.io/examples/)
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
   
+* [Deep Note](https://deepnote.com/)
+  - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
+  
 ## YouTube 채널
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
   * 재미난 인공지능을 활용한 다양한 프로젝트를 진행해보고 풀이까지 쉽게 제공.
