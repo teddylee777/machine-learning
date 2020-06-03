@@ -6,8 +6,11 @@
 # website: http://jupyter.org/
 data/
 model/
+models/
 submission/
 tmp/
+images/
+pickle/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
