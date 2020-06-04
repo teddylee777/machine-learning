@@ -30,7 +30,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [기초 통계학 (유튜브) - 
 Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-ZNVWOhRdax1nroxFovUb)
   * 입문자도 알아듣기 쉽게 설명해주는 유튜브 재생목록 입니다.
-
+* [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
 
 * [Andrew Ng - Machine Learning by coursera](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
