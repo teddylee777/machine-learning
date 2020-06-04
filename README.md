@@ -27,6 +27,9 @@ This repository is intended for personal study in machine-learning
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
+* [기초 통계학 (유튜브) - 
+Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-ZNVWOhRdax1nroxFovUb)
+  * 입문자도 알아듣기 쉽게 설명해주는 유튜브 재생목록 입니다.
 
 
 * [Andrew Ng - Machine Learning by coursera](https://www.coursera.org/learn/machine-learning)
