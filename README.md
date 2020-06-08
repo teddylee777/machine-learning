@@ -198,6 +198,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## YouTube 채널
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
   * 재미난 인공지능을 활용한 다양한 프로젝트를 진행해보고 풀이까지 쉽게 제공.
+  
+* [한요섭님 - 딥러닝](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw)
+  * 논문에 대한 리뷰, 구현까지 쉽게 설명해주시는 강의형 영상이 있습니다.
 
 ## 논문 읽기 (YouTube)
 
