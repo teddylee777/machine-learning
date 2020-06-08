@@ -27,8 +27,6 @@ This repository is intended for personal study in machine-learning
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
-
-
 * [Andrew Ng - Machine Learning by coursera](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
 * [최성철 교수님 - TEAMLAB](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
@@ -95,6 +93,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * **데이터**
   * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
+  
+* **통계**  
+  * [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
+    * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
+  
+  * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
+
 
 ## Blogs
 
@@ -125,6 +130,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [수아랩 이호성님 블로그](https://hoya012.github.io/)
   * 수준 높은 논문을 정리한 글들이 많다. 논문 스터디에 대하여 요약된 글도 좋다.
 
+* [한국어 임베딩 깃험](https://ratsgo.github.io/embedding/)
+  * 한국어 임베딩 도서 튜토리얼 페이지. 한국어 자연어처리에 관심있는 분들은 한 번쯤 보시길.
+
 * [Team AI Korea](http://aikorea.org/blog/)
 
 * [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
@@ -137,6 +145,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 ## GitHub
+
+* [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+  * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
 
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
@@ -154,6 +165,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
+* [한국어 임베딩 깃험](https://github.com/ratsgo/embedding)
+  * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 데이터 셋을 다운로드 받을 수 있습니다.
 
 * [Keras GAN](https://github.com/osh/KerasGAN)
 
@@ -185,6 +198,12 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## YouTube 채널
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
   * 재미난 인공지능을 활용한 다양한 프로젝트를 진행해보고 풀이까지 쉽게 제공.
+  
+* [한요섭님 - 딥러닝](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw)
+  * 논문에 대한 리뷰, 구현까지 쉽게 설명해주시는 강의형 영상이 있습니다.
+  
+* [이유한님 - 캐글](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ)
+  * 캐글 커널 리뷰와 다양한 캐글 팁들을 알려주시는 영상으로 구성되어 있는 채널입니다.
 
 ## 논문 읽기 (YouTube)
 
@@ -199,8 +218,17 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## Facebook Groups
 
 * [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
+  * 텐서플로우 코리아
 * [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
+  * 파이토치 코리아
 * [Kaggle Korea](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)
+  * 캐글 코리아
+* [Recommender System KR](https://www.facebook.com/groups/2611614312273351/)
+  * 추천 시스템
+* [A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)
+  * 시각화
+* [AI Korea](https://www.facebook.com/groups/AIKoreaOpen/)
+  * AI 코리아
 
 ## 해볼만한 Kaggle
 
