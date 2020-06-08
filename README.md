@@ -145,6 +145,9 @@ Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-
 
 ## GitHub
 
+* [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+  * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
+
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
   * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
