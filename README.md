@@ -201,6 +201,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * [한요섭님 - 딥러닝](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw)
   * 논문에 대한 리뷰, 구현까지 쉽게 설명해주시는 강의형 영상이 있습니다.
+  
+* [이유한님 - 캐글](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ)
+  * 캐글 커널 리뷰와 다양한 캐글 팁들을 알려주시는 영상으로 구성되어 있는 채널입니다.
 
 ## 논문 읽기 (YouTube)
 
