@@ -94,10 +94,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **데이터**
   * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
   
-* [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
-  * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
+* **통계**  
+  * [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
+    * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
   
-* [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
+  * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
 
 
 ## Blogs
