@@ -132,6 +132,9 @@ Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-
 * [수아랩 이호성님 블로그](https://hoya012.github.io/)
   * 수준 높은 논문을 정리한 글들이 많다. 논문 스터디에 대하여 요약된 글도 좋다.
 
+* [한국어 임베딩 깃험](https://ratsgo.github.io/embedding/)
+  * 한국어 임베딩 도서 튜토리얼 페이지. 한국어 자연어처리에 관심있는 분들은 한 번쯤 보시길.
+
 * [Team AI Korea](http://aikorea.org/blog/)
 
 * [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
@@ -164,8 +167,8 @@ Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
-* [한국어 임베딩 깃험](https://ratsgo.github.io/embedding/)
-  * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 한국어 자연어처리에 관심있는 분들은 한 번쯤 보시길.
+* [한국어 임베딩 깃험](https://github.com/ratsgo/embedding)
+  * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 데이터 셋을 다운로드 받을 수 있습니다.
 
 * [Keras GAN](https://github.com/osh/KerasGAN)
 
