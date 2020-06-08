@@ -27,15 +27,6 @@ This repository is intended for personal study in machine-learning
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
-* [기초 통계학 (유튜브) - 
-Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-ZNVWOhRdax1nroxFovUb)
-  * 입문자도 알아듣기 쉽게 설명해주는 유튜브 재생목록 입니다.
-  
-* [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
-  * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
-  
-* [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
-
 * [Andrew Ng - Machine Learning by coursera](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
 * [최성철 교수님 - TEAMLAB](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
@@ -102,6 +93,12 @@ Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-
   
 * **데이터**
   * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
+  
+* [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
+  * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
+  
+* [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
+
 
 ## Blogs
 
@@ -214,8 +211,17 @@ Sapientia a Dei](https://www.youtube.com/watch?v=NG1ZNH1kOl0&list=PLalb9l0_6WAq-
 ## Facebook Groups
 
 * [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
+  * 텐서플로우 코리아
 * [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
+  * 파이토치 코리아
 * [Kaggle Korea](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)
+  * 캐글 코리아
+* [Recommender System KR](https://www.facebook.com/groups/2611614312273351/)
+  * 추천 시스템
+* [A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)
+  * 시각화
+* [AI Korea](https://www.facebook.com/groups/AIKoreaOpen/)
+  * AI 코리아
 
 ## 해볼만한 Kaggle
 
