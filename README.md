@@ -104,11 +104,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 블로그 (Blogs)
 
 * [테디노트](https://teddylee777.github.io/)
-  - 데이터분석, 머신러닝, 딥러닝 블로그 (제꺼)
+  - 데이터분석, 머신러닝, 딥러닝 블로그
   
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
   - 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
 
+* [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/01/09/Bayes_rule.html)
+  * 머신러닝, 딥러닝에 꼭 필요한 수학을 정리한 블로그
+  
 * [텐서 플로우 블로그](https://tensorflow.blog/)
   
 * [파이썬 킴](http://pythonkim.tistory.com/notice/25)
@@ -199,6 +202,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [점프 투 파이썬](https://wikidocs.net/book/1)
   * 파이썬을 책으로 배우고 싶다면!
   
+* [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
+  * 파이썬 기초 문법에 대한 300제 수록.
+  
 * [Machine Learning 강의노트](https://wikidocs.net/book/587)
   * Andrew Ng 교수님의 강의내용을 정리한 노트. 정말 잘 정리되어 있음.
   
@@ -206,7 +212,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * PyTorch를 위키독스로 배우고 싶다면
   
 * [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
-  * 자연어 처리 위키독스 (텐서플로우)
+  * 자연어 처리 위키독스 (텐서플로우).
+  
+* [딥 러닝을 이용한 자연어 처리 심화](https://wikidocs.net/book/2159)
+  * 조경현 교수님의 강의를 정리한 노트.
   
 * [파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)
   * 증권사 연동 API를 활용한 트레이딩을 가능하게 해주는 파이썬 Wiki!
