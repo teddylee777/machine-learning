@@ -23,7 +23,7 @@ This repository is intended for personal study in machine-learning
 
 -----
 
-## Video Lectures
+## 동영상 강의 (Video Lectures)
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
@@ -59,7 +59,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 
-## By Subjects
+## 주제별 강의 (By Subjects)
 
 * **Back Propagation**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
@@ -101,7 +101,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
 
 
-## Blogs
+## 블로그 (Blogs)
 
 * [테디노트](https://teddylee777.github.io/)
   - 데이터분석, 머신러닝, 딥러닝 블로그 (제꺼)
@@ -144,7 +144,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Colah's Blog (영문)](http://colah.github.io/)
 
 
-## GitHub
+## 깃헙 저장소 (GitHub)
 
 * [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
   * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
@@ -195,10 +195,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
   
-## 위키독스 (WikiDocs)
+## 위키독스 (Wiki Docs)
 * [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   
-## YouTube 채널
+## 유튜브 채널 (YouTube Channel)
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
   * 재미난 인공지능을 활용한 다양한 프로젝트를 진행해보고 풀이까지 쉽게 제공.
   
@@ -218,7 +218,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [딥러닝 논문 읽기 모임](https://www.youtube.com/channel/UCDULrK2OJsiDhFroa2Aj_LQ)
 
-## Facebook Groups
+## 페이스북 그룹 (Facebook Groups)
 
 * [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
   * 텐서플로우 코리아
@@ -233,7 +233,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [AI Korea](https://www.facebook.com/groups/AIKoreaOpen/)
   * AI 코리아
 
-## 해볼만한 Kaggle
+## 해볼만한 캐글 (Kaggle)
 
 #### 입문자
 
