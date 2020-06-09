@@ -199,6 +199,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [점프 투 파이썬](https://wikidocs.net/book/1)
   * 파이썬을 책으로 배우고 싶다면!
   
+* [Machine Learning 강의노트](https://wikidocs.net/book/587)
+  * Andrew Ng 교수님의 강의내용을 정리한 노트. 정말 잘 정리되어 있음.
+  
 * [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
   * PyTorch를 위키독스로 배우고 싶다면
   
@@ -210,6 +213,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)
   * 하둡, 하이브에 대한 내용 수록
+* [빅데이터 - 스칼라(scala), 스파크(spark)로 시작하기](https://wikidocs.net/book/2350)
+  * 스칼라, 스파크를 배우고 싶다면
   
 ## 유튜브 채널 (YouTube Channel)
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
