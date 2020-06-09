@@ -196,7 +196,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
   
 ## 위키독스 (Wiki Docs)
+* [점프 투 파이썬](https://wikidocs.net/book/1)
+  * 파이썬을 책으로 배우고 싶다면!
+  
+* [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
+  * PyTorch를 위키독스로 배우고 싶다면
+  
 * [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+  * 자연어 처리 위키독스 (텐서플로우)
+  
+* [파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)
+  * 증권사 연동 API를 활용한 트레이딩을 가능하게 해주는 파이썬 Wiki!
+  
+* [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)
+  * 하둡, 하이브에 대한 내용 수록
   
 ## 유튜브 채널 (YouTube Channel)
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
