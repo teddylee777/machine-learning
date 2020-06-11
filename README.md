@@ -150,6 +150,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Colah's Blog (영문)](http://colah.github.io/)
 
+* [강화학습 정리 - 오태호님](https://teamdable.github.io/techblog/Reinforcement-Learning)
+
 
 ## 깃헙 저장소 (GitHub)
 
