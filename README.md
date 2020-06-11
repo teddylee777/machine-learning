@@ -19,7 +19,7 @@ This repository is intended for personal study in machine-learning
 
 **기여 (Contributor)**
 
-더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요! (조건 없는 Merge!)
+더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
 -----
 
@@ -136,6 +136,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [한국어 임베딩 깃험](https://ratsgo.github.io/embedding/)
   * 한국어 임베딩 도서 튜토리얼 페이지. 한국어 자연어처리에 관심있는 분들은 한 번쯤 보시길.
+  
+* [추천 시스템 - 알고리즘 트렌드 정리](https://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
+  * 추천 시스템 알고리즘 트렌드에 대하여 자세히 정리된 블로그
 
 * [Team AI Korea](http://aikorea.org/blog/)
 
@@ -195,7 +198,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
 * [Keras Examples](https://keras.io/examples/)
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
-  
+* [자연어처리 100제](https://nlp100.github.io/ko/)
+  - 자연어 처리 관련된 문제 100제를 풀어보는 사이트
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
   
