@@ -45,6 +45,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
 
   * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
+  
+* [허민석님 - Minsuk Heo](https://www.youtube.com/channel/UCxP77kNgVfiiG6CXZ5WMuAQ)
+  * 딥러닝 관련 영상들이 많이 게재되어 있으며, 깔끔한 PPT와 쉽고 간결한 설명의 강의 영상들이 많다.
 
 * [Mathematical Monk Youtube(영문)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
   * 딥러닝에 관련된 수학을 굉장히 쉽게 풀어놓은 유튜브.
