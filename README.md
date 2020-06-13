@@ -99,6 +99,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
     * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
   
   * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
+  
+  
 
 
 ## 블로그 (Blogs)
@@ -278,6 +280,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
 * [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
   - 자전저 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
+* [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview/evaluation)
+  - 신용 불량에 대한 리스크 예측 대회 (ROC-AUC)
+* [House Prices: Advanced Regression Technique](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+  - 집값 예측 대회 (회귀 예측)
 
 #### Vision (Image)
 
