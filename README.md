@@ -102,7 +102,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
   * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG)
   
-  
+* **수학**
+  * [공돌이의 수학정리노트](https://www.youtube.com/user/AngeloYeo/)
+    * 공돌이의 수학정리노트 블로그에 이은, 쉽게 설명하는 수학 강의 영상 채널.
 
 
 ## 블로그 (Blogs)
