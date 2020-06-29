@@ -183,6 +183,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [자연어 처리 실무 깃헙 - 김웅곤님](https://github.com/kimwoonggon/publicservant_AI)
   * BERT, Transformer등 실무 코딩을 다룹니다. (colab 파일 제공)
 
+* [국민은행 - KB-ALBERT-KO](https://github.com/KB-Bank-AI/KB-ALBERT-KO)
+  * 국민은행에서 공개한 한글 ALBERT 모델
+
 * [Keras GAN](https://github.com/osh/KerasGAN)
 
   * Keras를 활용한 GAN구현
