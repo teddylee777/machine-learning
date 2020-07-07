@@ -205,7 +205,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
 
 ## 웹사이트 (Web Sites)
-
+* [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+  - 10분안에 빠르게 끝내는 판다스 훓어보기 (주요 api 위주로 진행하는 튜토리얼)
+* [20 minutes to matplotlib](https://www.tutorialdocs.com/article/python-matplotlib-tutorial.html)
+  - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
 * [AI Hub](http://www.aihub.or.kr/)
