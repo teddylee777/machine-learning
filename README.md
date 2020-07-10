@@ -97,7 +97,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [T아카데미 - 강화학습 입문하기(season 1)](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [T아카데미 - 강화학습 입문하기(policy gradient)](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
   
-* **데이터**
+* **정형데이터**
+  * [정형데이터 분석 노하우](https://www.youtube.com/watch?v=9NKGaJxcrsM&list=PL9mhQYIlKEhcaivg3ltnx3DS49AAIc3qv)
+    * 캐글, 데이콘 대회 (정형 데이터) 분석 노하우, 접근 방법에 대한 강의 입니다
+  
+* **데이터베이스**
   * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
   
 * **통계**  
@@ -248,6 +252,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 스칼라, 스파크를 배우고 싶다면
   
 ## 유튜브 채널 (YouTube Channel)
+* [SKPlanet TAcademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
+  * 인공지능 강의 뿐만아니라 테크 분야의 다양한 분야의 정말 좋은 강의를 무료로 제공합니다.
+  
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
   * 재미난 인공지능을 활용한 다양한 프로젝트를 진행해보고 풀이까지 쉽게 제공.
   
