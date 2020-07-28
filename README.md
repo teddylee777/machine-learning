@@ -200,6 +200,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [국민은행 - KB-ALBERT-KO](https://github.com/KB-Bank-AI/KB-ALBERT-KO)
   * 국민은행에서 공개한 한글 ALBERT 모델
+  
+* [카카오 Khaiii 형태소 분석기](https://github.com/kakao/khaiii)
+  * 카카오에서 개발한 형태소 분석기 (Khaiii) 공식 깃헙
 
 * [Keras GAN](https://github.com/osh/KerasGAN)
 
