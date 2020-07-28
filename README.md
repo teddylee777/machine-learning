@@ -280,6 +280,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * [공돌이의 수학정리노트](https://www.youtube.com/user/AngeloYeo/)
   * 공돌이의 수학정리노트 블로그에 이은, 쉽게 설명하는 수학 강의 영상 채널.
+  
+* [혁펜하임](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
+  * 머신러닝, 딥러닝 관련 강의를 재밌고, 이해 하기 쉽게 설명하는 유튜브 채널
 
 ## 논문 읽기 (YouTube)
 
