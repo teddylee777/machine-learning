@@ -23,32 +23,32 @@ This repository is intended for personal study in machine-learning
 
 -----
 
-## 동영상 강의 (Video Lectures)
+
+
+## 동영상 강의 묶음, 재생목록 (Video Lectures)
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
-
 * [Andrew Ng - Machine Learning by coursera](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
 * [최성철 교수님 - TEAMLAB](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
   * 머신러닝 스터디에 본격적으로 들어가기에 앞서 "데이터 과학을 위한 파이썬 입문" 추천. 다만 강의는 **유료** (3만 3천원)
 * [김성훈 교수님 - 모두를 위한 딥러닝 시즌 1 (Tensorflow)](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * 입문용으로 최고의 강의임. tensorflow와 익숙하지 않아도 예제를 보면서 차근 차근 따라할 수 있음.
+* [고등학교 수학만 알면 따라할 수 있는 인공지능, 머신러닝, 딥러닝 - 바람님](https://www.youtube.com/watch?v=-JWv0ed9R5g&list=PLsS-TVNjbU7clDOjpAZKud3uG8APHDq_M)
+  * 바람님께서 유튜브 채널에 공개한 딥러닝 오픈 강의. 입문자도 이해하기 쉽게 설명.
 * [딥러닝 홀로서기 - Idea Factory KAIST](https://www.youtube.com/watch?v=hPXeVHdIdmw&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
   * 입문용으로 딥러닝에 대한 전반적인 이해를 위한 강의. 강의별 코드도 제공
-
 * [Stanford - CS231n (영문)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   * 영어로 진행되는 강좌. 영어가 익숙하다면 제일 먼저 이 강의를 듣고 개념을 정리하는 것을 추천.
-  
 * [박조은님 - 캐글실습으로 배우는 데이터사이언스](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
   * 입문자를 위하여 이해하기 쉽게 설명해주는 강의이며, 캐글을 경험하지 못한 분들은 입문용 강의로 추천.
-
 * [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
 
   * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
- 
+
 
 * [Mathematical Monk Youtube(영문)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
   * 딥러닝에 관련된 수학을 굉장히 쉽게 풀어놓은 유튜브.
@@ -65,31 +65,59 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 
-## 주제별 강의 (By Subjects)
+# 주제별 (By Subjects)
 
-* **Back Propagation**
+## 통계 (Statistics)
+
+**통계 종합**  
+
+* [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
+  * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
+* [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG) 
+
+**p-value**
+
+* [P-값(p-value)는 무엇인가? - Sapientia a Dei님](https://www.youtube.com/watch?v=5Xke4ao1g9E)
+* [P-Value - 김성범 교수님](https://www.youtube.com/watch?v=tpow70KGTYY&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=4)
+
+**가설**
+
+* [가설검정 (가설검정과 유의수준) - 노경섭님](https://www.youtube.com/watch?v=zcfMEcN1srY)
+
+## 머신러닝 (Machine Learning)
+
+* **경사하강법 (Gradient Descent)**
+  * [경사하강법 기본 개념 (수학편) - 이경록님](https://www.youtube.com/watch?v=GEdLNvPIbiM)
+  * [경사하강법 파이썬 코드로 구현 - 이경록님](https://youtu.be/KgH3ZWmMxLE)
+  * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
+
+* **오차 역전파 (Back Propagation)**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
   * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
-
-* **Loss Functions and Optimization**
+* **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+
+* **선형회귀 (Linear Regression)**
+  * [Linear Regression(선형회귀) 이해하기 - 허민석님](https://www.youtube.com/watch?v=MwadQ74iE-k&list=PLTjDXCqLsHZcnBBYcXhg-juYX-25iRusr)
+* **Support Vector Machine (SVM)**
+  * [SVM 모델 (1) - 김성범 교수님](https://www.youtube.com/watch?v=qFg8cDnqYCI&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=9)
+  * [SVM 모델 (2) - 김성범 교수님](https://www.youtube.com/watch?v=ltjhyLkHMls&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=8)
+* **군집 (Clustering)**
+  * [군집분석 개론 - 김성범 교수님](https://www.youtube.com/watch?v=8zB-_LrAraw&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j)
+
+## 딥러닝 (Deep Learning)
 
 * **Convolution Neural Networks (CNN)**
   * [Stanford - CS231n - Convolution Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=5)
-
-* **Recurrent Neural Networks**
+  * [CNN의 효율성: Stride와 MaxPooling - 혁펜하임님](https://youtu.be/sPf0iaOzYaY)
+* **Recurrent Neural Networks (RNN)**
   * [Stanford - CS231n - Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=10)
   * [Programming LSTM with Keras and TensorFlow](https://www.youtube.com/watch?v=UnclHXZszpw&t=572s)
-
-* **Natural Language Processing**
+* **자연어 처리 (Natural Language Processing)**
   * [조경현 교수님 - 딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
   * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
-
-* **Azure 머신러닝**
-  * [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
-
 * **강화학습 (Reinforcement Learning)**
   * [김성훈 교수님 - 강화학습](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
   * [데이비드 실버 교수님 - 강화학습(영문)](https://www.davidsilver.uk/teaching/)
@@ -97,19 +125,65 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [팡요랩 - 쉽게구현하는 강화학습(2강)](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
   * [T아카데미 - 강화학습 입문하기(season 1)](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [T아카데미 - 강화학습 입문하기(policy gradient)](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
-  
-* **정형데이터**
-  * [정형데이터 분석 노하우](https://www.youtube.com/watch?v=9NKGaJxcrsM&list=PL9mhQYIlKEhcaivg3ltnx3DS49AAIc3qv)
-    * 캐글, 데이콘 대회 (정형 데이터) 분석 노하우, 접근 방법에 대한 강의 입니다
-  
-* **데이터베이스**
-  * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
-  
-* **통계**  
-  * [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
-    * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
-  
-  * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG) 
+
+
+
+## 기타 (Others)
+
+**Azure 머신러닝**
+
+* [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
+
+**데이터베이스**
+
+* [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
+
+
+
+## 캐글 & 데이콘
+
+### 강의
+
+**정형데이터**
+
+* [정형데이터 분석 노하우](https://www.youtube.com/watch?v=9NKGaJxcrsM&list=PL9mhQYIlKEhcaivg3ltnx3DS49AAIc3qv)
+  * 캐글, 데이콘 대회 (정형 데이터) 분석 노하우, 접근 방법에 대한 강의
+
+
+
+### 캐글 & 데이콘 대회 분류
+
+**입문 (For Beginners)**
+
+* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+  - 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
+* [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
+  - 자전저 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
+* [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview/evaluation)
+  - 신용 불량에 대한 리스크 예측 대회 (ROC-AUC)
+* [House Prices: Advanced Regression Technique](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+  - 집값 예측 대회 (회귀 예측)
+
+**비전 (Vision)**
+
+* [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+* [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
+* [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
+* [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition)
+* [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)
+
+**시계열 (Time Series)**
+
+* [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+* [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+* [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
+* [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+
+**음성**
+
+* [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
+
+
 
 
 ## 블로그 (Blogs)
@@ -164,63 +238,53 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [강화학습 정리 - 오태호님](https://teamdable.github.io/techblog/Reinforcement-Learning)
 
 
+
 ## 깃헙 저장소 (GitHub)
+
 * [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
   * 파이썬을 배우기 위한 서적 연습문제 및 예제 소스 제공
-  
 * [모두의 딥러닝 개정2판 - 길벗출판사](https://github.com/gilbutITbook/080228)
   * 모두의 딥러닝 연습문제 및 예제 소스 제공
-  
 * [머신러닝을 다루는 기술 with 파이썬, 사이킷럿 (2020)](https://github.com/gilbutITbook/007017)
   * 서적의 연습문제 및 예제 소스 제공
-  
+* [deepLearningOpenLecture - 바람님](https://github.com/eventia/deepLearningOpenLecture)
+  * 유튜브 채널 바람님의 딥러닝 강의 실습 파일 깃헙
 * [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
   * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
-
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
   * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
-
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
-
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
-
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
-
 * [텐서플로우 공식 깃헙(한글)](https://github.com/tensorflow/docs-l10n/tree/master/site/ko)
   * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
-
 * [최성준님의 깃헙](https://github.com/sjchoi86)
 
   * tensorflow를 활용한 많은 튜토리얼이 있음
 * [한국어 임베딩 깃험](https://github.com/ratsgo/embedding)
   * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 데이터 셋을 다운로드 받을 수 있습니다.
-  
 * [자연어 처리 실무 깃헙 - 김웅곤님](https://github.com/kimwoonggon/publicservant_AI)
   * BERT, Transformer등 실무 코딩을 다룹니다. (colab 파일 제공)
-
 * [국민은행 - KB-ALBERT-KO](https://github.com/KB-Bank-AI/KB-ALBERT-KO)
   * 국민은행에서 공개한 한글 ALBERT 모델
-  
 * [카카오 Khaiii 형태소 분석기](https://github.com/kakao/khaiii)
   * 카카오에서 개발한 형태소 분석기 (Khaiii) 공식 깃헙
-
 * [Keras GAN](https://github.com/osh/KerasGAN)
 
   * Keras를 활용한 GAN구현
-
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
   - DCGAN에 대한 Tutorial 
-
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
-
 * [미술관에 GAN 딥러닝](https://github.com/rickiepark/GDL_code)
   * GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
-  
 * [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
   * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
 
+
+
 ## 웹사이트 (Web Sites)
+
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
   - 10분안에 빠르게 끝내는 판다스 훓어보기 (주요 api 위주로 진행하는 튜토리얼)
 * [20 minutes to matplotlib](https://www.tutorialdocs.com/article/python-matplotlib-tutorial.html)
@@ -236,7 +300,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
   
+
+
+
 ## 위키독스 (Wiki Docs)
+
 * [점프 투 파이썬](https://wikidocs.net/book/1)
   * 파이썬을 책으로 배우고 싶다면!
   
@@ -263,7 +331,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [빅데이터 - 스칼라(scala), 스파크(spark)로 시작하기](https://wikidocs.net/book/2350)
   * 스칼라, 스파크를 배우고 싶다면
   
+
+
+
 ## 유튜브 채널 (YouTube Channel)
+
 * [SKPlanet TAcademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
   * 인공지능 강의 뿐만아니라 테크 분야의 다양한 분야의 정말 좋은 강의를 무료로 제공합니다.
   
@@ -309,38 +381,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 시각화
 * [AI Korea](https://www.facebook.com/groups/AIKoreaOpen/)
   * AI 코리아
-
-## 해볼만한 캐글 (Kaggle)
-
-#### 입문자
-
-* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-  - 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
-* [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
-  - 자전저 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
-* [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview/evaluation)
-  - 신용 불량에 대한 리스크 예측 대회 (ROC-AUC)
-* [House Prices: Advanced Regression Technique](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-  - 집값 예측 대회 (회귀 예측)
-
-#### Vision (Image)
-
-* [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
-* [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
-* [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
-* [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition)
-* [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)
-
-#### 시계열 (Time Series)
-
-* [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
-* [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
-* [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
-* [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
-
-#### 음성
-
-* [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
 ## 오픈데이터
 
