@@ -70,6 +70,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **Back Propagation**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
+  * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
 
 * **Loss Functions and Optimization**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
