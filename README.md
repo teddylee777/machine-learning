@@ -31,37 +31,35 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
-* [Andrew Ng - Machine Learning by coursera](https://www.coursera.org/learn/machine-learning)
+* [Machine Learning by coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
-* [최성철 교수님 - TEAMLAB](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
+* [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
   * 머신러닝 스터디에 본격적으로 들어가기에 앞서 "데이터 과학을 위한 파이썬 입문" 추천. 다만 강의는 **유료** (3만 3천원)
-* [김성훈 교수님 - 모두를 위한 딥러닝 시즌 1 (Tensorflow)](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* [모두를 위한 딥러닝 시즌 1 (Tensorflow) - 김성훈 교수님](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * 입문용으로 최고의 강의임. tensorflow와 익숙하지 않아도 예제를 보면서 차근 차근 따라할 수 있음.
 * [고등학교 수학만 알면 따라할 수 있는 인공지능, 머신러닝, 딥러닝 - 바람님](https://www.youtube.com/watch?v=-JWv0ed9R5g&list=PLsS-TVNjbU7clDOjpAZKud3uG8APHDq_M)
   * 바람님께서 유튜브 채널에 공개한 딥러닝 오픈 강의. 입문자도 이해하기 쉽게 설명.
 * [딥러닝 홀로서기 - Idea Factory KAIST](https://www.youtube.com/watch?v=hPXeVHdIdmw&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
   * 입문용으로 딥러닝에 대한 전반적인 이해를 위한 강의. 강의별 코드도 제공
-* [Stanford - CS231n (영문)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+* [CS231n (영문) - Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   * 영어로 진행되는 강좌. 영어가 익숙하다면 제일 먼저 이 강의를 듣고 개념을 정리하는 것을 추천.
-* [박조은님 - 캐글실습으로 배우는 데이터사이언스](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
+* [캐글실습으로 배우는 데이터사이언스 - 박조은님](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
   * 입문자를 위하여 이해하기 쉽게 설명해주는 강의이며, 캐글을 경험하지 못한 분들은 입문용 강의로 추천.
-* [Udacity - Deep Learning by GOOGLE](https://www.udacity.com/course/deep-learning--ud730)
-
-  * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
+* [Deep Learning by GOOGLE - Udacity](https://www.udacity.com/course/deep-learning--ud730)
+* 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
 
 
 * [Mathematical Monk Youtube(영문)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
   * 딥러닝에 관련된 수학을 굉장히 쉽게 풀어놓은 유튜브.
 
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+* 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
+  
+* [Pytorch Zero To All (영문) - 김성훈 교수님](<https://youtu.be/SKq-pmkekTk>)
 
-  * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
+* [모두를 위한 RL강좌 - 김성훈 교수님](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
-* [김성훈 교수님 - Pytorch Zero To All (영문)](<https://youtu.be/SKq-pmkekTk>)
-
-* [김성훈 교수님 - 모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
-
-* [최성준님 - 논문으로 시작하는 딥러닝](https://www.edwith.org/deeplearningchoi)
+* [논문으로 시작하는 딥러닝 - 최성준님](https://www.edwith.org/deeplearningchoi)
 
 
 
@@ -137,20 +135,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **강화학습 (Reinforcement Learning)**
   * [강화학습 - 김성훈 교수님](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
   * [강화학습(영문) - 데이비드 실버 교수님](https://www.davidsilver.uk/teaching/)
-  * [팡요램 - 강화학습 개론(10강)](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
-  * [팡요랩 - 쉽게구현하는 강화학습(2강)](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
-  * [T아카데미 - 강화학습 입문하기(season 1)](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
-  * [T아카데미 - 강화학습 입문하기(policy gradient)](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
+  * [강화학습 개론(10강) - 팡요랩](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
+  * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
+  * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
+  * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
 
 
 
 ## 기타 (Others)
 
 * **Azure 머신러닝**
-  * [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
+  * [Azure 머신러닝 - 퇴근후딴짓](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 
 * **데이터베이스**
-  * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
+  * [RDBMS와 SQL 맛보기 - T아카데미](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
 
 
 
@@ -160,7 +158,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **정형데이터**
 
-* [정형데이터 분석 노하우](https://www.youtube.com/watch?v=9NKGaJxcrsM&list=PL9mhQYIlKEhcaivg3ltnx3DS49AAIc3qv)
+* [정형데이터 분석 노하우 - T아카데미](https://www.youtube.com/watch?v=9NKGaJxcrsM&list=PL9mhQYIlKEhcaivg3ltnx3DS49AAIc3qv)
   * 캐글, 데이콘 대회 (정형 데이터) 분석 노하우, 접근 방법에 대한 강의
 
 
