@@ -73,13 +73,22 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
     * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
   * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG) 
+  * [통계 공식과 개념들 한번에 총정리 해드립니다. (이산확률분포, 이항분포, 연속확률분포, 확률밀도함수, 표준정규분포, 표준화공식, 임의추출, 표본평균, 통계적추정, 모평균의추정) - 알고리즘성남학원](https://www.youtube.com/watch?v=CQA7cdxozHY)
 
 * **p-value**
   * [P-값(p-value)는 무엇인가? - Sapientia a Dei님](https://www.youtube.com/watch?v=5Xke4ao1g9E)
   * [P-Value - 김성범 교수님](https://www.youtube.com/watch?v=tpow70KGTYY&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=4)
 
 * **가설**
+
   * [가설검정 (가설검정과 유의수준) - 노경섭님](https://www.youtube.com/watch?v=zcfMEcN1srY)
+
+* **분포**
+
+  * [정규분포 (Normal Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
+  * [일양분포 (Uniform Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=6xonZUbFSZ8)
+
+  
 
 ## 머신러닝 (Machine Learning)
 
@@ -87,19 +96,29 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [경사하강법 기본 개념 (수학편) - 이경록님](https://www.youtube.com/watch?v=GEdLNvPIbiM)
   * [경사하강법 파이썬 코드로 구현 - 이경록님](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
-
 * **오차 역전파 (Back Propagation)**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
   * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
+  * [인공지능을 위한 머신러닝 알고리즘 7강 역전파](https://www.youtube.com/watch?v=kHUvoNX8fsE)
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-
 * **선형회귀 (Linear Regression)**
   * [Linear Regression(선형회귀) 이해하기 - 허민석님](https://www.youtube.com/watch?v=MwadQ74iE-k&list=PLTjDXCqLsHZcnBBYcXhg-juYX-25iRusr)
+* **Norm (L1 & L2)**
+  * [Norm (L1, L2) - 허민석 님](https://www.youtube.com/watch?v=yoD5tQ1HQRU)
+
+* **Lasso, Ridge, ElasticNet**
+  * [정규화 모델2 - LASSO, Elastic Net - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
 * **Support Vector Machine (SVM)**
   * [SVM 모델 (1) - 김성범 교수님](https://www.youtube.com/watch?v=qFg8cDnqYCI&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=9)
   * [SVM 모델 (2) - 김성범 교수님](https://www.youtube.com/watch?v=ltjhyLkHMls&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=8)
+* **로지스틱 회귀(Logistic Regression)**
+  * [로지스틱회귀모델 1 (로지스틱함수, 승산) - 김성범 교수님](https://www.youtube.com/watch?v=l_8XEj2_9rk)
+  * [로지스틱회귀모델 2 (파라미터 추정, 해석) - 김성범 교수님](https://www.youtube.com/watch?v=Vh_7QttroGM)
+* **차원축소**
+  * [PCA 차원 축소 알고리즘 및 파이썬 구현 - 허민석 님](https://www.youtube.com/watch?v=DUJ2vwjRQag)
+  * [Principal Component Analysis (PCA, 주성분 분석) - 김성범 교수님](https://www.youtube.com/watch?v=FhQm2Tc8Kic)
 * **군집 (Clustering)**
   * [군집분석 개론 - 김성범 교수님](https://www.youtube.com/watch?v=8zB-_LrAraw&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j)
 
