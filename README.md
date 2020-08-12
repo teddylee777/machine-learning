@@ -69,20 +69,17 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 통계 (Statistics)
 
-**통계 종합**  
+* **통계 종합**
+  * [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
+    * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
+  * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG) 
 
-* [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
-  * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
-* [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG) 
+* **p-value**
+  * [P-값(p-value)는 무엇인가? - Sapientia a Dei님](https://www.youtube.com/watch?v=5Xke4ao1g9E)
+  * [P-Value - 김성범 교수님](https://www.youtube.com/watch?v=tpow70KGTYY&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=4)
 
-**p-value**
-
-* [P-값(p-value)는 무엇인가? - Sapientia a Dei님](https://www.youtube.com/watch?v=5Xke4ao1g9E)
-* [P-Value - 김성범 교수님](https://www.youtube.com/watch?v=tpow70KGTYY&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=4)
-
-**가설**
-
-* [가설검정 (가설검정과 유의수준) - 노경섭님](https://www.youtube.com/watch?v=zcfMEcN1srY)
+* **가설**
+  * [가설검정 (가설검정과 유의수준) - 노경섭님](https://www.youtube.com/watch?v=zcfMEcN1srY)
 
 ## 머신러닝 (Machine Learning)
 
@@ -130,13 +127,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 기타 (Others)
 
-**Azure 머신러닝**
+* **Azure 머신러닝**
+  * [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 
-* [퇴근후딴짓 - Azure 머신러닝](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
-
-**데이터베이스**
-
-* [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
+* **데이터베이스**
+  * [T아카데미 - RDBMS와 SQL 맛보기](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
 
 
 
