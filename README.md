@@ -43,8 +43,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 입문용으로 딥러닝에 대한 전반적인 이해를 위한 강의. 강의별 코드도 제공
 * [CS231n (영문) - Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   * 영어로 진행되는 강좌. 영어가 익숙하다면 제일 먼저 이 강의를 듣고 개념을 정리하는 것을 추천.
-* [캐글실습으로 배우는 데이터사이언스 - 박조은님](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
+* [캐글실습으로 배우는 데이터사이언스 - 오늘코드](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
   * 입문자를 위하여 이해하기 쉽게 설명해주는 강의이며, 캐글을 경험하지 못한 분들은 입문용 강의로 추천.
+* [청와대 국민청원 데이터로 파이썬 자연어처리 입문하기 - 오늘코드](https://www.youtube.com/watch?v=9QW7QL8fvv0&list=PLaTc2c6yEwmrtV81ehjOI0Y8Y-HR6GN78)
 * [Deep Learning by GOOGLE - Udacity](https://www.udacity.com/course/deep-learning--ud730)
 * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
 
@@ -103,17 +104,22 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
   * [Linear Regression(선형회귀) 이해하기 - 허민석님](https://www.youtube.com/watch?v=MwadQ74iE-k&list=PLTjDXCqLsHZcnBBYcXhg-juYX-25iRusr)
+  * [선형과 비선형의 차이 - 허민석님](https://www.youtube.com/watch?v=umiqnfQxlac)
 * **Norm (L1 & L2)**
   * [Norm (L1, L2) - 허민석 님](https://www.youtube.com/watch?v=yoD5tQ1HQRU)
-
 * **Lasso, Ridge, ElasticNet**
   * [정규화 모델2 - LASSO, Elastic Net - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
 * **Support Vector Machine (SVM)**
   * [SVM 모델 (1) - 김성범 교수님](https://www.youtube.com/watch?v=qFg8cDnqYCI&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=9)
   * [SVM 모델 (2) - 김성범 교수님](https://www.youtube.com/watch?v=ltjhyLkHMls&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=8)
+* **KNN (K-Nearest Neighbors)**
+  * [kNN(k-Nearest Neighbors) 최근접 이웃 알고리즘 - 허민석님](https://www.youtube.com/watch?v=CyuI2F_wJWw)
 * **로지스틱 회귀(Logistic Regression)**
   * [로지스틱회귀모델 1 (로지스틱함수, 승산) - 김성범 교수님](https://www.youtube.com/watch?v=l_8XEj2_9rk)
   * [로지스틱회귀모델 2 (파라미터 추정, 해석) - 김성범 교수님](https://www.youtube.com/watch?v=Vh_7QttroGM)
+* **의사결정나무(Decision Tree)**
+  * [의사결정나무모델 1 (모델개요, 예측나무) - 김성범 교수님](https://www.youtube.com/watch?v=xki7zQDf74I)
+  * [의사결정트리 (Decision Tree) 알고리즘 쉽게 이해하기 - 허민석님](https://www.youtube.com/watch?v=n0p0120Gxqk)
 * **차원축소**
   * [PCA 차원 축소 알고리즘 및 파이썬 구현 - 허민석 님](https://www.youtube.com/watch?v=DUJ2vwjRQag)
   * [Principal Component Analysis (PCA, 주성분 분석) - 김성범 교수님](https://www.youtube.com/watch?v=FhQm2Tc8Kic)
