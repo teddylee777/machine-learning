@@ -29,12 +29,28 @@ This repository is intended for personal study in machine-learning
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
+**파이썬 (Python)**
+
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
+* [파이썬 강좌 코딩 기초 강의 Python | 김왼속의 왼손코딩](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=1)
+
+**수학 (Mathmatics) & 통계 (Statistics)**
+
+* [선형대수 기초 - 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Mathematical Monk Youtube(영문)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+  * 딥러닝에 관련된 수학을 굉장히 쉽게 풀어놓은 유튜브.
+* [딥러닝을 위한 선형대수학 - 올바른 수학교육 연구소](https://www.youtube.com/watch?v=4xJOapwJFkg&list=PLi40YkwlJ5DnK4DTM4Fen6oZWiEBtFQe0)
+* [딥러닝 수학 강의 - 모두의연구소 Chanwoo Timothy Lee 님](https://www.youtube.com/watch?v=E6Dqu4THRu8&list=PLR4XxpTBVXGhnPS8zauclk12WyXotQktG)
+  * 직접 손글씨로 딥러닝 수학의 원리를 이해하는데 도움이 되는 강의
+
+**머신러닝 (Machine Learning) & 딥러닝 (Deep Learning)**
+
 * [Machine Learning by coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
 * [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
   * 머신러닝 스터디에 본격적으로 들어가기에 앞서 "데이터 과학을 위한 파이썬 입문" 추천. 다만 강의는 **유료** (3만 3천원)
+
 * [모두를 위한 딥러닝 시즌 1 (Tensorflow) - 김성훈 교수님](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * 입문용으로 최고의 강의임. tensorflow와 익숙하지 않아도 예제를 보면서 차근 차근 따라할 수 있음.
 * [고등학교 수학만 알면 따라할 수 있는 인공지능, 머신러닝, 딥러닝 - 바람님](https://www.youtube.com/watch?v=-JWv0ed9R5g&list=PLsS-TVNjbU7clDOjpAZKud3uG8APHDq_M)
@@ -47,11 +63,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 입문자를 위하여 이해하기 쉽게 설명해주는 강의이며, 캐글을 경험하지 못한 분들은 입문용 강의로 추천.
 * [청와대 국민청원 데이터로 파이썬 자연어처리 입문하기 - 오늘코드](https://www.youtube.com/watch?v=9QW7QL8fvv0&list=PLaTc2c6yEwmrtV81ehjOI0Y8Y-HR6GN78)
 * [Deep Learning by GOOGLE - Udacity](https://www.udacity.com/course/deep-learning--ud730)
-* 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
+  * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
 
-
-* [Mathematical Monk Youtube(영문)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
-  * 딥러닝에 관련된 수학을 굉장히 쉽게 풀어놓은 유튜브.
 
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
@@ -66,6 +79,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 # 주제별 (By Subjects)
 
+## 수학 (Mathmatics)
+
+* **미분**
+  * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
+  * [머신러닝/딥러닝 수학 입문 2강 - 미분 | T아카데미](https://www.youtube.com/watch?v=JQe7S-gOElk&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=3)
+* **유사도**
+  * [컴퓨터가 두 데이터(이미지 혹은 자연어)의 유사성을 측정하는 방법: 유클리드 거리, 코사인 유사도 - 동빈나님](https://www.youtube.com/watch?v=EGEQutnxjDU&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=5)
+* **선형대수**
+  * [머신러닝/딥러닝 수학 입문 4강 - 선형대수 | T아카데미](https://www.youtube.com/watch?v=0PhFyQyii7Q&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=5)
+
 ## 통계 (Statistics)
 
 * **통계 종합**
@@ -73,25 +96,33 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
     * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
   * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG) 
   * [통계 공식과 개념들 한번에 총정리 해드립니다. (이산확률분포, 이항분포, 연속확률분포, 확률밀도함수, 표준정규분포, 표준화공식, 임의추출, 표본평균, 통계적추정, 모평균의추정) - 알고리즘성남학원](https://www.youtube.com/watch?v=CQA7cdxozHY)
-
 * **p-value**
   * [P-값(p-value)는 무엇인가? - Sapientia a Dei님](https://www.youtube.com/watch?v=5Xke4ao1g9E)
   * [P-Value - 김성범 교수님](https://www.youtube.com/watch?v=tpow70KGTYY&list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j&index=4)
-
 * **가설**
-
+  * [가설검정 (미리 알고 학습하면 훨씬 편해요.) - 노경섭님](https://www.youtube.com/watch?v=qkEOVNUnnTw&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=28)
   * [가설검정 (가설검정과 유의수준) - 노경섭님](https://www.youtube.com/watch?v=zcfMEcN1srY)
-
+  * [귀무가설 vs. 대립가설 중 하나를 선택하기 위한 증거, p-value - Data Scientist이지영님](https://www.youtube.com/watch?v=TEsXCUozAsE)
 * **분포**
-
-  * [정규분포 (Normal Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
+* [확률분포1(확률분포, 균등분포, 정규분포, 표준정규분포) - 노경섭님](https://www.youtube.com/watch?v=tfvTTF4JidQ&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=19)
+  * [확률분포2(이항분포, 베르누이시행, 베르누이분포, 이항분포의 확률계산) - 노경섭님](https://www.youtube.com/watch?v=dk2d5--IBTQ&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=20)
+  * [확률분포3(포아송 분포, 푸아송 분포, 람다 변화에 따른 곡선의 변화 확인) - 노경섭님](https://www.youtube.com/watch?v=S1ztukK-PkM&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=21)
+* [정규분포 (Normal Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
   * [일양분포 (Uniform Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=6xonZUbFSZ8)
-
-  
+* **추정, 신뢰구간**
+  * [신뢰구간 정확하게 이해하기 - Data Scientist이지영님](https://www.youtube.com/watch?v=8m5_UOqBTR4)
+  * [추정 (점추정, 구간추정, 신뢰구간) - 노경섭님](https://www.youtube.com/watch?v=ozC2vKZhd04&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=24)
+  * [추정 (모평균의 구간추정, 표본의 크기결정) - 노경섭님](https://www.youtube.com/watch?v=PoWiyZVgjBg&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=25)
+  * [추정 (모집단 비율 및 모집단 분산의 구간추정) - 노경섭님](https://www.youtube.com/watch?v=E4MuAveSQb4&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=26)
+* **베이즈 이론**
+  * [Bayes theorem - 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+* **푸리에 변환**
+  * [푸리에 변환이 대체 뭘까요? 그려서 보여드리겠습니다. - 3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY)
 
 ## 머신러닝 (Machine Learning)
 
 * **경사하강법 (Gradient Descent)**
+  * [경사 하강, 신경 네트워크가 학습하는 방법 | 심층 학습, 2장 - 3Blue1Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w)
   * [경사하강법 기본 개념 (수학편) - 이경록님](https://www.youtube.com/watch?v=GEdLNvPIbiM)
   * [경사하강법 파이썬 코드로 구현 - 이경록님](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
@@ -99,13 +130,17 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
   * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
-  * [인공지능을 위한 머신러닝 알고리즘 7강 역전파](https://www.youtube.com/watch?v=kHUvoNX8fsE)
+  * [인공지능을 위한 머신러닝 알고리즘 7강 역전파 - TAcademy](https://www.youtube.com/watch?v=kHUvoNX8fsE)
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
+  * [머신러닝의 기초 - 선형 회귀 한 번에 제대로 이해하기 (30분만 투자해봐요!) - 동빈나](https://www.youtube.com/watch?v=ve6gtpZV83E)
+  * [회귀분석 증명 - 최소자승법(Least Square Method)으로 모수 추정하기 - Data Scientist이지영님](https://www.youtube.com/watch?v=F-JjAoXZxf0)
   * [Linear Regression(선형회귀) 이해하기 - 허민석님](https://www.youtube.com/watch?v=MwadQ74iE-k&list=PLTjDXCqLsHZcnBBYcXhg-juYX-25iRusr)
   * [선형과 비선형의 차이 - 허민석님](https://www.youtube.com/watch?v=umiqnfQxlac)
+  * [머신러닝/딥러닝 수학 입문 5강 - 회귀분석 (Regression) | T아카데미](https://www.youtube.com/watch?v=ukGvbDYCIxc&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=6)
 * **Norm (L1 & L2)**
+  * [머신러닝/딥러닝 수학 입문 6강 - L1/L2 정규화 (Regulaization) | T아카데미](https://www.youtube.com/watch?v=01qqdvP0sdU&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=7)
   * [Norm (L1, L2) - 허민석 님](https://www.youtube.com/watch?v=yoD5tQ1HQRU)
 * **Lasso, Ridge, ElasticNet**
   * [정규화 모델2 - LASSO, Elastic Net - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
@@ -128,9 +163,12 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 딥러닝 (Deep Learning)
 
+* **개요**
+  * [신경망이란 무엇인가? | 1장.딥러닝에 관하여 - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
 * **Convolution Neural Networks (CNN)**
   * [Stanford - CS231n - Convolution Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=5)
   * [CNN의 효율성: Stride와 MaxPooling - 혁펜하임님](https://youtu.be/sPf0iaOzYaY)
+  * [ML lab11-1: TensorFlow CNN Basics - 김성훈 교수님](https://www.youtube.com/watch?v=E9Xh_fc9KnQ)
 * **Recurrent Neural Networks (RNN)**
   * [Stanford - CS231n - Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=10)
   * [Programming LSTM with Keras and TensorFlow](https://www.youtube.com/watch?v=UnclHXZszpw&t=572s)
@@ -152,7 +190,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * **Azure 머신러닝**
   * [Azure 머신러닝 - 퇴근후딴짓](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
-
 * **데이터베이스**
   * [RDBMS와 SQL 맛보기 - T아카데미](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
 
@@ -160,12 +197,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 캐글 & 데이콘
 
-### 강의
+### 강의 & 강연
 
 **정형데이터**
 
 * [정형데이터 분석 노하우 - T아카데미](https://www.youtube.com/watch?v=9NKGaJxcrsM&list=PL9mhQYIlKEhcaivg3ltnx3DS49AAIc3qv)
   * 캐글, 데이콘 대회 (정형 데이터) 분석 노하우, 접근 방법에 대한 강의
+
+**강연**
+
+* [Deep Learning Practitioner의 캐글 2회 참가기 - 김일두 (Kakao) 님](https://www.youtube.com/watch?v=zNzAAStE66o)
 
 
 
@@ -378,12 +419,37 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 논문 읽기 (YouTube)
 
 * [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
-
 * [딥러닝 논문 읽기 PR12-season2](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
-
 * [딥러닝 논문 읽기 PR12-season3](https://www.youtube.com/watch?v=D-baIgejA4M&list=PL_skMddDjnzq1wDI3t2cH9hlK6wBBapeA)
-
 * [딥러닝 논문 읽기 모임](https://www.youtube.com/channel/UCDULrK2OJsiDhFroa2Aj_LQ)
+
+
+
+## 데이터 사이언티스트 스토리 (Data Scientist Story)
+
+**코딩하는 테크보이 워니**
+
+* [머신러닝, 딥러닝, 빅데이터가 도대체 뭐야? ft. 스탠포드 박사 - 코딩하는 테크보이 워니](https://www.youtube.com/watch?v=-tmypCjhfkE)
+
+* [인공지능 (머신러닝) 직장 취업 어떻게 해요? ft. 스탠포드 박사 - 코딩하는 테크보이 워니](https://www.youtube.com/watch?v=PX4Kzoxdbgo)
+
+**Data Scientist이지영님**
+
+* [비전공자가 데이터사이언티스트로 취업할 수 있는지, 취업 팁 - Data Scientist이지영님](https://www.youtube.com/watch?v=7vk_cRUCk38&list=PLfi-4a2tMaHSPJ_a1m6lTgOCDQgNF945G)
+* [데이터 사이언티스트 연봉, 휴가 이직에 대해 - Data Scientist이지영님](https://www.youtube.com/watch?v=3ue7nxqd7Ak&list=PLfi-4a2tMaHSPJ_a1m6lTgOCDQgNF945G&index=3)
+* [3년차 데이터과학자가 말하는 이 일이란? - Data Scientist이지영님](https://www.youtube.com/watch?v=-I8r_efiROU&list=PLfi-4a2tMaHSPJ_a1m6lTgOCDQgNF945G&index=2)
+
+**터닝포인트TP, 취업 전문 유튜브**
+
+* [데이터 사이언티스트 & 머신러닝 엔지니어? 현직자가 모두 알려준다!(ft.자연어 처리10년) - 터닝포인트TP, 취업 전문 유튜브](https://www.youtube.com/watch?v=ykkBHGrBGPQ)
+* [데이터 사이언티스트 연봉? 취업 전망? 10년차 엔지니어가 다 알려줌!! - 터닝포인트TP, 취업 전문 유튜브](https://www.youtube.com/watch?v=xBmycYVOO3Y)
+* [머신러닝과 데이터사이언티스트 진로? 학벌? 야근? 10년차 전문가가 모두 답변해드립니다!! - 터닝포인트TP, 취업 전문 유튜브](https://www.youtube.com/watch?v=nnHv8P21et8)
+
+**딥러닝호형 DL bro**
+
+* [머신러닝, 딥러닝, 인공지능, 데이터 분석 대학원 고민하고 계세요? - 딥러닝호형 DL bro](https://www.youtube.com/watch?v=APS1bLYBUjg)
+
+
 
 ## 페이스북 그룹 (Facebook Groups)
 
