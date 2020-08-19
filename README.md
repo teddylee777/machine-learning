@@ -104,10 +104,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [가설검정 (가설검정과 유의수준) - 노경섭님](https://www.youtube.com/watch?v=zcfMEcN1srY)
   * [귀무가설 vs. 대립가설 중 하나를 선택하기 위한 증거, p-value - Data Scientist이지영님](https://www.youtube.com/watch?v=TEsXCUozAsE)
 * **분포**
-* [확률분포1(확률분포, 균등분포, 정규분포, 표준정규분포) - 노경섭님](https://www.youtube.com/watch?v=tfvTTF4JidQ&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=19)
+  * [확률분포1(확률분포, 균등분포, 정규분포, 표준정규분포) - 노경섭님](https://www.youtube.com/watch?v=tfvTTF4JidQ&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=19)
   * [확률분포2(이항분포, 베르누이시행, 베르누이분포, 이항분포의 확률계산) - 노경섭님](https://www.youtube.com/watch?v=dk2d5--IBTQ&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=20)
   * [확률분포3(포아송 분포, 푸아송 분포, 람다 변화에 따른 곡선의 변화 확인) - 노경섭님](https://www.youtube.com/watch?v=S1ztukK-PkM&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG&index=21)
-* [정규분포 (Normal Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
+  * [정규분포 (Normal Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=sGTWFCq5OKM)
   * [일양분포 (Uniform Distribution) - 김성범 교수님](https://www.youtube.com/watch?v=6xonZUbFSZ8)
 * **추정, 신뢰구간**
   * [신뢰구간 정확하게 이해하기 - Data Scientist이지영님](https://www.youtube.com/watch?v=8m5_UOqBTR4)
