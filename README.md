@@ -217,7 +217,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
   - 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
 * [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
-  - 자전저 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
+  - 자전거 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
 * [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview/evaluation)
   - 신용 불량에 대한 리스크 예측 대회 (ROC-AUC)
 * [House Prices: Advanced Regression Technique](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
