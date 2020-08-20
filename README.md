@@ -300,27 +300,23 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 깃헙 저장소 (GitHub)
 
-* [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
-  * 파이썬을 배우기 위한 서적 연습문제 및 예제 소스 제공
-* [모두의 딥러닝 개정2판 - 길벗출판사](https://github.com/gilbutITbook/080228)
-  * 모두의 딥러닝 연습문제 및 예제 소스 제공
-* [머신러닝을 다루는 기술 with 파이썬, 사이킷럿 (2020)](https://github.com/gilbutITbook/007017)
-  * 서적의 연습문제 및 예제 소스 제공
-* [deepLearningOpenLecture - 바람님](https://github.com/eventia/deepLearningOpenLecture)
-  * 유튜브 채널 바람님의 딥러닝 강의 실습 파일 깃헙
-* [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
-  * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
-* [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
-
-  * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
-* [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
-* [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
+**튜토리얼(Tutorial)**
+* [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+  - 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
 * [텐서플로우 공식 깃헙(한글)](https://github.com/tensorflow/docs-l10n/tree/master/site/ko)
   * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
 * [최성준님의 깃헙](https://github.com/sjchoi86)
-
   * tensorflow를 활용한 많은 튜토리얼이 있음
+
+**강의(Lecture)**
+* [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
+  - 김성훈 교수님 유튜브 강의 (밑바닥부터 시작하는 딥러닝) 깃헙
+* [deepLearningOpenLecture - 바람님](https://github.com/eventia/deepLearningOpenLecture)
+  * 유튜브 채널 바람님의 딥러닝 강의 실습 파일 깃헙
+
+**자연어처리(Natural Language Processing**
+
 * [한국어 임베딩 깃험](https://github.com/ratsgo/embedding)
   * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 데이터 셋을 다운로드 받을 수 있습니다.
 * [자연어 처리 실무 깃헙 - 김웅곤님](https://github.com/kimwoonggon/publicservant_AI)
@@ -329,9 +325,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 국민은행에서 공개한 한글 ALBERT 모델
 * [카카오 Khaiii 형태소 분석기](https://github.com/kakao/khaiii)
   * 카카오에서 개발한 형태소 분석기 (Khaiii) 공식 깃헙
+  
+**GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
-
-  * Keras를 활용한 GAN구현
+* Keras를 활용한 GAN구현
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
   - DCGAN에 대한 Tutorial 
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
@@ -339,7 +336,21 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
 * [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
   * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
-
+  
+**논문**
+* [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+  * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
+  
+**서적 예제**
+* [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
+  * 파이썬을 배우기 위한 서적 연습문제 및 예제 소스 제공
+* [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+  * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
+* [모두의 딥러닝 개정2판 - 길벗출판사](https://github.com/gilbutITbook/080228)
+  * 모두의 딥러닝 연습문제 및 예제 소스 제공
+* [머신러닝을 다루는 기술 with 파이썬, 사이킷럿 (2020)](https://github.com/gilbutITbook/007017)
+  * 서적의 연습문제 및 예제 소스 제공
+* [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
 
 
 ## 웹사이트 (Web Sites)
