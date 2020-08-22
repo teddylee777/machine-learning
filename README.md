@@ -183,7 +183,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
   * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
-
+* **생산적 적대 신경망 (Generative Adversarial Network)**
+  * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
 
 
 ## 기타 (Others)
@@ -348,7 +349,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
 * [모두의 딥러닝 개정2판 - 길벗출판사](https://github.com/gilbutITbook/080228)
   * 모두의 딥러닝 연습문제 및 예제 소스코드 제공
-* [머신러닝을 다루는 기술 with 파이썬, 사이킷럿 (2020)](https://github.com/gilbutITbook/007017)
+* [머신러닝을 다루는 기술 with 파이썬, 사이킷런 (2020)](https://github.com/gilbutITbook/007017)
   * 서적의 연습문제 및 예제 소스코드 제공
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
   - 핸즈온 머신러닝 서적의 예제 및 소스코드 제공
@@ -479,6 +480,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 시각화
 * [AI Korea](https://www.facebook.com/groups/AIKoreaOpen/)
   * AI 코리아
+* [Reinforcement Learning KR](https://www.facebook.com/groups/ReinforcementLearningKR/)
+  * 강화학습 코리아
+
 
 ## 오픈데이터
 
