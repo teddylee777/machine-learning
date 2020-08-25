@@ -184,6 +184,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
 * **음성인식 (Speech Recognition)** 
   * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
+* **객체탐지 (Object Detection)**
+  * [Object Detection - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
   
 * **강화학습 (Reinforcement Learning)**
   * [강화학습 - 김성훈 교수님](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
