@@ -137,6 +137,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
+  * [Least Squares Estimators 증명 - jbstatistics](https://www.youtube.com/watch?v=ewnc1cXJmGA)
   * [최소자승법 - Least Squares Criterion Part 1 - patrickJMT](https://www.youtube.com/watch?v=0T0z8d0_aY4)
   * [최소자승법 - Least Squares Criterion Part 2 - patrickJMT](https://www.youtube.com/watch?v=1C3olrs1CUw)
   * [머신러닝의 기초 - 선형 회귀 한 번에 제대로 이해하기 (30분만 투자해봐요!) - 동빈나](https://www.youtube.com/watch?v=ve6gtpZV83E)
