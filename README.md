@@ -29,11 +29,14 @@ This repository is intended for personal study in machine-learning
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
-**파이썬 (Python)**
+**파이썬 (Python), 넘파이 (Numpy), 판다스 (Pandas)**
 
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
 * [파이썬 강좌 코딩 기초 강의 Python | 김왼손의 왼손코딩](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=1)
+* [NumPy(넘파이) 기본 - T아카데미](https://www.youtube.com/watch?v=zNrDbG4tNGo&list=PL9mhQYIlKEhf04ToiDFvNzKL0OP4W27TW)
+* [Pandas 기본기 다지기 - T아카데미](https://www.youtube.com/watch?v=M_lKmt-wSvY&list=PL9mhQYIlKEhfG_gWF-DclKs6vXS6SkmQN)
+* [Pandas로 하는 시계열 데이터분석 - T아카데미](https://www.youtube.com/watch?v=oNLaw2Q8Irw&list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
 
 **수학 (Mathmatics) & 통계 (Statistics)**
 
@@ -67,7 +70,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
-* 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
+  * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
   
 * [Pytorch Zero To All (영문) - 김성훈 교수님](<https://youtu.be/SKq-pmkekTk>)
 
@@ -134,6 +137,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
+  * [Least Squares Estimators 증명 - jbstatistics](https://www.youtube.com/watch?v=ewnc1cXJmGA)
   * [최소자승법 - Least Squares Criterion Part 1 - patrickJMT](https://www.youtube.com/watch?v=0T0z8d0_aY4)
   * [최소자승법 - Least Squares Criterion Part 2 - patrickJMT](https://www.youtube.com/watch?v=1C3olrs1CUw)
   * [머신러닝의 기초 - 선형 회귀 한 번에 제대로 이해하기 (30분만 투자해봐요!) - 동빈나](https://www.youtube.com/watch?v=ve6gtpZV83E)
@@ -167,17 +171,27 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * **개요**
   * [신경망이란 무엇인가? | 1장.딥러닝에 관하여 - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
+
 * **Convolution Neural Networks (CNN)**
   * [Stanford - CS231n - Convolution Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=5)
   * [CNN의 효율성: Stride와 MaxPooling - 혁펜하임님](https://youtu.be/sPf0iaOzYaY)
   * [ML lab11-1: TensorFlow CNN Basics - 김성훈 교수님](https://www.youtube.com/watch?v=E9Xh_fc9KnQ)
+
 * **Recurrent Neural Networks (RNN)**
   * [Stanford - CS231n - Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=10)
   * [Programming LSTM with Keras and TensorFlow](https://www.youtube.com/watch?v=UnclHXZszpw&t=572s)
+
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
   * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
+
+* **음성인식 (Speech Recognition)** 
+  * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
+
+* **객체탐지 (Object Detection)**
+  * [Object Detection - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
+  
 * **강화학습 (Reinforcement Learning)**
   * [강화학습 - 김성훈 교수님](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
   * [강화학습(영문) - 데이비드 실버 교수님](https://www.davidsilver.uk/teaching/)
@@ -185,9 +199,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
   * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
+  
 * **생산적 적대 신경망 (Generative Adversarial Network)**
   * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
 
+* **기타**
+  * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
+    - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
 
 ## 기타 (Others)
 
