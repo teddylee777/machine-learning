@@ -329,6 +329,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
 * [최성준님의 깃헙](https://github.com/sjchoi86)
   * tensorflow를 활용한 많은 튜토리얼이 있음
+* [Tensorflow2.0 Tutorial - 허민석님](https://github.com/minsuk-heo/tf2)
+  * 허민석님이 진행하는 유튜브 TensorFlow 2.0 강의와 실습자료가 있는 깃헙
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
