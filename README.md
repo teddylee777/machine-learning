@@ -29,7 +29,7 @@ This repository is intended for personal study in machine-learning
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
 
-**파이썬 (Python), 넘파이 (Numpy), 판다스 (Pandas)**
+**파이썬 (Python), 데이터분석 (Pandas, Numpy), 시각화 (Matplotlib, Seaborn, Bokeh, Folium)**
 
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
@@ -37,6 +37,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [NumPy(넘파이) 기본 - T아카데미](https://www.youtube.com/watch?v=zNrDbG4tNGo&list=PL9mhQYIlKEhf04ToiDFvNzKL0OP4W27TW)
 * [Pandas 기본기 다지기 - T아카데미](https://www.youtube.com/watch?v=M_lKmt-wSvY&list=PL9mhQYIlKEhfG_gWF-DclKs6vXS6SkmQN)
 * [Pandas로 하는 시계열 데이터분석 - T아카데미](https://www.youtube.com/watch?v=oNLaw2Q8Irw&list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
+* [입문자를 위한 파이썬 기초 따라잡기 - 재즐보프](https://www.youtube.com/watch?v=BvJhYPQSDLI&list=PLnIaYcDMsScyhT18mwY71rV_aHdP-OhLd)
+* [파이썬 데이터 시각화 튜토리얼 - 재즐보프](https://www.youtube.com/watch?v=TIjsrH_THhs&list=PLnIaYcDMsScyrZZXH6LTXMrOLXJ-7hznD)
 
 **수학 (Mathmatics) & 통계 (Statistics)**
 
@@ -207,6 +209,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
 
+## 시각화 (Visualization)
+* **Bokeh**
+  * [대화형 웹 시각화 Bokeh - 재즐보프](https://www.youtube.com/watch?v=XbfQNJrIXZc)
+
 ## 기타 (Others)
 
 * **Azure 머신러닝**
@@ -329,6 +335,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
 * [최성준님의 깃헙](https://github.com/sjchoi86)
   * tensorflow를 활용한 많은 튜토리얼이 있음
+* [Tensorflow2.0 Tutorial - 허민석님](https://github.com/minsuk-heo/tf2)
+  * 허민석님이 진행하는 유튜브 TensorFlow 2.0 강의와 실습자료가 있는 깃헙
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
