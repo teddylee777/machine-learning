@@ -84,6 +84,25 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 # 주제별 (By Subjects)
 
+ - [수학 (Mathmatics)](#수학-mathmatics)
+ - [통계 (Statistics)](#통계-statistics)
+ - [머신러닝 (Machine Learning)](#머신러닝-machine-learning)
+ - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
+ - [시각화 (Visualization)](#시각화-visualization)
+ - [캐글 & 데이콘](#캐글--데이콘)
+ - [블로그 (Blogs)](#블로그-blogs)
+ - [깃헙 저장소 (GitHub)](#깃헙-저장소-github)
+ - [웹사이트 (Web Sites)](#웹사이트-web-sites)
+ - [위키독스 (Wiki Docs)](#위키독스-wiki-docs)
+ - [유튜브 채널 (YouTube Channel)](#유튜브-채널-youtube-channel)
+ - [논문 읽기 (YouTube)](#논문-읽기-youtube)
+ - [데이터 사이언티스트 스토리 (Data Scientist Story)](#데이터-사이언티스트-스토리-data-scientist-story)
+ - [페이스북 그룹 (Facebook Groups)](#페이스북-그룹-facebook-groups)
+ - [오픈데이터](#오픈데이터)
+ - [텐서플로우 자격증](#텐서플로우-자격증)
+ - [기타](#기타)
+
+
 ## 수학 (Mathmatics)
 
 * **미분**
