@@ -104,7 +104,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 ## 수학 (Mathmatics)
-
+* **기초**
+  * [머신러닝, 딥러닝을 위한 기초 수학 - 이경록](https://www.youtube.com/watch?v=vS51prw_yfw)
+  
 * **미분**
   * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
   * [머신러닝/딥러닝 수학 입문 2강 - 미분 | T아카데미](https://www.youtube.com/watch?v=JQe7S-gOElk&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=3)
@@ -158,6 +160,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
+  * [최소제곱법 증명 - 이경록](https://www.youtube.com/watch?v=-oBmMED_5rI)
   * [Least Squares Estimators 증명 - jbstatistics](https://www.youtube.com/watch?v=ewnc1cXJmGA)
   * [최소자승법 - Least Squares Criterion Part 1 - patrickJMT](https://www.youtube.com/watch?v=0T0z8d0_aY4)
   * [최소자승법 - Least Squares Criterion Part 2 - patrickJMT](https://www.youtube.com/watch?v=1C3olrs1CUw)
