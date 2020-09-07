@@ -408,7 +408,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 ## 웹사이트 (Web Sites)
-
+* [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
+  - 머신러닝 용어들이 정리되어 있는 구글 developer 사이트.
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
   - 10분안에 빠르게 끝내는 판다스 훓어보기 (주요 api 위주로 진행하는 튜토리얼)
 * [20 minutes to matplotlib](https://www.tutorialdocs.com/article/python-matplotlib-tutorial.html)
@@ -535,6 +536,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * AI 코리아
 * [Reinforcement Learning KR](https://www.facebook.com/groups/ReinforcementLearningKR/)
   * 강화학습 코리아
+* [통계분석연구회](https://www.facebook.com/groups/statsas)
+  * 통계학 분석 연구회 (Statistics Analysis Study)
 
 
 ## 오픈데이터
