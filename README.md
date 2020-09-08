@@ -152,9 +152,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [경사하강법 기본 개념 (수학편) - 이경록님](https://www.youtube.com/watch?v=GEdLNvPIbiM)
   * [경사하강법 파이썬 코드로 구현 - 이경록님](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
+ 
 * **오차 역전파 (Back Propagation)**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
+  * [Stanford - CS231n - Backpropagation(한글설명) - Kyoseok Song님](https://www.youtube.com/watch?v=qtINaHvngm8)
   * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
   * [인공지능을 위한 머신러닝 알고리즘 7강 역전파 - TAcademy](https://www.youtube.com/watch?v=kHUvoNX8fsE)
 * **손실 함수 (Loss Functions)**
