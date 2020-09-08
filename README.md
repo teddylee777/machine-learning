@@ -381,28 +381,28 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
-* Keras를 활용한 GAN구현
+  - Keras를 활용한 GAN구현
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
   - DCGAN에 대한 Tutorial 
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
 * [미술관에 GAN 딥러닝](https://github.com/rickiepark/GDL_code)
-  * GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
+  - GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
 * [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
-  * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
+  - GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
   
 **논문**
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
-  * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
+  - 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
   
 **서적 예제**
 * [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
-  * 파이썬을 배우기 위한 서적 연습문제 및 예제 소스코드 제공
+  - 파이썬을 배우기 위한 서적 연습문제 및 예제 소스코드 제공
 * [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
-  * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
+  - PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
 * [모두의 딥러닝 개정2판 - 길벗출판사](https://github.com/gilbutITbook/080228)
-  * 모두의 딥러닝 연습문제 및 예제 소스코드 제공
+  - 모두의 딥러닝 연습문제 및 예제 소스코드 제공
 * [머신러닝을 다루는 기술 with 파이썬, 사이킷런 (2020)](https://github.com/gilbutITbook/007017)
-  * 서적의 연습문제 및 예제 소스코드 제공
+  - 서적의 연습문제 및 예제 소스코드 제공
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
   - 핸즈온 머신러닝 서적의 예제 및 소스코드 제공
 * [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/ml-definitive-guide)
