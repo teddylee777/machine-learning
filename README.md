@@ -544,11 +544,12 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 오픈데이터
 
-* [공공데이터포털](https://www.data.go.kr/)
-* [Open Data Inception](https://opendatainception.io/)
-* [AI Hub](http://www.aihub.or.kr/)
-* [Appen](https://appen.com/resources/datasets/)
-* [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
+- [공공데이터포털](https://www.data.go.kr/)
+- [Open Data Inception](https://opendatainception.io/)
+- [AI Hub](http://www.aihub.or.kr/)
+- [Appen](https://appen.com/resources/datasets/)
+- [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
+- [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/KBMQZy)
