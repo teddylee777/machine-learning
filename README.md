@@ -104,7 +104,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 ## 수학 (Mathmatics)
-
+* **기초**
+  * [머신러닝, 딥러닝을 위한 기초 수학 - 이경록](https://www.youtube.com/watch?v=vS51prw_yfw)
+  
 * **미분**
   * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
   * [머신러닝/딥러닝 수학 입문 2강 - 미분 | T아카데미](https://www.youtube.com/watch?v=JQe7S-gOElk&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=3)
@@ -150,14 +152,17 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [경사하강법 기본 개념 (수학편) - 이경록님](https://www.youtube.com/watch?v=GEdLNvPIbiM)
   * [경사하강법 파이썬 코드로 구현 - 이경록님](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
+ 
 * **오차 역전파 (Back Propagation)**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
+  * [Stanford - CS231n - Backpropagation(한글설명) - Kyoseok Song님](https://www.youtube.com/watch?v=qtINaHvngm8)
   * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
   * [인공지능을 위한 머신러닝 알고리즘 7강 역전파 - TAcademy](https://www.youtube.com/watch?v=kHUvoNX8fsE)
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
+  * [최소제곱법 증명 - 이경록](https://www.youtube.com/watch?v=-oBmMED_5rI)
   * [Least Squares Estimators 증명 - jbstatistics](https://www.youtube.com/watch?v=ewnc1cXJmGA)
   * [최소자승법 - Least Squares Criterion Part 1 - patrickJMT](https://www.youtube.com/watch?v=0T0z8d0_aY4)
   * [최소자승법 - Least Squares Criterion Part 2 - patrickJMT](https://www.youtube.com/watch?v=1C3olrs1CUw)
@@ -376,28 +381,28 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
-* Keras를 활용한 GAN구현
+  - Keras를 활용한 GAN구현
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
   - DCGAN에 대한 Tutorial 
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
 * [미술관에 GAN 딥러닝](https://github.com/rickiepark/GDL_code)
-  * GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
+  - GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
 * [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
-  * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
+  - GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
   
 **논문**
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
-  * 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
+  - 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
   
 **서적 예제**
 * [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
-  * 파이썬을 배우기 위한 서적 연습문제 및 예제 소스코드 제공
+  - 파이썬을 배우기 위한 서적 연습문제 및 예제 소스코드 제공
 * [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
-  * PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
+  - PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
 * [모두의 딥러닝 개정2판 - 길벗출판사](https://github.com/gilbutITbook/080228)
-  * 모두의 딥러닝 연습문제 및 예제 소스코드 제공
+  - 모두의 딥러닝 연습문제 및 예제 소스코드 제공
 * [머신러닝을 다루는 기술 with 파이썬, 사이킷런 (2020)](https://github.com/gilbutITbook/007017)
-  * 서적의 연습문제 및 예제 소스코드 제공
+  - 서적의 연습문제 및 예제 소스코드 제공
 * [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml)
   - 핸즈온 머신러닝 서적의 예제 및 소스코드 제공
 * [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/ml-definitive-guide)
@@ -405,7 +410,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 
 ## 웹사이트 (Web Sites)
-
+* [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
+  - 머신러닝 용어들이 정리되어 있는 구글 developer 사이트.
 * [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
   - 10분안에 빠르게 끝내는 판다스 훓어보기 (주요 api 위주로 진행하는 튜토리얼)
 * [20 minutes to matplotlib](https://www.tutorialdocs.com/article/python-matplotlib-tutorial.html)
@@ -426,6 +432,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 위키독스 (Wiki Docs)
 
+* [Dive into Deep Learning](https://ko.d2l.ai/)
+  * 코드, 수학, 토론이 함께하는 대화형 딥러닝 학습서라고 나와있으며, 강력 추천 하고 다만, 한글 번역은 완벽하지 않음. 꼭 한번 살펴 보시길!
+  
 * [점프 투 파이썬](https://wikidocs.net/book/1)
   * 파이썬을 책으로 배우고 싶다면!
   
@@ -529,15 +538,18 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * AI 코리아
 * [Reinforcement Learning KR](https://www.facebook.com/groups/ReinforcementLearningKR/)
   * 강화학습 코리아
+* [통계분석연구회](https://www.facebook.com/groups/statsas)
+  * 통계학 분석 연구회 (Statistics Analysis Study)
 
 
 ## 오픈데이터
 
-* [공공데이터포털](https://www.data.go.kr/)
-* [Open Data Inception](https://opendatainception.io/)
-* [AI Hub](http://www.aihub.or.kr/)
-* [Appen](https://appen.com/resources/datasets/)
-* [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
+- [공공데이터포털](https://www.data.go.kr/)
+- [Open Data Inception](https://opendatainception.io/)
+- [AI Hub](http://www.aihub.or.kr/)
+- [Appen](https://appen.com/resources/datasets/)
+- [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
+- [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/KBMQZy)
