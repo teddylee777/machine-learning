@@ -1,0 +1,33 @@
+{
+  "projectName": "all-contributors",
+  "projectOwner": "all-contributors",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributors": [
+    {
+      "login": "Kaintels",
+      "name": "Seungwoo Han",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38157496?s=460&u=4a07840f06d531087859926e479a33367551106c&v=4",
+      "profile": "https://github.com/Kaintels",
+      "contributions": [
+        "doc",
+      ]
+    },
+    {
+      "login": "HongJaeKwon",
+      "name": "JaeKwon Hong",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/44965354?s=460&v=4",
+      "profile": "https://github.com/HongJaeKwon",
+      "contributions": [
+        "doc"
+      ]
+    },
+  ],
+  "repoType": "github",
+  "contributorsPerLine": 7,
+  "repoHost": "https://github.com",
+  "commitConvention": "angular",
+  "skipCi": true
+}
