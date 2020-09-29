@@ -1,5 +1,9 @@
 # Machine Learning Study 혼자 해보기
 
+## Contributors
+
+
+
 ## 지식공유
 
 블로그, 유튜브를 통해 지식공유를 실천하고 있습니다.
