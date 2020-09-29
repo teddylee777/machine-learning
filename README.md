@@ -21,7 +21,7 @@ This repository is intended for personal study in machine-learning
 
 직접 들은 강의는 코멘트하였으나, 지극히 개인적인 의견이 반영 되었습니다.
 
-**기여 (Contributor)**
+**기여 (Contributions)**
 
 더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
