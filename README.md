@@ -372,7 +372,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [한국어 임베딩 깃험](https://github.com/ratsgo/embedding)
   * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 데이터 셋을 다운로드 받을 수 있습니다.
-* [텐서플로2화 머신러닝으로 시작하는 자연어처리](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2)
+* [텐서플로2와 머신러닝으로 시작하는 자연어처리](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2)
   * 최근 발간된 텐서플로2와 머신러닝으로 시작하는 자연어 처리 서적에 대한 샘플 코드가 수록되어 있는 깃헙.
 * [자연어 처리 실무 깃헙 - 김웅곤님](https://github.com/kimwoonggon/publicservant_AI)
   * BERT, Transformer등 실무 코딩을 다룹니다. (colab 파일 제공)
@@ -428,7 +428,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 자연어 처리 관련된 문제 100제를 풀어보는 사이트
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
-  
+* [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+  - OpenAI의 강화 학습 교육 자료
 
 
 
@@ -542,6 +543,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 강화학습 코리아
 * [통계분석연구회](https://www.facebook.com/groups/statsas)
   * 통계학 분석 연구회 (Statistics Analysis Study)
+* [GNN KR](https://www.facebook.com/groups/2190093671090112/)
+  * 그래프 뉴럴 네트워크
 
 
 ## 오픈데이터
