@@ -372,6 +372,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [한국어 임베딩 깃험](https://github.com/ratsgo/embedding)
   * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 데이터 셋을 다운로드 받을 수 있습니다.
+* [텐서플로2화 머신러닝으로 시작하는 자연어처리](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2)
+  * 최근 발간된 텐서플로2와 머신러닝으로 시작하는 자연어 처리 서적에 대한 샘플 코드가 수록되어 있는 깃헙.
 * [자연어 처리 실무 깃헙 - 김웅곤님](https://github.com/kimwoonggon/publicservant_AI)
   * BERT, Transformer등 실무 코딩을 다룹니다. (colab 파일 제공)
 * [국민은행 - KB-ALBERT-KO](https://github.com/KB-Bank-AI/KB-ALBERT-KO)
