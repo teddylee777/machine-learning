@@ -1,35 +1,17 @@
 {
-  "projectName": "all-contributors",
-  "projectOwner": "all-contributors",
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
-  "contributors": [
-    {
-      "login": "Kaintels",
-      "name": "Seungwoo Han",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/38157496?s=460&u=4a07840f06d531087859926e479a33367551106c&v=4",
-      "profile": "https://github.com/Kaintels",
-      "contributions": [
-        "doc",
-        "code",
-      ]
-    },
-    {
-      "login": "HongJaeKwon",
-      "name": "JaeKwon Hong",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/44965354?s=460&v=4",
-      "profile": "https://github.com/HongJaeKwon",
-      "contributions": [
-        "doc", 
-        "code",
-      ]
-    },
-  ],
-  "repoType": "github",
   "contributorsPerLine": 7,
-  "repoHost": "https://github.com",
-  "commitConvention": "python",
-  "skipCi": true
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": "true",
+  "contributors": []
 }
