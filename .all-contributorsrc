@@ -13,6 +13,7 @@
       "profile": "https://github.com/Kaintels",
       "contributions": [
         "doc",
+        "code",
       ]
     },
     {
@@ -21,13 +22,14 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/44965354?s=460&v=4",
       "profile": "https://github.com/HongJaeKwon",
       "contributions": [
-        "doc"
+        "doc", 
+        "code",
       ]
     },
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
-  "commitConvention": "angular",
+  "commitConvention": "python",
   "skipCi": true
 }
