@@ -24,6 +24,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Kaintels",
+      "name": "Seungwoo Han",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38157496?v=4",
+      "profile": "https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "projectName": "machine-learning",
