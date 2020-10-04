@@ -1,11 +1,11 @@
 # Machine Learning Study 혼자 해보기
 
-## Contributors
+## 기여자 (Contributors)
 [HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels)
 
 
 
-## 지식공유
+## 지식공유 (Knowledge Sharings)
 
 블로그, 유튜브를 통해 지식공유를 실천하고 있습니다.
 
