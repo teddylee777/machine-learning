@@ -3,6 +3,7 @@
 ## 기여자 (Contributors)
 [HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels)
 
+더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
 
 ## 지식공유 (Knowledge Sharings)
@@ -21,10 +22,6 @@ This repository is intended for personal study in machine-learning
 온라인 상에서 좋은 분들이 공유해 주신 Lecture와 Blog를 참고하여 스터디 하실 수 있습니다.
 
 직접 들은 강의는 코멘트하였으나, 지극히 개인적인 의견이 반영 되었습니다.
-
-**기여 (Contributions)**
-
-더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
 -----
 
