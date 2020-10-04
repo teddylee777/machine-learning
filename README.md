@@ -1,6 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
 ## Contributors
+[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels)
 
 
 
