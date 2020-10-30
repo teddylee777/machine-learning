@@ -71,7 +71,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [청와대 국민청원 데이터로 파이썬 자연어처리 입문하기 - 오늘코드](https://www.youtube.com/watch?v=9QW7QL8fvv0&list=PLaTc2c6yEwmrtV81ehjOI0Y8Y-HR6GN78)
 * [Deep Learning by GOOGLE - Udacity](https://www.udacity.com/course/deep-learning--ud730)
   * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
-
+* [DEEP LEARNING, Spring 2020 - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
+  * 딥러닝의 거장 얀 르쿤 교수님과 Alfredo Canziani 의 딥러닝 강의. 슬랑이드와 렉쳐를 제공하며, 한국어 자막은 진행중입니다.
 
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
@@ -261,6 +262,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Deep Learning Practitioner의 캐글 2회 참가기 - 김일두 (Kakao) 님](https://www.youtube.com/watch?v=zNzAAStE66o)
 
+**노트북**
+
+* [Feature Engineering Techniques - Chris Deotte](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575)
 
 
 ### 캐글 & 데이콘 대회 분류
@@ -432,7 +436,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
   - OpenAI의 강화 학습 교육 자료
-
+* [GUI for TensorFlow](https://www.perceptilabs.com/home)
+  - GUI로 텐서플로우 모델 만들기
 
 
 ## 위키독스 (Wiki Docs)
@@ -557,6 +562,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 - [Appen](https://appen.com/resources/datasets/)
 - [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
 - [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
+- [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/KBMQZy)
