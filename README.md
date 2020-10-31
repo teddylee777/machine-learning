@@ -426,8 +426,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
-* [AI Hub](http://www.aihub.or.kr/)
-  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
 * [Keras Examples](https://keras.io/examples/)
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
 * [자연어처리 100제](https://nlp100.github.io/ko/)
@@ -438,6 +436,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - OpenAI의 강화 학습 교육 자료
 * [GUI for TensorFlow](https://www.perceptilabs.com/home)
   - GUI로 텐서플로우 모델 만들기
+* [arXiv - 논문저장소](https://arxiv.org/)
+  - 논문 저장소. 인공지능, 프로그래밍 등 거의 모든 논문을 찾아볼 수 있다.
 
 
 ## 위키독스 (Wiki Docs)
@@ -559,6 +559,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 - [공공데이터포털](https://www.data.go.kr/)
 - [Open Data Inception](https://opendatainception.io/)
 - [AI Hub](http://www.aihub.or.kr/)
+  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
 - [Appen](https://appen.com/resources/datasets/)
 - [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
 - [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
