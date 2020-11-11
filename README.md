@@ -575,7 +575,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 - [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
 
 ## 텐서플로우 자격증
-* [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/KBMQZy)
+* [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
 
 ## 기타
 
