@@ -76,6 +76,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
+* [TensorFlow2 강의 - Shin's Lab](https://www.youtube.com/watch?v=-MIH2wNfylo&list=PLtm_YtKTtDkQJtgGSQnZzMJBRHyqANnQi)
+  * 깔끔한 설명과 수학에 대한 친절한 설명까지 곁들여진 강의. 강의자의 전달력이 좋고, 코드 설명과 더불어 논문에 대한 내용도 다룬다.
   
 * [Pytorch Zero To All (영문) - 김성훈 교수님](<https://youtu.be/SKq-pmkekTk>)
 
