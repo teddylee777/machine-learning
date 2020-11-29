@@ -367,6 +367,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 깃헙 저장소 (GitHub)
 
 **튜토리얼(Tutorial)**
+* [스탠포드 강의 한글 번역 repo - AIKorea.org](https://github.com/aikorea/cs231n)
+  - 스탠포드 강의 요약본을 한글로 번역한 github repo
 * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
   - 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
