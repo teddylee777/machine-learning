@@ -1,0 +1,52 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "HongJaeKwon",
+      "name": "HongJaeKwon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/44965354?v=4",
+      "profile": "https://github.com/HongJaeKwon",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Kaintels",
+      "name": "Seungwoo Han",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38157496?v=4",
+      "profile": "https://scholar.google.com/citations?user=NWbfyKYAAAAJ&hl=ko",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "braincrew",
+      "name": "브레인크루(주)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/45681992?v=4",
+      "profile": "https://github.com/braincrew",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "projectName": "machine-learning",
+  "projectOwner": "teddylee777",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

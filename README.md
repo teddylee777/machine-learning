@@ -1,6 +1,12 @@
 # Machine Learning Study 혼자 해보기
 
-## 지식공유
+## 기여자 (Contributors)
+[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels)
+
+더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
+
+
+## 지식공유 (Knowledge Sharings)
 
 블로그, 유튜브를 통해 지식공유를 실천하고 있습니다.
 
@@ -16,10 +22,6 @@ This repository is intended for personal study in machine-learning
 온라인 상에서 좋은 분들이 공유해 주신 Lecture와 Blog를 참고하여 스터디 하실 수 있습니다.
 
 직접 들은 강의는 코멘트하였으나, 지극히 개인적인 의견이 반영 되었습니다.
-
-**기여 (Contributor)**
-
-더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
 -----
 
@@ -69,10 +71,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [청와대 국민청원 데이터로 파이썬 자연어처리 입문하기 - 오늘코드](https://www.youtube.com/watch?v=9QW7QL8fvv0&list=PLaTc2c6yEwmrtV81ehjOI0Y8Y-HR6GN78)
 * [Deep Learning by GOOGLE - Udacity](https://www.udacity.com/course/deep-learning--ud730)
   * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
-
+* [DEEP LEARNING, Spring 2020 - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
+  * 딥러닝의 거장 얀 르쿤 교수님과 Alfredo Canziani 의 딥러닝 강의. 슬랑이드와 렉쳐를 제공하며, 한국어 자막은 진행중입니다.
 
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
+* [TensorFlow2 강의 - Shin's Lab](https://www.youtube.com/watch?v=-MIH2wNfylo&list=PLtm_YtKTtDkQJtgGSQnZzMJBRHyqANnQi)
+  * 깔끔한 설명과 수학에 대한 친절한 설명까지 곁들여진 강의. 강의자의 전달력이 좋고, 코드 설명과 더불어 논문에 대한 내용도 다룬다.
   
 * [Pytorch Zero To All (영문) - 김성훈 교수님](<https://youtu.be/SKq-pmkekTk>)
 
@@ -228,10 +233,17 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * **생산적 적대 신경망 (Generative Adversarial Network)**
   * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
-
+  * [Basic of GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=LeMnE1TIil4)
+  * [DC GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
+  * [DC GAN 논문 이해하기 - YBIGTA](https://www.youtube.com/watch?v=7btUjE2y4NA)
+  * [Finding connections among images using CycleGAN - naver d2](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
+  * [머신러닝/딥러닝 강의 - 016 CycleGAN 한방에 끝내기 - hanyoseob님](https://www.youtube.com/watch?v=zAVCeF5cFNc)
+  
+  
 * **기타**
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
+  * [Why Does Batch Norm Work? (Batch Norm이 좋은 이유) - Andrew Ng교수님](https://www.youtube.com/watch?v=nUUqwaxLnWs)
 
 ## 시각화 (Visualization)
 * **Bokeh**
@@ -259,6 +271,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Deep Learning Practitioner의 캐글 2회 참가기 - 김일두 (Kakao) 님](https://www.youtube.com/watch?v=zNzAAStE66o)
 
+**노트북**
+
+* [Feature Engineering Techniques - Chris Deotte](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575)
 
 
 ### 캐글 & 데이콘 대회 분류
@@ -420,8 +435,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
-* [AI Hub](http://www.aihub.or.kr/)
-  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
 * [Keras Examples](https://keras.io/examples/)
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
 * [자연어처리 100제](https://nlp100.github.io/ko/)
@@ -430,7 +443,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
   - OpenAI의 강화 학습 교육 자료
-
+* [GUI for TensorFlow](https://www.perceptilabs.com/home)
+  - GUI로 텐서플로우 모델 만들기
+* [arXiv - 논문저장소](https://arxiv.org/)
+  - 논문 저장소. 인공지능, 프로그래밍 등 거의 모든 논문을 찾아볼 수 있다.
 
 
 ## 위키독스 (Wiki Docs)
@@ -552,12 +568,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 - [공공데이터포털](https://www.data.go.kr/)
 - [Open Data Inception](https://opendatainception.io/)
 - [AI Hub](http://www.aihub.or.kr/)
+  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
 - [Appen](https://appen.com/resources/datasets/)
 - [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
 - [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
+- [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
 
 ## 텐서플로우 자격증
-* [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/KBMQZy)
+* [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
 
 ## 기타
 
