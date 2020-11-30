@@ -582,4 +582,5 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 기타
 
 - [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
-- [TED: Big Data playlist(한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+- [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+  - 데이터 이해하기 (통계, 시각화) 
