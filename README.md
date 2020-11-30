@@ -1,7 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
 ## 기여자 (Contributors)
-[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels)
+[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim)
 
 더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
