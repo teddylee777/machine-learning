@@ -1,7 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
 ## 기여자 (Contributors)
-[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels)
+[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim)
 
 더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
@@ -367,6 +367,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 깃헙 저장소 (GitHub)
 
 **튜토리얼(Tutorial)**
+* [스탠포드 강의 한글 번역 repo - AIKorea.org](https://github.com/aikorea/cs231n)
+  - 스탠포드 강의 요약본을 한글로 번역한 github repo
 * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
   - 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
@@ -580,4 +582,5 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 기타
 
 - [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
-
+- [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+  - 데이터 이해하기 (통계, 시각화) 
