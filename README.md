@@ -254,6 +254,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [[ML] 베이지안 최적화 (Bayesian Optimization)](https://wooono.tistory.com/102)
 * **하이퍼밴드 기반**
   * [Hyperband 논문 설명](https://pod3275.github.io/paper/2019/05/23/Hyperband.html)
+* **Neural Architecture Search**
+  * [NASnet 설명](https://www.secmem.org/blog/2019/07/19/Network-Architecture-Search/)  
+  * [ENAS 설명](https://jayhey.github.io/deep%20learning/2018/03/15/ENAS/)  
+  * [PNAS 설명](https://m.blog.naver.com/PostView.nhn?blogId=za_bc&logNo=221576139392&proxyReferer=https:%2F%2Fwww.google.com%2F)  
+
 
 ## 메타러닝 (Meta Learning)
 * **이론**
