@@ -1,7 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
 ## 기여자 (Contributors)
-[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim)
+[HongJaeKwon](https://github.com/HongJaeKwon), [Seungwoo Han](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim)
 
 더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
@@ -93,6 +93,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
  - [통계 (Statistics)](#통계-statistics)
  - [머신러닝 (Machine Learning)](#머신러닝-machine-learning)
  - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
+ - [최적화 & AutoML (Optimization-AutoML)](#최적화--AutoML-optimization--automl)
+ - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
  - [시각화 (Visualization)](#시각화-visualization)
  - [캐글 & 데이콘](#캐글--데이콘)
  - [블로그 (Blogs)](#블로그-blogs)
@@ -244,6 +246,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
   * [Why Does Batch Norm Work? (Batch Norm이 좋은 이유) - Andrew Ng교수님](https://www.youtube.com/watch?v=nUUqwaxLnWs)
+
+## 최적화 & AutoML (Optimization & AutoML)
+* **유전 알고리즘 기반**
+  * [최단 경로 검색 인공지능 feat.유전알고리즘, TSP](https://www.youtube.com/watch?v=H8beAqbiWZw)
+* **베이지안 기반**
+  * [[ML] 베이지안 최적화 (Bayesian Optimization)](https://wooono.tistory.com/102)
+* **하이퍼밴드 기반**
+  * [Hyperband 논문 설명](https://pod3275.github.io/paper/2019/05/23/Hyperband.html)
+
+## 메타러닝 (Meta Learning)
+* **이론**
+  * [Meta-Learning: Learning to Learn Fast 설명](https://talkingaboutme.tistory.com/entry/DL-Meta-Learning-Learning-to-Learn-Fast)
+* **메타 강화학습**
+  * [Meta Reinforcement Learning 설명](https://talkingaboutme.tistory.com/entry/RL-Meta-Reinforcement-Learning)
 
 ## 시각화 (Visualization)
 * **Bokeh**
@@ -450,6 +466,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [arXiv - 논문저장소](https://arxiv.org/)
   - 논문 저장소. 인공지능, 프로그래밍 등 거의 모든 논문을 찾아볼 수 있다.
 
+* [arXiv sanity](https://arxiv.org/)
+  - 일정 기간동안 원하는 주제에 대한 인기 있는 arXiv 논문을 볼 수 있다.
 
 ## 위키독스 (Wiki Docs)
 
