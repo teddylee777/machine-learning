@@ -598,6 +598,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 - [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
 - [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
 - [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
+- [Korpora: Korean Corpora Archives - 한글 자연어처리 관련 데이터셋](https://github.com/ko-nlp/Korpora)
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
