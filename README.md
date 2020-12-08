@@ -421,6 +421,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 국민은행에서 공개한 한글 ALBERT 모델
 * [카카오 Khaiii 형태소 분석기](https://github.com/kakao/khaiii)
   * 카카오에서 개발한 형태소 분석기 (Khaiii) 공식 깃헙
+* [한글 자연어처리 기법 모음](https://colab.research.google.com/drive/1FfhWsP9izQcuVl06P30r5cCxELA1ciVE?usp=sharing)
+  * 직접 실행해 볼 수 있는 Colab 파일입니다. 각 종 한글 데이터 전처리 기법들을 모아 놓았습니다.
   
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
