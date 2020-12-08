@@ -367,6 +367,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * [수아랩 이호성님 블로그](https://hoya012.github.io/)
   * 수준 높은 논문을 정리한 글들이 많다. 논문 스터디에 대하여 요약된 글도 좋다.
+* [매주 한편씩 글을 작성하는 자연어처리 블로그 - 위클리 NLP](https://jiho-ml.com/)
+  * 매주 한 편씩 자연어처리 관련 블로그 글을 게재하며, 퀄리터 또한 우수하다.
 
 * [한국어 임베딩 깃험](https://ratsgo.github.io/embedding/)
   * 한국어 임베딩 도서 튜토리얼 페이지. 한국어 자연어처리에 관심있는 분들은 한 번쯤 보시길.
@@ -467,6 +469,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
 * [자연어처리 100제](https://nlp100.github.io/ko/)
   - 자연어 처리 관련된 문제 100제를 풀어보는 사이트
+* [자연어(NLP) 처리 기초 정리](http://hero4earth.com/blog/learning/2018/01/17/NLP_Basics_01/)
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
@@ -475,7 +478,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - GUI로 텐서플로우 모델 만들기
 * [arXiv - 논문저장소](https://arxiv.org/)
   - 논문 저장소. 인공지능, 프로그래밍 등 거의 모든 논문을 찾아볼 수 있다.
-
 * [arXiv sanity](https://arxiv.org/)
   - 일정 기간동안 원하는 주제에 대한 인기 있는 arXiv 논문을 볼 수 있다.
 
@@ -604,6 +606,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 - [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
 - [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
 - [Korpora: Korean Corpora Archives - 한글 자연어처리 관련 데이터셋](https://github.com/ko-nlp/Korpora)
+- [KorQuAD2.0 - 한글 질문답변 데이터셋](https://korquad.github.io/)
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
