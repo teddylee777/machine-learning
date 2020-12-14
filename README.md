@@ -164,6 +164,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
   * [Stanford - CS231n - Backpropagation(한글설명) - Kyoseok Song님](https://www.youtube.com/watch?v=qtINaHvngm8)
+  * [오차역전파의 이해 - 테디노트](https://youtu.be/1Q_etC_GHHk)
   * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
   * [인공지능을 위한 머신러닝 알고리즘 7강 역전파 - TAcademy](https://www.youtube.com/watch?v=kHUvoNX8fsE)
 * **손실 함수 (Loss Functions)**
