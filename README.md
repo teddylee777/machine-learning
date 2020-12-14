@@ -213,10 +213,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **Recurrent Neural Networks (RNN)**
   * [Stanford - CS231n - Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=10)
   * [Programming LSTM with Keras and TensorFlow](https://www.youtube.com/watch?v=UnclHXZszpw&t=572s)
+  * [LSTM 쉽게 이해하기 - 허민석님](https://youtu.be/bX6GLbpw-A4)
+  * [(CS231n 한글설명) RNN, LSTM - 송교석님](https://youtu.be/2ngo9-YCxzY)
 
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
   * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
+  * [Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - 동빈나님](https://www.youtube.com/watch?v=AA621UofTUA)
+  * [Seq2Seq: Sequence to Sequence Learning with Neural Networks - 동빈나님](https://www.youtube.com/watch?v=4DzKM0vgG1Y)
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
 
 * **음성인식 (Speech Recognition)** 
