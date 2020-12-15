@@ -112,7 +112,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 수학 (Mathmatics)
 * **기초**
-  * [머신러닝, 딥러닝을 위한 기초 수학 - 이경록](https://www.youtube.com/watch?v=vS51prw_yfw)
+  * [머신러닝, 딥러닝을 위한 기초 수학 - 테디노트](https://www.youtube.com/watch?v=vS51prw_yfw)
   
 * **미분**
   * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
@@ -156,8 +156,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * **경사하강법 (Gradient Descent)**
   * [경사 하강, 신경 네트워크가 학습하는 방법 | 심층 학습, 2장 - 3Blue1Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w)
-  * [경사하강법 기본 개념 (수학편) - 이경록님](https://www.youtube.com/watch?v=GEdLNvPIbiM)
-  * [경사하강법 파이썬 코드로 구현 - 이경록님](https://youtu.be/KgH3ZWmMxLE)
+  * [경사하강법 기본 개념 (수학편) - 테디노트](https://www.youtube.com/watch?v=GEdLNvPIbiM)
+  * [경사하강법 파이썬 코드로 구현 - 테디노트](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
  
 * **오차 역전파 (Back Propagation)**
@@ -170,7 +170,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
-  * [최소제곱법 증명 - 이경록](https://www.youtube.com/watch?v=-oBmMED_5rI)
+  * [최소제곱법 증명 - 테디노트](https://www.youtube.com/watch?v=-oBmMED_5rI)
   * [Least Squares Estimators 증명 - jbstatistics](https://www.youtube.com/watch?v=ewnc1cXJmGA)
   * [최소자승법 - Least Squares Criterion Part 1 - patrickJMT](https://www.youtube.com/watch?v=0T0z8d0_aY4)
   * [최소자승법 - Least Squares Criterion Part 2 - patrickJMT](https://www.youtube.com/watch?v=1C3olrs1CUw)
@@ -221,7 +221,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
   * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
+  * [트랜스포머(어텐션 이즈 올 유 니드) - 허민석님](https://youtu.be/mxGCEWOxfe8)
   * [Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - 동빈나님](https://www.youtube.com/watch?v=AA621UofTUA)
+  * [(CS231n 한글설명) Attention - 송교석님](https://youtu.be/Bmx2S1dSAV0)
+  * [시퀀스 투 시퀀스 + 어텐션 모델 - 허민석님](https://youtu.be/WsQLdu2JMgI)
   * [Seq2Seq: Sequence to Sequence Learning with Neural Networks - 동빈나님](https://www.youtube.com/watch?v=4DzKM0vgG1Y)
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
 
