@@ -242,7 +242,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
   
-* **생산적 적대 신경망 (Generative Adversarial Network)**
+* **생성적 적대 신경망 (Generative Adversarial Network)**
   * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
   * [Basic of GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=LeMnE1TIil4)
   * [DC GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
