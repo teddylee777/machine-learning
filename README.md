@@ -339,8 +339,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
 
-
-
 ## 블로그 (Blogs)
 
 * [테디노트](https://teddylee777.github.io/)
