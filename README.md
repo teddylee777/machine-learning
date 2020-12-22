@@ -113,6 +113,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 수학 (Mathmatics)
 * **기초**
   * [머신러닝, 딥러닝을 위한 기초 수학 - 테디노트](https://www.youtube.com/watch?v=vS51prw_yfw)
+  * [수학 기호 - 리브레 위키](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8)
   
 * **미분**
   * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
