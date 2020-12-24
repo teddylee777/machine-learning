@@ -1,7 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
 ## 기여자 (Contributors)
-[HongJaeKwon](https://github.com/HongJaeKwon), [Kaintels](https://github.com/Kaintels)
+[HongJaeKwon](https://github.com/HongJaeKwon), [Seungwoo Han](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim)
 
 더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
@@ -76,6 +76,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
+* [TensorFlow2 강의 - Shin's Lab](https://www.youtube.com/watch?v=-MIH2wNfylo&list=PLtm_YtKTtDkQJtgGSQnZzMJBRHyqANnQi)
+  * 깔끔한 설명과 수학에 대한 친절한 설명까지 곁들여진 강의. 강의자의 전달력이 좋고, 코드 설명과 더불어 논문에 대한 내용도 다룬다.
   
 * [Pytorch Zero To All (영문) - 김성훈 교수님](<https://youtu.be/SKq-pmkekTk>)
 
@@ -91,6 +93,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
  - [통계 (Statistics)](#통계-statistics)
  - [머신러닝 (Machine Learning)](#머신러닝-machine-learning)
  - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
+ - [최적화 & AutoML (Optimization-AutoML)](#최적화--AutoML-optimization--automl)
+ - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
  - [시각화 (Visualization)](#시각화-visualization)
  - [캐글 & 데이콘](#캐글--데이콘)
  - [블로그 (Blogs)](#블로그-blogs)
@@ -108,7 +112,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 수학 (Mathmatics)
 * **기초**
-  * [머신러닝, 딥러닝을 위한 기초 수학 - 이경록](https://www.youtube.com/watch?v=vS51prw_yfw)
+  * [머신러닝, 딥러닝을 위한 기초 수학 - 테디노트](https://www.youtube.com/watch?v=vS51prw_yfw)
+  * [수학 기호 - 리브레 위키](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8)
   
 * **미분**
   * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
@@ -152,20 +157,21 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * **경사하강법 (Gradient Descent)**
   * [경사 하강, 신경 네트워크가 학습하는 방법 | 심층 학습, 2장 - 3Blue1Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w)
-  * [경사하강법 기본 개념 (수학편) - 이경록님](https://www.youtube.com/watch?v=GEdLNvPIbiM)
-  * [경사하강법 파이썬 코드로 구현 - 이경록님](https://youtu.be/KgH3ZWmMxLE)
+  * [경사하강법 기본 개념 (수학편) - 테디노트](https://www.youtube.com/watch?v=GEdLNvPIbiM)
+  * [경사하강법 파이썬 코드로 구현 - 테디노트](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
  
 * **오차 역전파 (Back Propagation)**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
   * [Stanford - CS231n - Backpropagation(한글설명) - Kyoseok Song님](https://www.youtube.com/watch?v=qtINaHvngm8)
+  * [오차역전파의 이해 - 테디노트](https://youtu.be/1Q_etC_GHHk)
   * [신경망의 역전파 - Chanwoo Timothy Lee님](https://www.youtube.com/watch?v=fhrORKjjU7w)
   * [인공지능을 위한 머신러닝 알고리즘 7강 역전파 - TAcademy](https://www.youtube.com/watch?v=kHUvoNX8fsE)
 * **손실 함수 (Loss Functions)**
   * [Stanford - CS231n - Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * **선형회귀 (Linear Regression)**
-  * [최소제곱법 증명 - 이경록](https://www.youtube.com/watch?v=-oBmMED_5rI)
+  * [최소제곱법 증명 - 테디노트](https://www.youtube.com/watch?v=-oBmMED_5rI)
   * [Least Squares Estimators 증명 - jbstatistics](https://www.youtube.com/watch?v=ewnc1cXJmGA)
   * [최소자승법 - Least Squares Criterion Part 1 - patrickJMT](https://www.youtube.com/watch?v=0T0z8d0_aY4)
   * [최소자승법 - Least Squares Criterion Part 2 - patrickJMT](https://www.youtube.com/watch?v=1C3olrs1CUw)
@@ -209,10 +215,18 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **Recurrent Neural Networks (RNN)**
   * [Stanford - CS231n - Recurrent Neural Networks](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=10)
   * [Programming LSTM with Keras and TensorFlow](https://www.youtube.com/watch?v=UnclHXZszpw&t=572s)
+  * [RNN 기초 (순환신경망 - Vanilla RNN) - 허민석님](https://youtu.be/PahF2hZM6cs)
+  * [LSTM 쉽게 이해하기 - 허민석님](https://youtu.be/bX6GLbpw-A4)
+  * [(CS231n 한글설명) RNN, LSTM - 송교석님](https://youtu.be/2ngo9-YCxzY)
 
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
   * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
+  * [트랜스포머(어텐션 이즈 올 유 니드) - 허민석님](https://youtu.be/mxGCEWOxfe8)
+  * [Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - 동빈나님](https://www.youtube.com/watch?v=AA621UofTUA)
+  * [(CS231n 한글설명) Attention - 송교석님](https://youtu.be/Bmx2S1dSAV0)
+  * [시퀀스 투 시퀀스 + 어텐션 모델 - 허민석님](https://youtu.be/WsQLdu2JMgI)
+  * [Seq2Seq: Sequence to Sequence Learning with Neural Networks - 동빈나님](https://www.youtube.com/watch?v=4DzKM0vgG1Y)
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
 
 * **음성인식 (Speech Recognition)** 
@@ -229,12 +243,38 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
   
-* **생산적 적대 신경망 (Generative Adversarial Network)**
+* **생성적 적대 신경망 (Generative Adversarial Network)**
   * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
-
+  * [Basic of GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=LeMnE1TIil4)
+  * [DC GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
+  * [DC GAN 논문 이해하기 - YBIGTA](https://www.youtube.com/watch?v=7btUjE2y4NA)
+  * [Finding connections among images using CycleGAN - naver d2](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
+  * [머신러닝/딥러닝 강의 - 016 CycleGAN 한방에 끝내기 - hanyoseob님](https://www.youtube.com/watch?v=zAVCeF5cFNc)
+  
+  
 * **기타**
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
+  * [Why Does Batch Norm Work? (Batch Norm이 좋은 이유) - Andrew Ng교수님](https://www.youtube.com/watch?v=nUUqwaxLnWs)
+
+## 최적화 & AutoML (Optimization & AutoML)
+* **유전 알고리즘 기반**
+  * [최단 경로 검색 인공지능 feat.유전알고리즘, TSP](https://www.youtube.com/watch?v=H8beAqbiWZw)
+* **베이지안 기반**
+  * [[ML] 베이지안 최적화 (Bayesian Optimization)](https://wooono.tistory.com/102)
+* **하이퍼밴드 기반**
+  * [Hyperband 논문 설명](https://pod3275.github.io/paper/2019/05/23/Hyperband.html)
+* **Neural Architecture Search**
+  * [NASnet 설명](https://www.secmem.org/blog/2019/07/19/Network-Architecture-Search/)  
+  * [ENAS 설명](https://jayhey.github.io/deep%20learning/2018/03/15/ENAS/)  
+  * [PNAS 설명](https://m.blog.naver.com/PostView.nhn?blogId=za_bc&logNo=221576139392&proxyReferer=https:%2F%2Fwww.google.com%2F)  
+
+
+## 메타러닝 (Meta Learning)
+* **이론**
+  * [Meta-Learning: Learning to Learn Fast 설명](https://talkingaboutme.tistory.com/entry/DL-Meta-Learning-Learning-to-Learn-Fast)
+* **메타 강화학습**
+  * [Meta Reinforcement Learning 설명](https://talkingaboutme.tistory.com/entry/RL-Meta-Reinforcement-Learning)
 
 ## 시각화 (Visualization)
 * **Bokeh**
@@ -300,12 +340,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
 
-
-
 ## 블로그 (Blogs)
 
 * [테디노트](https://teddylee777.github.io/)
   - 데이터분석, 머신러닝, 딥러닝 블로그
+
+* [생새우초밥집](https://freshrimpsushi.tistory.com/)
+  - 통계 관련 지식이 잘 정리되어 있는 블로그
   
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
   - 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
@@ -334,6 +375,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * [수아랩 이호성님 블로그](https://hoya012.github.io/)
   * 수준 높은 논문을 정리한 글들이 많다. 논문 스터디에 대하여 요약된 글도 좋다.
+* [매주 한편씩 글을 작성하는 자연어처리 블로그 - 위클리 NLP](https://jiho-ml.com/)
+  * 매주 한 편씩 자연어처리 관련 블로그 글을 게재하며, 퀄리터 또한 우수하다.
 
 * [한국어 임베딩 깃험](https://ratsgo.github.io/embedding/)
   * 한국어 임베딩 도서 튜토리얼 페이지. 한국어 자연어처리에 관심있는 분들은 한 번쯤 보시길.
@@ -358,6 +401,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 깃헙 저장소 (GitHub)
 
 **튜토리얼(Tutorial)**
+* [스탠포드 강의 한글 번역 repo - AIKorea.org](https://github.com/aikorea/cs231n)
+  - 스탠포드 강의 요약본을 한글로 번역한 github repo
 * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
   - 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
@@ -386,6 +431,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 국민은행에서 공개한 한글 ALBERT 모델
 * [카카오 Khaiii 형태소 분석기](https://github.com/kakao/khaiii)
   * 카카오에서 개발한 형태소 분석기 (Khaiii) 공식 깃헙
+* [한글 자연어처리 기법 모음](https://colab.research.google.com/drive/1FfhWsP9izQcuVl06P30r5cCxELA1ciVE?usp=sharing)
+  * 직접 실행해 볼 수 있는 Colab 파일입니다. 각 종 한글 데이터 전처리 기법들을 모아 놓았습니다.
+* [Text Analysis - 고려대 DSBA 강필성 교수님](https://github.com/pilsung-kang/Text-Analytics)
+  * 강의 슬라이드와 교안까지 깔끔하게 정리되어 있는 깃헙. 쉽고 템포를 천천히 강의해 주시기 때문에 듣기 편하고 이해가 비교적 쉽습니다.
   
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
@@ -426,19 +475,21 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
-* [AI Hub](http://www.aihub.or.kr/)
-  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
 * [Keras Examples](https://keras.io/examples/)
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
 * [자연어처리 100제](https://nlp100.github.io/ko/)
   - 자연어 처리 관련된 문제 100제를 풀어보는 사이트
+* [자연어(NLP) 처리 기초 정리](http://hero4earth.com/blog/learning/2018/01/17/NLP_Basics_01/)
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
   - OpenAI의 강화 학습 교육 자료
 * [GUI for TensorFlow](https://www.perceptilabs.com/home)
   - GUI로 텐서플로우 모델 만들기
-
+* [arXiv - 논문저장소](https://arxiv.org/)
+  - 논문 저장소. 인공지능, 프로그래밍 등 거의 모든 논문을 찾아볼 수 있다.
+* [arXiv sanity](https://arxiv.org/)
+  - 일정 기간동안 원하는 주제에 대한 인기 있는 arXiv 논문을 볼 수 있다.
 
 ## 위키독스 (Wiki Docs)
 
@@ -559,15 +610,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 - [공공데이터포털](https://www.data.go.kr/)
 - [Open Data Inception](https://opendatainception.io/)
 - [AI Hub](http://www.aihub.or.kr/)
+  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
 - [Appen](https://appen.com/resources/datasets/)
 - [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
 - [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
 - [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
+- [Korpora: Korean Corpora Archives - 한글 자연어처리 관련 데이터셋](https://github.com/ko-nlp/Korpora)
+- [KorQuAD2.0 - 한글 질문답변 데이터셋](https://korquad.github.io/)
+* [모두의말뭉치 - 국립국어원](https://corpus.korean.go.kr/)
 
 ## 텐서플로우 자격증
-* [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/KBMQZy)
+* [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
 
 ## 기타
 
 - [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
-
+- [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+  - 데이터 이해하기 (통계, 시각화) 
