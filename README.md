@@ -55,9 +55,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Machine Learning by coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
-* [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
-  * 머신러닝 스터디에 본격적으로 들어가기에 앞서 "데이터 과학을 위한 파이썬 입문" 추천. 다만 강의는 **유료** (3만 3천원)
-
+* [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://www.youtube.com/watch?v=1Z-lT4ooSFY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+  * 머신러닝 스터디에 본격적으로 들어가기에 앞서 "[데이터 과학을 위한 파이썬 입문](https://www.youtube.com/watch?v=t84jQTwMFuE&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)" 추천. 다만 강의는 인프런에서 **유료** (3만 3천원), 유튜브에서도 청취가능
 * [모두를 위한 딥러닝 시즌 1 (Tensorflow) - 김성훈 교수님](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * 입문용으로 최고의 강의임. tensorflow와 익숙하지 않아도 예제를 보면서 차근 차근 따라할 수 있음.
 * [고등학교 수학만 알면 따라할 수 있는 인공지능, 머신러닝, 딥러닝 - 바람님](https://www.youtube.com/watch?v=-JWv0ed9R5g&list=PLsS-TVNjbU7clDOjpAZKud3uG8APHDq_M)
