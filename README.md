@@ -286,8 +286,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Azure 머신러닝 - 퇴근후딴짓](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 * **데이터베이스**
   * [RDBMS와 SQL 맛보기 - T아카데미](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
-
-
+* **페이스북 Prophet**
+  * [페이스북 Prophet으로 삼성전자 주가 예측하기! (시계열 데이터 예측) - 테디노트](https://www.youtube.com/watch?v=Sm-YBPUe3qU)
+  * [시계열 데이터 분석#1: 페이스북 Prophet, 빠른시작 - 퇴근후딴짓](https://www.youtube.com/watch?v=teD60NOLQL0)
+  * [시계열 데이터 분석#2: 페이스북 Prophet, Saturating Forecasts - 퇴근후딴짓](https://www.youtube.com/watch?v=BcmyGFNl3GA)
+  * [시계열 데이터 분석#3: 페이스북 Prophet, Trend Change points - 퇴근후딴짓](https://www.youtube.com/watch?v=LPd2WRJFxjU)
 
 ## 캐글 & 데이콘
 
