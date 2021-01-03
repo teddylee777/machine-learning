@@ -363,6 +363,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [안수빈님의 블로그](https://subinium.github.io/)
   * 시각화에 대한 내용이 굉장히 정리가 잘 되어있는 블로그
   
+* [LOVIT X DATA SCIENCE 블로그](https://lovit.github.io/)
+  * 연구 내용 중심의 데이터 사이언스 관련 블로그. 전문적인 내용이 많이 게재되어 있는 곳.
+  
 * [Google - Tensorflow Get Started (영문)](https://www.tensorflow.org/tutorials/)
 
   - Google의 공식 document 사이트 이며, Tensorflow 의 기본 구현 방법 튜토리얼
