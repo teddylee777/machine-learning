@@ -570,7 +570,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [혁펜하임](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
   * 머신러닝, 딥러닝 관련 강의를 재밌고, 이해 하기 쉽게 설명하는 유튜브 채널.
   
-* [퇴근후딴짓)(https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA)
+* [퇴근후딴짓](https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA)
   * 캐글 튜토리얼과 다양한 머신러닝 툴에 대해서도 다룹니다. 차분하게 배워볼 수 있는 유튜브 채널.
 
 * [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
