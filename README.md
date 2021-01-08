@@ -306,6 +306,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 캐글 & 데이콘
 
+### 캐글이 처음이라면?
+
+**Hello Kaggle!**
+
+* [Hello Kaggle! - stevekwon211 님](https://github.com/stevekwon211/Hello-Kaggle-KOR)
+  * 캐글에 대한 소개, 컨트리부터 되기, 대회 진행하는 법, 데이터셋, API 등이 설명되어 있는 문서 
+
 ### 강의 & 강연
 
 **정형데이터**
