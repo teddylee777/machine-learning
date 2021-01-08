@@ -266,6 +266,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
   * [Why Does Batch Norm Work? (Batch Norm이 좋은 이유) - Andrew Ng교수님](https://www.youtube.com/watch?v=nUUqwaxLnWs)
+  * [Adam Optimization Algorithm - Andrew Ng교수님](https://www.youtube.com/watch?v=JXQT_vxqwIs)
+  
 
 ## 최적화 & AutoML (Optimization & AutoML)
 * **유전 알고리즘 기반**
@@ -491,11 +493,15 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
+* [Codetorial](https://codetorial.net/?i=1)
+  - numpy, matpoltlib, tensorflow 뿐만 아니라 파이썬에서 많이 사용되는 라이브러리들에 대한 튜토리얼들이 정리되어 있습니다.
 * [Keras Examples](https://keras.io/examples/)
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
 * [자연어처리 100제](https://nlp100.github.io/ko/)
   - 자연어 처리 관련된 문제 100제를 풀어보는 사이트
 * [자연어(NLP) 처리 기초 정리](http://hero4earth.com/blog/learning/2018/01/17/NLP_Basics_01/)
+* [Machine Learning Mastery(영문)](https://machinelearningmastery.com/)
+  - 머신 러닝 개념을 파이썬 코드를 통해 직접 구현해 볼 수 있습니다. 제공해 주는 Python 코드 예제가 좋습니다.
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
@@ -562,13 +568,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 공돌이의 수학정리노트 블로그에 이은, 쉽게 설명하는 수학 강의 영상 채널.
   
 * [혁펜하임](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
-  * 머신러닝, 딥러닝 관련 강의를 재밌고, 이해 하기 쉽게 설명하는 유튜브 채널
+  * 머신러닝, 딥러닝 관련 강의를 재밌고, 이해 하기 쉽게 설명하는 유튜브 채널.
   
 * [퇴근후딴짓)(https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA)
   * 캐글 튜토리얼과 다양한 머신러닝 툴에 대해서도 다룹니다. 차분하게 배워볼 수 있는 유튜브 채널.
 
 * [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
   * 텐서플로우 관련 영상들이 주를 이룹니다. 데이터 분석, 머신러닝, 그리고 딥러닝 주제를 다루는 유튜브 채널.
+  
+* [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+  * 머신러닝의 배경이 되는 통계학을 그림과 함께 쉽고 간결하게 설명해 주는 채널.
 
 ## 논문 읽기 (YouTube)
 
