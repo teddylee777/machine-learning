@@ -113,14 +113,24 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **기초**
   * [머신러닝, 딥러닝을 위한 기초 수학 - 테디노트](https://www.youtube.com/watch?v=vS51prw_yfw)
   * [수학 기호 - 리브레 위키](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8)
+  * [자연상수 e가 필요한 이유 - 공돌이의 수학정리노트](https://www.youtube.com/watch?v=_EY8QUKWrhc)
+  * [What is ln (Natural Logarithm) - Arnold Tutoring](https://www.youtube.com/watch?v=e7Yfub7xlDg)
   
 * **미분**
   * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
   * [머신러닝/딥러닝 수학 입문 2강 - 미분 | T아카데미](https://www.youtube.com/watch?v=JQe7S-gOElk&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=3)
+  * [쌍곡선 함수란? (hyperbolic functions) - 만만한수학TV(이상준 교수님)](https://www.youtube.com/watch?v=3DvmUlAIPaw)
+  
 * **유사도**
   * [컴퓨터가 두 데이터(이미지 혹은 자연어)의 유사성을 측정하는 방법: 유클리드 거리, 코사인 유사도 - 동빈나님](https://www.youtube.com/watch?v=EGEQutnxjDU&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=5)
+  
 * **선형대수**
   * [머신러닝/딥러닝 수학 입문 4강 - 선형대수 | T아카데미](https://www.youtube.com/watch?v=0PhFyQyii7Q&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=5)
+  
+* **기타**
+  * [그래핑 계산기 - Desmos](https://www.desmos.com/calculator?lang=ko)
+    - 그래픽 계산기로 수학 공식을 그래프로 웹상에서 그려서 시각화해 줍니다.
+  
 
 ## 통계 (Statistics)
 
