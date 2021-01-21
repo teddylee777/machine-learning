@@ -1,7 +1,7 @@
 # Machine Learning Study 혼자 해보기
 
 ## 기여자 (Contributors)
-[HongJaeKwon](https://github.com/HongJaeKwon), [Seungwoo Han](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim)
+[HongJaeKwon](https://github.com/HongJaeKwon), [Seungwoo Han](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim), [Steve Kwon](https://github.com/stevekwon211)
 
 더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
@@ -36,6 +36,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
 * [파이썬 강좌 코딩 기초 강의 Python | 김왼손의 왼손코딩](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=1)
+* [딥러닝을 위한 파이썬 - 신경식님](https://learnaday.kr/open-course/ZiYShf)
 * [NumPy(넘파이) 기본 - T아카데미](https://www.youtube.com/watch?v=zNrDbG4tNGo&list=PL9mhQYIlKEhf04ToiDFvNzKL0OP4W27TW)
 * [Pandas 기본기 다지기 - T아카데미](https://www.youtube.com/watch?v=M_lKmt-wSvY&list=PL9mhQYIlKEhfG_gWF-DclKs6vXS6SkmQN)
 * [Pandas로 하는 시계열 데이터분석 - T아카데미](https://www.youtube.com/watch?v=oNLaw2Q8Irw&list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
@@ -55,9 +56,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Machine Learning by coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
-* [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
-  * 머신러닝 스터디에 본격적으로 들어가기에 앞서 "데이터 과학을 위한 파이썬 입문" 추천. 다만 강의는 **유료** (3만 3천원)
-
+* [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://www.youtube.com/watch?v=1Z-lT4ooSFY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+  * 머신러닝 스터디에 본격적으로 들어가기에 앞서 "[데이터 과학을 위한 파이썬 입문](https://www.youtube.com/watch?v=t84jQTwMFuE&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)" 추천. 다만 강의는 인프런에서 **유료** (3만 3천원), 유튜브에서도 청취가능
 * [모두를 위한 딥러닝 시즌 1 (Tensorflow) - 김성훈 교수님](https://www.youtube.com/watch?v=BS6O0zOGX4E&index=1&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * 입문용으로 최고의 강의임. tensorflow와 익숙하지 않아도 예제를 보면서 차근 차근 따라할 수 있음.
 * [고등학교 수학만 알면 따라할 수 있는 인공지능, 머신러닝, 딥러닝 - 바람님](https://www.youtube.com/watch?v=-JWv0ed9R5g&list=PLsS-TVNjbU7clDOjpAZKud3uG8APHDq_M)
@@ -113,14 +113,25 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 수학 (Mathmatics)
 * **기초**
   * [머신러닝, 딥러닝을 위한 기초 수학 - 테디노트](https://www.youtube.com/watch?v=vS51prw_yfw)
+  * [수학 기호 - 리브레 위키](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8)
+  * [자연상수 e가 필요한 이유 - 공돌이의 수학정리노트](https://www.youtube.com/watch?v=_EY8QUKWrhc)
+  * [What is ln (Natural Logarithm) - Arnold Tutoring](https://www.youtube.com/watch?v=e7Yfub7xlDg)
   
 * **미분**
   * [미분과 편미분(Ordinary Derivative & Partial Derivative) | 인공지능 및 컴퓨터 비전을 위한 수학 핵심 개념노트(Mathematics for AI) - 동빈나님](https://www.youtube.com/watch?v=tQHw2EovIOM&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=4)
   * [머신러닝/딥러닝 수학 입문 2강 - 미분 | T아카데미](https://www.youtube.com/watch?v=JQe7S-gOElk&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=3)
+  * [쌍곡선 함수란? (hyperbolic functions) - 만만한수학TV(이상준 교수님)](https://www.youtube.com/watch?v=3DvmUlAIPaw)
+  
 * **유사도**
   * [컴퓨터가 두 데이터(이미지 혹은 자연어)의 유사성을 측정하는 방법: 유클리드 거리, 코사인 유사도 - 동빈나님](https://www.youtube.com/watch?v=EGEQutnxjDU&list=PLRx0vPvlEmdAWjA5INMVJoqea18RQyUOk&index=5)
+  
 * **선형대수**
   * [머신러닝/딥러닝 수학 입문 4강 - 선형대수 | T아카데미](https://www.youtube.com/watch?v=0PhFyQyii7Q&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=5)
+  
+* **기타**
+  * [그래핑 계산기 - Desmos](https://www.desmos.com/calculator?lang=ko)
+    - 그래픽 계산기로 수학 공식을 그래프로 웹상에서 그려서 시각화해 줍니다.
+  
 
 ## 통계 (Statistics)
 
@@ -244,6 +255,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * **생성적 적대 신경망 (Generative Adversarial Network)**
   * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
+  * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - 동빈나님](https://www.youtube.com/watch?v=AVvlDmhHgC4)
   * [Basic of GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=LeMnE1TIil4)
   * [DC GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
   * [DC GAN 논문 이해하기 - YBIGTA](https://www.youtube.com/watch?v=7btUjE2y4NA)
@@ -255,6 +267,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
   * [Why Does Batch Norm Work? (Batch Norm이 좋은 이유) - Andrew Ng교수님](https://www.youtube.com/watch?v=nUUqwaxLnWs)
+  * [Adam Optimization Algorithm - Andrew Ng교수님](https://www.youtube.com/watch?v=JXQT_vxqwIs)
+  
 
 ## 최적화 & AutoML (Optimization & AutoML)
 * **유전 알고리즘 기반**
@@ -285,10 +299,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Azure 머신러닝 - 퇴근후딴짓](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 * **데이터베이스**
   * [RDBMS와 SQL 맛보기 - T아카데미](https://www.youtube.com/watch?v=DeaJVvdIBFg&list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
-
-
+* **페이스북 Prophet**
+  * [페이스북 Prophet으로 삼성전자 주가 예측하기! (시계열 데이터 예측) - 테디노트](https://www.youtube.com/watch?v=Sm-YBPUe3qU)
+  * [시계열 데이터 분석#1: 페이스북 Prophet, 빠른시작 - 퇴근후딴짓](https://www.youtube.com/watch?v=teD60NOLQL0)
+  * [시계열 데이터 분석#2: 페이스북 Prophet, Saturating Forecasts - 퇴근후딴짓](https://www.youtube.com/watch?v=BcmyGFNl3GA)
+  * [시계열 데이터 분석#3: 페이스북 Prophet, Trend Change points - 퇴근후딴짓](https://www.youtube.com/watch?v=LPd2WRJFxjU)
 
 ## 캐글 & 데이콘
+
+### 캐글이 처음이라면?
+
+**Hello Kaggle!**
+
+* [Hello Kaggle! - stevekwon211 님](https://github.com/stevekwon211/Hello-Kaggle-KOR)
+  * 캐글에 대한 소개, 컨트리부터 되기, 대회 진행하는 법, 데이터셋, API 등이 설명되어 있는 문서 
 
 ### 강의 & 강연
 
@@ -363,6 +387,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [안수빈님의 블로그](https://subinium.github.io/)
   * 시각화에 대한 내용이 굉장히 정리가 잘 되어있는 블로그
   
+* [LOVIT X DATA SCIENCE 블로그](https://lovit.github.io/)
+  * 연구 내용 중심의 데이터 사이언스 관련 블로그. 전문적인 내용이 많이 게재되어 있는 곳.
+  
 * [Google - Tensorflow Get Started (영문)](https://www.tensorflow.org/tutorials/)
 
   - Google의 공식 document 사이트 이며, Tensorflow 의 기본 구현 방법 튜토리얼
@@ -432,6 +459,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 카카오에서 개발한 형태소 분석기 (Khaiii) 공식 깃헙
 * [한글 자연어처리 기법 모음](https://colab.research.google.com/drive/1FfhWsP9izQcuVl06P30r5cCxELA1ciVE?usp=sharing)
   * 직접 실행해 볼 수 있는 Colab 파일입니다. 각 종 한글 데이터 전처리 기법들을 모아 놓았습니다.
+* [Text Analysis - 고려대 DSBA 강필성 교수님](https://github.com/pilsung-kang/Text-Analytics)
+  * 강의 슬라이드와 교안까지 깔끔하게 정리되어 있는 깃헙. 쉽고 템포를 천천히 강의해 주시기 때문에 듣기 편하고 이해가 비교적 쉽습니다.
   
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
@@ -472,11 +501,15 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [Paper With Code](https://paperswithcode.com/)
   - 논문과 관련된 깃허브 저장소를 동시에 제공합니다.
+* [Codetorial](https://codetorial.net/?i=1)
+  - numpy, matpoltlib, tensorflow 뿐만 아니라 파이썬에서 많이 사용되는 라이브러리들에 대한 튜토리얼들이 정리되어 있습니다.
 * [Keras Examples](https://keras.io/examples/)
   - 케라서 공식 도큐먼트에서 제공되는 example 예제 모음. 300줄 이하의 코드로 구성되어 있으며, 다양한 기본 예제들이 있다.
 * [자연어처리 100제](https://nlp100.github.io/ko/)
   - 자연어 처리 관련된 문제 100제를 풀어보는 사이트
 * [자연어(NLP) 처리 기초 정리](http://hero4earth.com/blog/learning/2018/01/17/NLP_Basics_01/)
+* [Machine Learning Mastery(영문)](https://machinelearningmastery.com/)
+  - 머신 러닝 개념을 파이썬 코드를 통해 직접 구현해 볼 수 있습니다. 제공해 주는 Python 코드 예제가 좋습니다.
 * [Deep Note](https://deepnote.com/)
   - Jupyter Notebook에 도전장을 내미는 데이터 사이언스 Notebook. 궁금하신 분들은 사용해 보시길!
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
@@ -543,7 +576,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 공돌이의 수학정리노트 블로그에 이은, 쉽게 설명하는 수학 강의 영상 채널.
   
 * [혁펜하임](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
-  * 머신러닝, 딥러닝 관련 강의를 재밌고, 이해 하기 쉽게 설명하는 유튜브 채널
+  * 머신러닝, 딥러닝 관련 강의를 재밌고, 이해 하기 쉽게 설명하는 유튜브 채널.
+  
+* [퇴근후딴짓](https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA)
+  * 캐글 튜토리얼과 다양한 머신러닝 툴에 대해서도 다룹니다. 차분하게 배워볼 수 있는 유튜브 채널.
+
+* [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
+  * 텐서플로우 관련 영상들이 주를 이룹니다. 데이터 분석, 머신러닝, 그리고 딥러닝 주제를 다루는 유튜브 채널.
+  
+* [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+  * 머신러닝의 배경이 되는 통계학을 그림과 함께 쉽고 간결하게 설명해 주는 채널.
 
 ## 논문 읽기 (YouTube)
 
