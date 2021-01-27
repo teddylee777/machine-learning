@@ -216,6 +216,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * **개요**
   * [신경망이란 무엇인가? | 1장.딥러닝에 관하여 - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
+  * [가중치 초기화](https://nittaku.tistory.com/269)
 
 * **Convolution Neural Networks (CNN)**
   * [Stanford - CS231n - Convolution Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=5)
