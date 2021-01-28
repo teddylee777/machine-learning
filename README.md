@@ -667,6 +667,19 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 프레임워크 (Framework)
 
+* [Tensorflow](https://www.facebook.com/groups/2190093671090112/)
+  * 딥 뉴럴 네트워크
+* [PyTorch](https://www.facebook.com/groups/2190093671090112/)
+  * 딥 뉴럴 네트워크
+* [Scikit-learn](https://www.facebook.com/groups/2190093671090112/)
+  * 머신러닝
+* [BindsNET](https://github.com/BindsNET/bindsnet)
+  * 스파이킹 뉴럴 네트워크 for Pytorch
+* [NengoDL](https://github.com/BindsNET/bindsnet)
+  * 스파이킹 뉴럴 네트워크 for Tensorflow
+* [HpBandster](https://github.com/BindsNET/bindsnet)
+  * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 프레임워크
+
 ## 오픈데이터
 
 - [공공데이터포털](https://www.data.go.kr/)
