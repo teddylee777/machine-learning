@@ -1,10 +1,31 @@
 # Machine Learning Study 혼자 해보기
 
-## 기여자 (Contributors)
-[HongJaeKwon](https://github.com/HongJaeKwon), [Seungwoo Han](https://github.com/Kaintels), [Tae Heon Kim](https://github.com/lovedlim), [Steve Kwon](https://github.com/stevekwon211)
+</div>
+<br />
+
+## 기여자 (Contributors) ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/teddylee777"><img src="https://avatars.githubusercontent.com/u/10074379?s=400&u=ee37ac1a4bb730df9c80d1ac92311cbbf61c680e&v=4" width="100px;" alt=""/><br /><sub><b>Teddy Lee</b></sub></a><br /><a href="https://teddylee777.github.io/" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/HongJaeKwon"><img src="https://avatars.githubusercontent.com/u/44965354?s=400&v=4" width="100px;" alt=""/><br /><sub><b>HongJaeKwon</b></sub></a><br /><a href="https://github.com/HongJaeKwon" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/lovedlim"><img src="https://avatars.githubusercontent.com/u/25129278?s=400&u=b0b5b71762434d2afc962add63ddb2a166d32dbe&v=4" width="100px;" alt=""/><br /><sub><b>Tae Heon Kim</b></sub></a><br /><a href="https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/stevekwon211"><img src="https://avatars.githubusercontent.com/u/61633137?s=400&u=fd514a668292884e640c15973976e0a0ec39fdbc&v=4" width="100px;" alt=""/><br /><sub><b>Steve Kwon</b></sub></a><br /><a href="https://velog.io/@kwonhl0211" title="Code">🏠</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!
 
+<br />
 
 ## 지식공유 (Knowledge Sharings)
 
@@ -105,6 +126,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
  - [논문 읽기 (YouTube)](#논문-읽기-youtube)
  - [데이터 사이언티스트 스토리 (Data Scientist Story)](#데이터-사이언티스트-스토리-data-scientist-story)
  - [페이스북 그룹 (Facebook Groups)](#페이스북-그룹-facebook-groups)
+ - [프레임워크 (Framework)](#프레임워크-framework)
  - [오픈데이터](#오픈데이터)
  - [텐서플로우 자격증](#텐서플로우-자격증)
  - [기타](#기타)
@@ -644,6 +666,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [GNN KR](https://www.facebook.com/groups/2190093671090112/)
   * 그래프 뉴럴 네트워크
 
+## 프레임워크 (Framework)
+
+* [Tensorflow](https://www.facebook.com/groups/2190093671090112/)
+  * 딥 뉴럴 네트워크
+* [PyTorch](https://www.facebook.com/groups/2190093671090112/)
+  * 딥 뉴럴 네트워크
+* [Scikit-learn](https://www.facebook.com/groups/2190093671090112/)
+  * 머신러닝
+* [BindsNET](https://github.com/BindsNET/bindsnet)
+  * 스파이킹 뉴럴 네트워크 for Pytorch
+* [NengoDL](https://github.com/nengo/nengo-dl)
+  * 스파이킹 뉴럴 네트워크 for Tensorflow
+* [HpBandster](https://github.com/automl/HpBandSter)
+  * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 프레임워크
 
 ## 오픈데이터
 
