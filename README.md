@@ -317,7 +317,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [대화형 웹 시각화 Bokeh - 재즐보프](https://www.youtube.com/watch?v=XbfQNJrIXZc)
 
 ## 기타 (Others)
-
+* **파이프라인**
+  * [머신러닝 시스템 디자인 패턴 - mecari](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
 * **Azure 머신러닝**
   * [Azure 머신러닝 - 퇴근후딴짓](https://www.youtube.com/watch?v=MIBPJV8krXM&list=PLSlDi2AkDv83W0Js_cjxlIg-CGKNi4VUX)
 * **데이터베이스**
