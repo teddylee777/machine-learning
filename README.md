@@ -621,6 +621,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
   * 머신러닝의 배경이 되는 통계학을 그림과 함께 쉽고 간결하게 설명해 주는 채널.
 
+* [Venelin Valkov](https://www.youtube.com/c/VenelinValkovBG/featured)
+  * 머신러닝을 활용한 예제 및 정보를 소개해주는 채널
+
+* [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+  * 머신러닝을 활용한 프로젝트 및 강좌 채널
+  
+  
 ## 논문 읽기 (YouTube)
 
 * [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
