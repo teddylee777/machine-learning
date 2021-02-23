@@ -336,7 +336,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **Hello Kaggle!**
 
 * [Hello Kaggle! - stevekwon211 님](https://github.com/stevekwon211/Hello-Kaggle-KOR)
-  * 캐글에 대한 소개, 컨트리부터 되기, 대회 진행하는 법, 데이터셋, API 등이 설명되어 있는 문서 
+  * 캐글에 대한 소개, 컨트리부터 되기, 대회 진행하는 법, 데이터셋, API 등이 설명되어 있는 문서
+* [인공지능 분야 천상계 대한민국 단 4명 뿐인 캐글 그랜드 마스터 인터뷰](https://www.youtube.com/watch?v=tu6b3xbTj6M)
+  * 이유한 님 인터뷰 with 조코딩님
 
 ### 강의 & 강연
 
@@ -489,6 +491,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **Computer Vision**
 * [Vision 처리 관련 튜토리얼 깃헙](https://github.com/nh9k/Computer-vision)
   * Computer Vision 관련 처리와 OpenCV 관련 튜토리얼이 저장된 깃헙
+
+**Signal Processing**
+* [생체신호처리 관련 튜토리얼 깃헙](https://github.com/biosignalsplux/biosignalsnotebooks)
+  * 뇌전도(EEG), 심전도(ECG), 근전도(EMG)에 관련된 신호 처리 튜토리얼이 저장된 깃헙  
   
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
@@ -673,11 +679,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 프레임워크 (Framework)
 
-* [Tensorflow](https://www.facebook.com/groups/2190093671090112/)
+* [Tensorflow](https://www.tensorflow.org/?hl=ko)
   * 딥 뉴럴 네트워크
-* [PyTorch](https://www.facebook.com/groups/2190093671090112/)
+* [PyTorch](https://pytorch.org/)
   * 딥 뉴럴 네트워크
-* [Scikit-learn](https://www.facebook.com/groups/2190093671090112/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
   * 머신러닝
 * [BindsNET](https://github.com/BindsNET/bindsnet)
   * 스파이킹 뉴럴 네트워크 for Pytorch
