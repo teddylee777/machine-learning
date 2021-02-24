@@ -456,22 +456,24 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **튜토리얼(Tutorial)**
 * [스탠포드 강의 한글 번역 repo - AIKorea.org](https://github.com/aikorea/cs231n)
-  - 스탠포드 강의 요약본을 한글로 번역한 github repo
+  - 스탠포드 강의 요약본을 한글로 번역한 github repo.
 * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
-  - 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙
+  - 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙.
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
 * [텐서플로우 공식 깃헙(한글)](https://github.com/tensorflow/docs-l10n/tree/master/site/ko)
   * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
 * [최성준님의 깃헙](https://github.com/sjchoi86)
-  * tensorflow를 활용한 많은 튜토리얼이 있음
+  * tensorflow를 활용한 많은 튜토리얼이 있음.
 * [Tensorflow2.0 Tutorial - 허민석님](https://github.com/minsuk-heo/tf2)
-  * 허민석님이 진행하는 유튜브 TensorFlow 2.0 강의와 실습자료가 있는 깃헙
+  * 허민석님이 진행하는 유튜브 TensorFlow 2.0 강의와 실습자료가 있는 깃헙.
+* [Learning Python A.I Framework - jjerry-k](https://github.com/jjerry-k/learning_framework?fbclid=IwAR385K6J4Mgp3FsWfvCFaU6JMgOldoSadJo9iJLunSNghutOWJMOncrtCk4)
+  * Tensorflow, PyTorch, MxNet으로 기본 모델부터 다양한 ImageNet 등등이 구현되어 정리되어 있는 깃헙.
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
-  - 김성훈 교수님 유튜브 강의 (밑바닥부터 시작하는 딥러닝) 깃헙
+  - 김성훈 교수님 유튜브 강의 (밑바닥부터 시작하는 딥러닝) 깃헙.
 * [deepLearningOpenLecture - 바람님](https://github.com/eventia/deepLearningOpenLecture)
-  * 유튜브 채널 바람님의 딥러닝 강의 실습 파일 깃헙
+  * 유튜브 채널 바람님의 딥러닝 강의 실습 파일 깃헙.
 
 **자연어처리(Natural Language Processing**
 
