@@ -158,6 +158,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 통계 (Statistics)
 
 * **통계 종합**
+  * [손으로 푸는 확률분포 - 통계의 본질 EOStatistics](https://www.youtube.com/watch?v=1Kj0_2nrWLo&list=PLmljWRabIwWDCLjAMfTPigyTe-jtsLca1)
+    * 입문자 혹은 통계학을 처음 접해보는 분들에게 적극 추천하는 강의목록 입니다. 매우 쉽게 설명되어 있고, 통계학의 기본 내용을 전반적으로 모두 다룹니다.
   * [경영통계분석 - 이상철 교수님](https://www.youtube.com/watch?v=ZdvXXBLIBnw&list=PLEUKy_nwlzwHhkGKF7l3lWxqYKTjnnv5M)
     * 통계학 입문자에게 듣기 굉장히 편하며, 입문자들도 알아듣기 쉽게 설명해 주시는 강의 입니다.
   * [제대로 시작하는 기초 통계학 - 노경섭님](https://www.youtube.com/watch?v=SCMyqKSuKeI&list=PLsri7w6p16vs-rMb1uXHfh3FiCk2WjEUG) 
@@ -601,7 +603,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 논문에 대한 리뷰, 구현까지 쉽게 설명해주시는 강의형 영상이 있습니다.
   
 * [이유한님 - 캐글](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ)
-  * 캐글 커널 리뷰와 다양한 캐글 팁들을 알려주시는 영상으로 구성되어 있는 채널입니다.
+  * 캐글 커널 리뷰와 다양한 캐글 팁들을 알려주시는 영상으로 구성되어 있는 채널.
   
 * [허민석님 - Minsuk Heo](https://www.youtube.com/channel/UCxP77kNgVfiiG6CXZ5WMuAQ)
   * 딥러닝 관련 영상들이 많이 게재되어 있으며, 깔끔한 PPT와 쉽고 간결한 설명의 강의 영상들이 많다.
@@ -626,6 +628,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
   * 머신러닝을 활용한 프로젝트 및 강좌 채널
+
+* [통계의 본질 EOStatistics](https://www.youtube.com/channel/UCVrs4KiLQz_gvVWWK1pKR1g)
+  * 통계의 이론 강의가 쉽게 설명되어 있는 유튜브 채널. 특히, 손으로 푸는 통계 강의 목록이 초심자에게는 매우 이해하기 쉽게 설명되어 있다.
   
   
 ## 논문 읽기 (YouTube)
