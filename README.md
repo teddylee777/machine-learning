@@ -87,6 +87,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 입문용으로 딥러닝에 대한 전반적인 이해를 위한 강의. 강의별 코드도 제공
 * [CS231n (영문) - Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   * 영어로 진행되는 강좌. 영어가 익숙하다면 제일 먼저 이 강의를 듣고 개념을 정리하는 것을 추천.
+* [CS329S: Machine Learning Systems Design (Winter 2021)](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR0m-M5Q4rgQIgGuQnZv_syF0sBS-A6juHc0WLN5URNBRkMJiTiDda2t_e8)
+  * 스탠포드 CS 329S 강의 실라버스. 강의 슬라이드와 노트가 공개되어 있다.
+  * [강의영상 링크(유튜브)](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
 * [캐글실습으로 배우는 데이터사이언스 - 오늘코드](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle)
   * 입문자를 위하여 이해하기 쉽게 설명해주는 강의이며, 캐글을 경험하지 못한 분들은 입문용 강의로 추천.
 * [청와대 국민청원 데이터로 파이썬 자연어처리 입문하기 - 오늘코드](https://www.youtube.com/watch?v=9QW7QL8fvv0&list=PLaTc2c6yEwmrtV81ehjOI0Y8Y-HR6GN78)
