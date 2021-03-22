@@ -75,6 +75,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **머신러닝 (Machine Learning) & 딥러닝 (Deep Learning)**
 
+* [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
+  * 무려 840개의 오픈소스 ML 프로젝트 깃헙을 모아놓은 저장소! 꼭 살펴보시길!
 * [Machine Learning by coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
 * [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://www.youtube.com/watch?v=1Z-lT4ooSFY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
@@ -471,6 +473,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 허민석님이 진행하는 유튜브 TensorFlow 2.0 강의와 실습자료가 있는 깃헙.
 * [Learning Python A.I Framework - jjerry-k](https://github.com/jjerry-k/learning_framework?fbclid=IwAR385K6J4Mgp3FsWfvCFaU6JMgOldoSadJo9iJLunSNghutOWJMOncrtCk4)
   * Tensorflow, PyTorch, MxNet으로 기본 모델부터 다양한 ImageNet 등등이 구현되어 정리되어 있는 깃헙.
+* [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
+  * 무려 840개의 오픈소스 ML 프로젝트 깃헙을 모아놓은 저장소
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
