@@ -532,8 +532,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **서적 예제**
 * [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
   - 파이썬을 배우기 위한 서적 연습문제 및 예제 소스코드 제공
-* [Pandas, Numpy, Visualization - PythonDataScienceHandbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
-  - PythonDataScienceHandbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
+* [Pandas, Numpy, Visualization - Python Data Science Handbook 튜토리얼](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+  - Python Data Science Handbook 튜토리얼이 잘 정리된 colab. Pandas, Numpy, Visualization관련된 실습을 진행할 수 있습니다.
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+  - (도마뱀책) Python Data Science Handbook 깃헙. 깃헙 스타 28K 이상. 
 * [모두의 딥러닝 개정2판 - 길벗출판사](https://github.com/gilbutITbook/080228)
   - 모두의 딥러닝 연습문제 및 예제 소스코드 제공
 * [머신러닝을 다루는 기술 with 파이썬, 사이킷런 (2020)](https://github.com/gilbutITbook/007017)
@@ -542,8 +544,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 핸즈온 머신러닝 서적의 예제 및 소스코드 제공
 * [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/ml-definitive-guide)
   - 권철민님의 파이썬 머신러닝 완벽가이드 깃헙. 인프런에서 강의와 서적을 함께 보면 좋은 깃헙.
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-  - (도마뱀책) Python Data Science Handbook 깃헙. 깃헙 스타 28K 이상.
+
 
 
 ## 웹사이트 (Web Sites)
