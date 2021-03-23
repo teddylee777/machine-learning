@@ -77,6 +77,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
   * 무려 840개의 오픈소스 ML 프로젝트 깃헙을 모아놓은 저장소! 꼭 살펴보시길!
+* [Machine Learning with Python](https://github.com/tirthajyoti/Machine-Learning-with-Python)
+  * 다양한 머신러닝 테크닉을 커버하는 튜토리얼 Jupyter Notebook을 모아놓은 GitHub!
 * [Machine Learning by coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
 * [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://www.youtube.com/watch?v=1Z-lT4ooSFY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
@@ -461,9 +463,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **튜토리얼(Tutorial)**
 * [스탠포드 강의 한글 번역 repo - AIKorea.org](https://github.com/aikorea/cs231n)
-  - 스탠포드 강의 요약본을 한글로 번역한 github repo.
+  * 스탠포드 강의 요약본을 한글로 번역한 github repo.
+* [Machine Learning with Python](https://github.com/tirthajyoti/Machine-Learning-with-Python)
+  * 다양한 머신러닝 테크닉을 커버하는 튜토리얼 Jupyter Notebook을 모아놓은 GitHub!
 * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
-  - 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙.
+  * 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙.
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
 * [텐서플로우 공식 깃헙(한글)](https://github.com/tensorflow/docs-l10n/tree/master/site/ko)
   * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
