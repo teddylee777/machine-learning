@@ -261,6 +261,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [LSTM 쉽게 이해하기 - 허민석님](https://youtu.be/bX6GLbpw-A4)
   * [(CS231n 한글설명) RNN, LSTM - 송교석님](https://youtu.be/2ngo9-YCxzY)
 
+* **모델 구현**
+  * [UNet 케라스](https://github.com/zhixuhao/unet)
+
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
   * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
