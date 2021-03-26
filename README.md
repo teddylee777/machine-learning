@@ -79,6 +79,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 무려 840개의 오픈소스 ML 프로젝트 깃헙을 모아놓은 저장소! 꼭 살펴보시길!
 * [Machine Learning with Python](https://github.com/tirthajyoti/Machine-Learning-with-Python)
   * 다양한 머신러닝 테크닉을 커버하는 튜토리얼 Jupyter Notebook을 모아놓은 GitHub!
+* [Scikit Learn 공식 홈페이지 튜토리얼](https://inria.github.io/scikit-learn-mooc/index.html)
+  * 사이킷런(Scikit Learn)을 활용한 데이터 분석 파이프라인 학습 및 머신러닝 라이브러리 활용
+  * 유튜브 튜토리얼(freeCodeCamp.org): https://www.youtube.com/watch?v=pqNCD_5r0IU
 * [Machine Learning by coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * 머신러닝을 처음 접하는 사람들을 위한 **입문**용 강좌. 무려 거장이신 Andrew Ng 교수님이 쉽게 설명해 주는 강의를 들을 수 있음.
 * [밑바닥부터 시작하는 머신러닝 - 최성철 교수님(TEAMLAB)](https://www.youtube.com/watch?v=1Z-lT4ooSFY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
