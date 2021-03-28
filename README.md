@@ -376,13 +376,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **입문 (For Beginners)**
 
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-  - 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
+  * 타이타닉 생존자 예측 대회. 사망/생존자 분류 대회
 * [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
-  - 자전거 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
+  * 자전거 수요 예측 대회. 수요를 예측하는 회귀예측(regression) 대회
 * [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview/evaluation)
-  - 신용 불량에 대한 리스크 예측 대회 (ROC-AUC)
+  * 신용 불량에 대한 리스크 예측 대회 (ROC-AUC)
 * [House Prices: Advanced Regression Technique](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-  - 집값 예측 대회 (회귀 예측)
+  * 집값 예측 대회 (회귀 예측)
 
 **비전 (Vision)**
 
@@ -407,13 +407,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 블로그 (Blogs)
 
 * [테디노트](https://teddylee777.github.io/)
-  - 데이터분석, 머신러닝, 딥러닝 블로그
+  * 데이터분석, 머신러닝, 딥러닝 블로그
 
 * [생새우초밥집](https://freshrimpsushi.tistory.com/)
-  - 통계 관련 지식이 잘 정리되어 있는 블로그
+  * 통계 관련 지식이 잘 정리되어 있는 블로그
   
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
-  - 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
+  * 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
 
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/01/09/Bayes_rule.html)
   * 머신러닝, 딥러닝에 꼭 필요한 수학을 정리한 블로그
@@ -433,7 +433,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * [Google - Tensorflow Get Started (영문)](https://www.tensorflow.org/tutorials/)
 
-  - Google의 공식 document 사이트 이며, Tensorflow 의 기본 구현 방법 튜토리얼
+  * Google의 공식 document 사이트 이며, Tensorflow 의 기본 구현 방법 튜토리얼
 
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
 
@@ -519,14 +519,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
-  - Keras를 활용한 GAN구현
+  * Keras를 활용한 GAN구현
 * [Keras-DCGAN](https://github.com/jacobgil/keras-dcgan)
-  - DCGAN에 대한 Tutorial 
+  * DCGAN에 대한 Tutorial 
 * [Keras-WGAN](https://github.com/tonyabracadabra/WGAN-in-Keras)
 * [미술관에 GAN 딥러닝](https://github.com/rickiepark/GDL_code)
-  - GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
+  * GAN에 관련된 번역 서적 실습용 GitHub repo 입니다. 다양한 예제들이 보기 쉽게 제공됩니다.
 * [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
-  - GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
+  * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
   
 **논문**
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
