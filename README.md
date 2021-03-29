@@ -47,7 +47,6 @@ This repository is intended for personal study in machine-learning
 -----
 
 
-
 ## 동영상 강의 묶음, 재생목록 (Video Lectures)
 
 Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입니다. 물론, 난이도와도 연관이 있습니다. 
@@ -729,24 +728,24 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 오픈데이터
 
-- [공공데이터포털](https://www.data.go.kr/)
-- [Open Data Inception](https://opendatainception.io/)
-- [AI Hub](http://www.aihub.or.kr/)
-  - 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
-- [Appen](https://appen.com/resources/datasets/)
-- [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
-- [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
-- [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
-- [Korpora: Korean Corpora Archives - 한글 자연어처리 관련 데이터셋](https://github.com/ko-nlp/Korpora)
-- [KorQuAD2.0 - 한글 질문답변 데이터셋](https://korquad.github.io/)
-- [모두의말뭉치 - 국립국어원](https://corpus.korean.go.kr/)
-- [Microsoft Azure Dataset](https://azure.microsoft.com/ko-kr/services/open-datasets/catalog/)
+* [공공데이터포털](https://www.data.go.kr/)
+* [Open Data Inception](https://opendatainception.io/)
+* [AI Hub](http://www.aihub.or.kr/)
+  * 정부지원 AI 관련 데이터, 소프트웨어, 컴퓨팅 자원지원, 경진대회 등이 존재하는 플랫폼
+* [Appen](https://appen.com/resources/datasets/)
+* [오픈데이터를 모아 놓은 깃헙](https://github.com/awesomedata/awesome-public-datasets)
+* [VisualData - Vision 관련 데이터셋](https://www.visualdata.io/)
+* [한국데이터거래소](http://lab.kdx.kr/adl/contest/main.php)
+* [Korpora: Korean Corpora Archives - 한글 자연어처리 관련 데이터셋](https://github.com/ko-nlp/Korpora)
+* [KorQuAD2.0 - 한글 질문답변 데이터셋](https://korquad.github.io/)
+* [모두의말뭉치 - 국립국어원](https://corpus.korean.go.kr/)
+* [Microsoft Azure Dataset](https://azure.microsoft.com/ko-kr/services/open-datasets/catalog/)
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
 
 ## 기타
 
-- [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
-- [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
-  - 데이터 이해하기 (통계, 시각화) 
+* [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
+* [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+  * 데이터 이해하기 (통계, 시각화) 
