@@ -507,6 +507,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 직접 실행해 볼 수 있는 Colab 파일입니다. 각 종 한글 데이터 전처리 기법들을 모아 놓았습니다.
 * [Text Analysis - 고려대 DSBA 강필성 교수님](https://github.com/pilsung-kang/Text-Analytics)
   * 강의 슬라이드와 교안까지 깔끔하게 정리되어 있는 깃헙. 쉽고 템포를 천천히 강의해 주시기 때문에 듣기 편하고 이해가 비교적 쉽습니다.
+* [TTS - mozilla](https://github.com/mozilla/TTS)
+  * Deep learning for Text to Speech. Advanced Text-to-Speech generation 깃헙.
 
 **Computer Vision**
 * [Vision 처리 관련 튜토리얼 깃헙](https://github.com/nh9k/Computer-vision)
@@ -515,7 +517,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **Signal Processing**
 * [생체신호처리 관련 튜토리얼 깃헙](https://github.com/biosignalsplux/biosignalsnotebooks)
   * 뇌전도(EEG), 심전도(ECG), 근전도(EMG)에 관련된 신호 처리 튜토리얼이 저장된 깃헙  
-  
+
 **GAN**
 * [Keras GAN](https://github.com/osh/KerasGAN)
   * Keras를 활용한 GAN구현
