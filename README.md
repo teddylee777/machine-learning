@@ -413,55 +413,35 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
   * 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
-
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/01/09/Bayes_rule.html)
   * 머신러닝, 딥러닝에 꼭 필요한 수학을 정리한 블로그
-  
 * [텐서 플로우 블로그](https://tensorflow.blog/)
   * 설명이 굳이 필요하지 않음. 텐서플로우를 다룬다면 모를리 없는 박해선님의 블로그. 좋은 책 번역을 많이 해주신다.
-  
 * [파이썬 킴](http://pythonkim.tistory.com/notice/25)
-
   * 김성훈 교수님의 "모두를 위한 딥러닝 시즌 1" 강좌별 정리가 되어 있는 블로그
-
 * [안수빈님의 블로그](https://subinium.github.io/)
   * 시각화에 대한 내용이 굉장히 정리가 잘 되어있는 블로그
-  
 * [LOVIT X DATA SCIENCE 블로그](https://lovit.github.io/)
   * 연구 내용 중심의 데이터 사이언스 관련 블로그. 전문적인 내용이 많이 게재되어 있는 곳.
-  
 * [Google - Tensorflow Get Started (영문)](https://www.tensorflow.org/tutorials/)
-
   * Google의 공식 document 사이트 이며, Tensorflow 의 기본 구현 방법 튜토리얼
-
 * [Laon People - Machine Learning](https://laonple.blog.me/221196685472)
-
 * [ratsgo's blog](https://ratsgo.github.io/blog/categories/#natural-language-processing)
   * 자연어 처리 분야 뿐만 아니라, 다른 딥러닝 관련 글도 퀄리티가 높다. 다만, 이해에 조금 어려운 부분도 있다.
-  
 * [수아랩 이호성님 블로그](https://hoya012.github.io/)
   * 수준 높은 논문을 정리한 글들이 많다. 논문 스터디에 대하여 요약된 글도 좋다.
 * [매주 한편씩 글을 작성하는 자연어처리 블로그 - 위클리 NLP](https://jiho-ml.com/)
   * 매주 한 편씩 자연어처리 관련 블로그 글을 게재하며, 퀄리터 또한 우수하다.
-
 * [한국어 임베딩 깃험](https://ratsgo.github.io/embedding/)
   * 한국어 임베딩 도서 튜토리얼 페이지. 한국어 자연어처리에 관심있는 분들은 한 번쯤 보시길.
-  
 * [추천 시스템 - 알고리즘 트렌드 정리](https://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
   * 추천 시스템 알고리즘 트렌드에 대하여 자세히 정리된 블로그
-
 * [Team AI Korea](http://aikorea.org/blog/)
-
 * [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
-
 * [TensorFlow 한글 문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/)
-
 * [Agustinus Kristiadi's Blog (영문)](https://wiseodd.github.io/page5/)
-
 * [Colah's Blog (영문)](http://colah.github.io/)
-
 * [강화학습 정리 - 오태호님](https://teamdable.github.io/techblog/Reinforcement-Learning)
-
 
 
 ## 깃헙 저장소 (GitHub)
@@ -487,12 +467,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
-  - 김성훈 교수님 유튜브 강의 (밑바닥부터 시작하는 딥러닝) 깃헙.
+  * 김성훈 교수님 유튜브 강의 (밑바닥부터 시작하는 딥러닝) 깃헙.
 * [deepLearningOpenLecture - 바람님](https://github.com/eventia/deepLearningOpenLecture)
   * 유튜브 채널 바람님의 딥러닝 강의 실습 파일 깃헙.
 
 **자연어처리(Natural Language Processing**
-
 * [한국어 임베딩 깃험](https://github.com/ratsgo/embedding)
   * 한국어 임베딩 도서에 관한 자료를 받아볼 수 있는 깃헙. 데이터 셋을 다운로드 받을 수 있습니다.
 * [텐서플로2와 머신러닝으로 시작하는 자연어처리](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2)
@@ -551,7 +530,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Reinforcement Learning-2ndEdition by Sutton Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
   - Reinforcement Learning 2nd Edition (Original Book by Richard S. Sutton,Andrew G. Barto) 풀이코드 깃헙.
 
-
 ## 웹사이트 (Web Sites)
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
   - 머신러닝 용어들이 정리되어 있는 구글 developer 사이트.
@@ -585,115 +563,79 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [Dive into Deep Learning](https://ko.d2l.ai/)
   * 코드, 수학, 토론이 함께하는 대화형 딥러닝 학습서라고 나와있으며, 강력 추천 하고 다만, 한글 번역은 완벽하지 않음. 꼭 한번 살펴 보시길!
-  
 * [점프 투 파이썬](https://wikidocs.net/book/1)
   * 파이썬을 책으로 배우고 싶다면!
-  
 * [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
   * 파이썬 기초 문법에 대한 300제 수록.
-  
 * [Machine Learning 강의노트](https://wikidocs.net/book/587)
   * Andrew Ng 교수님의 강의내용을 정리한 노트. 정말 잘 정리되어 있음.
-  
 * [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
   * PyTorch를 위키독스로 배우고 싶다면
-  
 * [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   * 자연어 처리 위키독스 (텐서플로우).
-  
 * [딥 러닝을 이용한 자연어 처리 심화](https://wikidocs.net/book/2159)
   * 조경현 교수님의 강의를 정리한 노트.
-  
 * [파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)
   * 증권사 연동 API를 활용한 트레이딩을 가능하게 해주는 파이썬 Wiki!
-  
 * [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)
   * 하둡, 하이브에 대한 내용 수록
 * [빅데이터 - 스칼라(scala), 스파크(spark)로 시작하기](https://wikidocs.net/book/2350)
   * 스칼라, 스파크를 배우고 싶다면
-  
-
-
 
 ## 유튜브 채널 (YouTube Channel)
-
 * [SKPlanet TAcademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
   * 인공지능 강의 뿐만아니라 테크 분야의 다양한 분야의 정말 좋은 강의를 무료로 제공합니다.
-  
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
   * 재미난 인공지능을 활용한 다양한 프로젝트를 진행해보고 풀이까지 쉽게 제공.
-  
 * [한요섭님 - 딥러닝](https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw)
   * 논문에 대한 리뷰, 구현까지 쉽게 설명해주시는 강의형 영상이 있습니다.
-  
 * [이유한님 - 캐글](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ)
   * 캐글 커널 리뷰와 다양한 캐글 팁들을 알려주시는 영상으로 구성되어 있는 채널.
-  
 * [허민석님 - Minsuk Heo](https://www.youtube.com/channel/UCxP77kNgVfiiG6CXZ5WMuAQ)
   * 딥러닝 관련 영상들이 많이 게재되어 있으며, 깔끔한 PPT와 쉽고 간결한 설명의 강의 영상들이 많다.
-  
 * [공돌이의 수학정리노트](https://www.youtube.com/user/AngeloYeo/)
   * 공돌이의 수학정리노트 블로그에 이은, 쉽게 설명하는 수학 강의 영상 채널.
-  
 * [혁펜하임](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
   * 머신러닝, 딥러닝 관련 강의를 재밌고, 이해 하기 쉽게 설명하는 유튜브 채널.
-  
 * [퇴근후딴짓](https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA)
   * 캐글 튜토리얼과 다양한 머신러닝 툴에 대해서도 다룹니다. 차분하게 배워볼 수 있는 유튜브 채널.
-
 * [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
   * 텐서플로우 관련 영상들이 주를 이룹니다. 데이터 분석, 머신러닝, 그리고 딥러닝 주제를 다루는 유튜브 채널.
-  
 * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
   * 머신러닝의 배경이 되는 통계학을 그림과 함께 쉽고 간결하게 설명해 주는 채널.
-
 * [Venelin Valkov](https://www.youtube.com/c/VenelinValkovBG/featured)
   * 머신러닝을 활용한 예제 및 정보를 소개해주는 채널
-
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
   * 머신러닝을 활용한 프로젝트 및 강좌 채널
-
 * [통계의 본질 EOStatistics](https://www.youtube.com/channel/UCVrs4KiLQz_gvVWWK1pKR1g)
   * 통계의 이론 강의가 쉽게 설명되어 있는 유튜브 채널. 특히, 손으로 푸는 통계 강의 목록이 초심자에게는 매우 이해하기 쉽게 설명되어 있다.
   
-  
 ## 논문 읽기 (YouTube)
-
 * [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
 * [딥러닝 논문 읽기 PR12-season2](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
 * [딥러닝 논문 읽기 PR12-season3](https://www.youtube.com/watch?v=D-baIgejA4M&list=PL_skMddDjnzq1wDI3t2cH9hlK6wBBapeA)
 * [딥러닝 논문 읽기 모임](https://www.youtube.com/channel/UCDULrK2OJsiDhFroa2Aj_LQ)
 
-
-
 ## 데이터 사이언티스트 스토리 (Data Scientist Story)
 
 **코딩하는 테크보이 워니**
-
 * [머신러닝, 딥러닝, 빅데이터가 도대체 뭐야? ft. 스탠포드 박사 - 코딩하는 테크보이 워니](https://www.youtube.com/watch?v=-tmypCjhfkE)
-
 * [인공지능 (머신러닝) 직장 취업 어떻게 해요? ft. 스탠포드 박사 - 코딩하는 테크보이 워니](https://www.youtube.com/watch?v=PX4Kzoxdbgo)
 
 **Data Scientist이지영님**
-
 * [비전공자가 데이터사이언티스트로 취업할 수 있는지, 취업 팁 - Data Scientist이지영님](https://www.youtube.com/watch?v=7vk_cRUCk38&list=PLfi-4a2tMaHSPJ_a1m6lTgOCDQgNF945G)
 * [데이터 사이언티스트 연봉, 휴가 이직에 대해 - Data Scientist이지영님](https://www.youtube.com/watch?v=3ue7nxqd7Ak&list=PLfi-4a2tMaHSPJ_a1m6lTgOCDQgNF945G&index=3)
 * [3년차 데이터과학자가 말하는 이 일이란? - Data Scientist이지영님](https://www.youtube.com/watch?v=-I8r_efiROU&list=PLfi-4a2tMaHSPJ_a1m6lTgOCDQgNF945G&index=2)
 
 **터닝포인트TP, 취업 전문 유튜브**
-
 * [데이터 사이언티스트 & 머신러닝 엔지니어? 현직자가 모두 알려준다!(ft.자연어 처리10년) - 터닝포인트TP, 취업 전문 유튜브](https://www.youtube.com/watch?v=ykkBHGrBGPQ)
 * [데이터 사이언티스트 연봉? 취업 전망? 10년차 엔지니어가 다 알려줌!! - 터닝포인트TP, 취업 전문 유튜브](https://www.youtube.com/watch?v=xBmycYVOO3Y)
 * [머신러닝과 데이터사이언티스트 진로? 학벌? 야근? 10년차 전문가가 모두 답변해드립니다!! - 터닝포인트TP, 취업 전문 유튜브](https://www.youtube.com/watch?v=nnHv8P21et8)
 
 **딥러닝호형 DL bro**
-
 * [머신러닝, 딥러닝, 인공지능, 데이터 분석 대학원 고민하고 계세요? - 딥러닝호형 DL bro](https://www.youtube.com/watch?v=APS1bLYBUjg)
 
-
-
 ## 페이스북 그룹 (Facebook Groups)
-
 * [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
   * 텐서플로우 코리아
 * [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
@@ -714,7 +656,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 그래프 뉴럴 네트워크
 
 ## 프레임워크 (Framework)
-
 * [Tensorflow](https://www.tensorflow.org/?hl=ko)
   * 딥 뉴럴 네트워크
 * [PyTorch](https://pytorch.org/)
@@ -729,7 +670,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 프레임워크
 
 ## 오픈데이터
-
 * [공공데이터포털](https://www.data.go.kr/)
 * [Open Data Inception](https://opendatainception.io/)
 * [AI Hub](http://www.aihub.or.kr/)
@@ -747,7 +687,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
 
 ## 기타
-
 * [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
 * [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
   * 데이터 이해하기 (통계, 시각화) 
