@@ -453,6 +453,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 다양한 머신러닝 테크닉을 커버하는 튜토리얼 Jupyter Notebook을 모아놓은 GitHub!
 * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
   * 10,000개 이상의 스타를 받은 PyTorch 튜토리얼 깃헙.
+* [Deep Learning (with PyTorch) by Atcold](https://github.com/Atcold/pytorch-Deep-Learning)
+  * pytorch를 활용한 튜토리얼 ipynb 노트북이 잘 정리된 튜토리얼 깃헙
 * [TensorFlow Example Source Code](https://github.com/aymericdamien/TensorFlow-Examples)
 * [텐서플로우 공식 깃헙(한글)](https://github.com/tensorflow/docs-l10n/tree/master/site/ko)
   * 텐서플로우 공식 운영중인 깃헙이며, 튜토리얼과 가이드가 있습니다.
