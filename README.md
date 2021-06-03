@@ -286,7 +286,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
 
-* **컴퓨터 비전**
+* **컴퓨터 비전 (Computer Vision)**
   * [Object Detection(객체 탐지) - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
   * [Semantic Segmentation (의미론적 분할) - UNet 케라스 구현](https://github.com/zhixuhao/unet)
   * [Self-Driving Car (자율주행) - source code of all the projects of Udacity Self-Driving Car Engineer Nanodegree](https://github.com/ndrplz/self-driving-car)
