@@ -125,6 +125,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
  - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
  - [최적화 & AutoML (Optimization-AutoML)](#최적화--AutoML-optimization--automl)
  - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
+ - [액티브러닝 (Active Learning)](#액티브러닝-active-learning)
+ - [연합학습 (Federated learning)](#연합학습-federated-learning)
  - [시각화 (Visualization)](#시각화-visualization)
  - [캐글 & 데이콘](#캐글--데이콘)
  - [블로그 (Blogs)](#블로그-blogs)
@@ -327,6 +329,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Meta-Learning: Learning to Learn Fast 설명](https://talkingaboutme.tistory.com/entry/DL-Meta-Learning-Learning-to-Learn-Fast)
 * **메타 강화학습**
   * [Meta Reinforcement Learning 설명](https://talkingaboutme.tistory.com/entry/RL-Meta-Reinforcement-Learning)
+
+## 액티브러닝 (Active Learning)
+* **이론**
+  * [Active Learning 이란 - 기본](https://kmhana.tistory.com/4)
+
+## 연합학습 (Federated Learning)
+* **이론**
+  * [연합 학습(Federated Learning), 그리고 챌린지](https://medium.com/curg/%EC%97%B0%ED%95%A9-%ED%95%99%EC%8A%B5-federated-learning-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B1%8C%EB%A6%B0%EC%A7%80-b5c481bd94b7)
 
 ## 시각화 (Visualization)
 * **Bokeh**
