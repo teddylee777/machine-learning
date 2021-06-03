@@ -125,6 +125,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
  - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
  - [최적화 & AutoML (Optimization-AutoML)](#최적화--AutoML-optimization--automl)
  - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
+ - [액티브러닝 (Active Learning)](#액티브러닝-active-learning)
+ - [연합학습 (Federated learning)](#연합학습-federated-learning)
  - [시각화 (Visualization)](#시각화-visualization)
  - [캐글 & 데이콘](#캐글--데이콘)
  - [블로그 (Blogs)](#블로그-blogs)
@@ -135,7 +137,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
  - [논문 읽기 (YouTube)](#논문-읽기-youtube)
  - [데이터 사이언티스트 스토리 (Data Scientist Story)](#데이터-사이언티스트-스토리-data-scientist-story)
  - [페이스북 그룹 (Facebook Groups)](#페이스북-그룹-facebook-groups)
- - [프레임워크 (Framework)](#프레임워크-framework)
+ - [라이브러리 (Library)](#라이브러리-library)
  - [오픈데이터](#오픈데이터)
  - [텐서플로우 자격증](#텐서플로우-자격증)
  - [기타](#기타)
@@ -195,6 +197,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Bayes theorem - 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 * **푸리에 변환**
   * [푸리에 변환이 대체 뭘까요? 그려서 보여드리겠습니다. - 3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY)
+* **경험적 모드 분해**
+  * [[Signal processing] EMD (Empricial mode decomposition): 경험적 모드 분해법](https://neosla.tistory.com/34)
+* **AR, MA, ARMA, ARIMA**
+  * [시계열 분석 이론의 기초](https://yamalab.tistory.com/112)
 
 ## 머신러닝 (Machine Learning)
 
@@ -263,8 +269,27 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [LSTM 쉽게 이해하기 - 허민석님](https://youtu.be/bX6GLbpw-A4)
   * [(CS231n 한글설명) RNN, LSTM - 송교석님](https://youtu.be/2ngo9-YCxzY)
 
-* **모델 구현**
-  * [UNet 케라스](https://github.com/zhixuhao/unet)
+* **생성적 적대 신경망 (Generative Adversarial Network)**
+  * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
+  * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - 동빈나님](https://www.youtube.com/watch?v=AVvlDmhHgC4)
+  * [Basic of GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=LeMnE1TIil4)
+  * [DC GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
+  * [DC GAN 논문 이해하기 - YBIGTA](https://www.youtube.com/watch?v=7btUjE2y4NA)
+  * [Finding connections among images using CycleGAN - naver d2](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
+  * [머신러닝/딥러닝 강의 - 016 CycleGAN 한방에 끝내기 - hanyoseob님](https://www.youtube.com/watch?v=zAVCeF5cFNc)
+
+* **강화학습 (Reinforcement Learning)**
+  * [강화학습 - 김성훈 교수님](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
+  * [강화학습(영문) - 데이비드 실버 교수님](https://www.davidsilver.uk/teaching/)
+  * [강화학습 개론(10강) - 팡요랩](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
+  * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
+  * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
+  * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
+
+* **컴퓨터 비전 (Computer Vision)**
+  * [Object Detection(객체 탐지) - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
+  * [Semantic Segmentation (의미론적 분할) - UNet 케라스 구현](https://github.com/zhixuhao/unet)
+  * [Self-Driving Car (자율주행) - source code of all the projects of Udacity Self-Driving Car Engineer Nanodegree](https://github.com/ndrplz/self-driving-car)
 
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
@@ -279,27 +304,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **음성인식 (Speech Recognition)** 
   * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
 
-* **객체탐지 (Object Detection)**
-  * [Object Detection - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
-  
-* **강화학습 (Reinforcement Learning)**
-  * [강화학습 - 김성훈 교수님](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
-  * [강화학습(영문) - 데이비드 실버 교수님](https://www.davidsilver.uk/teaching/)
-  * [강화학습 개론(10강) - 팡요랩](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
-  * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
-  * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
-  * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
-  
-* **생성적 적대 신경망 (Generative Adversarial Network)**
-  * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
-  * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - 동빈나님](https://www.youtube.com/watch?v=AVvlDmhHgC4)
-  * [Basic of GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=LeMnE1TIil4)
-  * [DC GAN - 딥러닝 홀로서기 by Idea Factory KAIST](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd)
-  * [DC GAN 논문 이해하기 - YBIGTA](https://www.youtube.com/watch?v=7btUjE2y4NA)
-  * [Finding connections among images using CycleGAN - naver d2](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
-  * [머신러닝/딥러닝 강의 - 016 CycleGAN 한방에 끝내기 - hanyoseob님](https://www.youtube.com/watch?v=zAVCeF5cFNc)
-  
-  
 * **기타**
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
@@ -325,6 +329,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Meta-Learning: Learning to Learn Fast 설명](https://talkingaboutme.tistory.com/entry/DL-Meta-Learning-Learning-to-Learn-Fast)
 * **메타 강화학습**
   * [Meta Reinforcement Learning 설명](https://talkingaboutme.tistory.com/entry/RL-Meta-Reinforcement-Learning)
+
+## 액티브러닝 (Active Learning)
+* **이론**
+  * [Active Learning 이란 - 기본](https://kmhana.tistory.com/4)
+
+## 연합학습 (Federated Learning)
+* **이론**
+  * [연합 학습(Federated Learning), 그리고 챌린지](https://medium.com/curg/%EC%97%B0%ED%95%A9-%ED%95%99%EC%8A%B5-federated-learning-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B1%8C%EB%A6%B0%EC%A7%80-b5c481bd94b7)
 
 ## 시각화 (Visualization)
 * **Bokeh**
@@ -637,6 +649,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **딥러닝호형 DL bro**
 * [머신러닝, 딥러닝, 인공지능, 데이터 분석 대학원 고민하고 계세요? - 딥러닝호형 DL bro](https://www.youtube.com/watch?v=APS1bLYBUjg)
 
+**데이터 사이언스를 공부하고 싶은 분들을 위한 글**
+* [데이터 사이언스를 공부하고 싶은 분들을 위한 글](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
+
 ## 페이스북 그룹 (Facebook Groups)
 * [TensorFlow Korea](https://www.facebook.com/groups/TensorFlowKR/?ref=bookmarks)
   * 텐서플로우 코리아
@@ -657,7 +672,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [GNN KR](https://www.facebook.com/groups/2190093671090112/)
   * 그래프 뉴럴 네트워크
 
-## 프레임워크 (Framework)
+## 라이브러리 (Library)
 * [Tensorflow](https://www.tensorflow.org/?hl=ko)
   * 딥 뉴럴 네트워크
 * [PyTorch](https://pytorch.org/)
@@ -669,7 +684,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [NengoDL](https://github.com/nengo/nengo-dl)
   * 스파이킹 뉴럴 네트워크 for Tensorflow
 * [HpBandster](https://github.com/automl/HpBandSter)
-  * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 프레임워크
+  * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 라이브러리
 
 ## 오픈데이터
 * [Papers with Code|Datasets](https://paperswithcode.com/datasets)
