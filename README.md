@@ -278,6 +278,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [Finding connections among images using CycleGAN - naver d2](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)
   * [머신러닝/딥러닝 강의 - 016 CycleGAN 한방에 끝내기 - hanyoseob님](https://www.youtube.com/watch?v=zAVCeF5cFNc)
 
+* **강화학습 (Reinforcement Learning)**
+  * [강화학습 - 김성훈 교수님](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
+  * [강화학습(영문) - 데이비드 실버 교수님](https://www.davidsilver.uk/teaching/)
+  * [강화학습 개론(10강) - 팡요랩](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
+  * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
+  * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
+  * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
+
 * **컴퓨터 비전**
   * [Object Detection(객체 탐지) - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
   * [Semantic Segmentation (의미론적 분할) - UNet 케라스 구현](https://github.com/zhixuhao/unet)
@@ -296,14 +304,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **음성인식 (Speech Recognition)** 
   * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
 
-* **강화학습 (Reinforcement Learning)**
-  * [강화학습 - 김성훈 교수님](https://www.youtube.com/watch?v=dZ4vw6v3LcA&feature=youtu.be)
-  * [강화학습(영문) - 데이비드 실버 교수님](https://www.davidsilver.uk/teaching/)
-  * [강화학습 개론(10강) - 팡요랩](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
-  * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
-  * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
-  * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
-  
 * **기타**
   * [Improving Deep Neural Networks: Hyperparameter Tuning](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=1)
     - Andrew Ng 교수님이 직접 진행하는 DNN 개선을 위한 아이디어. 딥러닝 모델의 세부 내용을 더욱 자세히 이해하고 싶다면 꼭 들어보는 것을 추천.
