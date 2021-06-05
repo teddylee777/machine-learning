@@ -705,6 +705,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
 
 ## 기타
+* [Kaggle 도커에 기반한 딥러닝 서버 구축(한글 자연어처리 패키지 추가)](https://github.com/teddylee777/docker-kaggle-ko)
+* [docker-kaggle-ko 도커 허브](https://hub.docker.com/repository/docker/teddylee777/docker-kaggle-ko)
 * [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
 * [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
   * 데이터 이해하기 (통계, 시각화) 
