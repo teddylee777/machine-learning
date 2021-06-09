@@ -502,6 +502,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 강의 슬라이드와 교안까지 깔끔하게 정리되어 있는 깃헙. 쉽고 템포를 천천히 강의해 주시기 때문에 듣기 편하고 이해가 비교적 쉽습니다.
 * [TTS - mozilla](https://github.com/mozilla/TTS)
   * Deep learning for Text to Speech. Advanced Text-to-Speech generation 깃헙.
+* [자연어처리 종합선물세트 aka.뽀로로 - 카카오브레인](https://github.com/kakaobrain/pororo)
+  * PORORO: Platform Of neuRal mOdels for natuRal language prOcessing. 딥러닝 기반 자연어처리 all-in-one. 일단 무조건 한 번 써보는 것을 추천!
 
 **Computer Vision**
 * [Vision 처리 관련 튜토리얼 깃헙](https://github.com/nh9k/Computer-vision)
