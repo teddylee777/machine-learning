@@ -366,6 +366,36 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [인공지능 분야 천상계 대한민국 단 4명 뿐인 캐글 그랜드 마스터 인터뷰](https://www.youtube.com/watch?v=tu6b3xbTj6M)
   * 이유한 님 인터뷰 with 조코딩님
 
+
+**Kaggle Tutorial | PyTorch Basic**
+* [Pytorch Tutorial for Deep Learning Lovers ,DATAI](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)
+  * 파이토치 기본 사용법(Tensor 연산)부터 선형회귀, 로지스틱회귀, ANN, CNN 까지
+* [Conditional Generative Adversarial Network ,Arpan Dhatt](https://www.kaggle.com/arpandhatt/conditional-generative-adversarial-network)
+  * CGAN(Conditional GAN) 구조 이해 및 MNIST 데이터를 활용한 모델링 실습
+* [Pytorch Animal Face Classification - CNNs, Mehmet -lauda- Tekman](https://www.kaggle.com/mehmetlaudatekman/pytorch-animal-face-classification-cnns)
+  * AFHQ(동물 얼굴 이미지)를 활용한 딥러닝 분류 모델링 실습
+* [Overview of Basic GAN Architecture - Seungwon Song](https://www.kaggle.com/songseungwon/overview-of-basic-gan-architecture)
+  * MNIST(1~9숫자데이터)를 활용한 딥러닝 이미지 생성기 구현
+* [Generate Fashion Images with Conditional GAN - Seungwon Song](https://www.kaggle.com/songseungwon/generate-fashion-images-with-conditional-gan)
+  * Fashion MNIST(그래픽 의류이미지)를 활용한 조건부(Conditional) 딥러닝 이미지 생성기 구현
+
+**Kaggle Tutorial | Image/Object Detection**
+* [[Train] SIIM COVID-19 Detection: 🔥FasterRCNN🔥 - Heroseo](https://www.kaggle.com/piantic/train-siim-covid-19-detection-fasterrcnn)
+  * 폐 X-ray를 통한 코로나 감지
+* [Yolo v3 Object Detection in Tensorflow - heartkilla](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow)
+  * Tensorflow, Yolo v3를 활용한 객체 탐지 솔루션
+* [SIIM COVID-19 Detection 🔱 10+Step Tutorial (1) - Seungwon Song](https://www.kaggle.com/songseungwon/siim-covid-19-detection-10-step-tutorial-1)
+  * 코로나 판별을 위한 Feature Engineering과 Image Detection
+
+**Kaggle Tutorial | Natural Language Processing**
+* [Beginner to Intermediate Natural Language Processing Guide - NowYSM](https://www.kaggle.com/ashishpatel26/beginner-to-intermediate-nlp-tutorial)
+  * sklearn + logistic Regression을 활용한 감성분석(긍/부정 표현 판별)
+* [Deep Learning NLP Quora Solutions - NowYSM](https://www.kaggle.com/ashishpatel26/deep-learning-nlp-quora-solutions)
+  * 딥러닝(Keras)을 활용한 악성(사회적으로 문제가 될 수 있는, 질이 나쁜) 질문 판별
+* [NLP Quick Start for Newbie😁 with 9steps - Seungwon Song](https://www.kaggle.com/songseungwon/nlp-quick-start-for-newbie-with-9steps)
+  * 재난 트위터를 활용한 가짜 뉴스 판별기 구현
+
+
 ### 강의 & 강연
 
 **정형데이터**
@@ -380,6 +410,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **노트북**
 
 * [Feature Engineering Techniques - Chris Deotte](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575)
+
 
 
 ### 캐글 & 데이콘 대회 분류
