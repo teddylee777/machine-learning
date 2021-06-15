@@ -32,7 +32,7 @@
 * [SIIM COVID-19 Detection 🔱 10+Step Tutorial (1) - Seungwon Song](https://www.kaggle.com/songseungwon/siim-covid-19-detection-10-step-tutorial-1)
   * 코로나 판별을 위한 Feature Engineering과 Image Detection
 
-**Kaggle Tutorial | Natural Language Processing**
+### Kaggle Tutorial | Natural Language Processing
 * [Beginner to Intermediate Natural Language Processing Guide - NowYSM](https://www.kaggle.com/ashishpatel26/beginner-to-intermediate-nlp-tutorial)
   * sklearn + logistic Regression을 활용한 감성분석(긍/부정 표현 판별)
 * [Deep Learning NLP Quora Solutions - NowYSM](https://www.kaggle.com/ashishpatel26/deep-learning-nlp-quora-solutions)
