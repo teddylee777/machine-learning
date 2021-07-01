@@ -577,6 +577,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 권철민님의 파이썬 머신러닝 완벽가이드 깃헙. 인프런에서 강의와 서적을 함께 보면 좋은 깃헙.
 * [Reinforcement Learning-2ndEdition by Sutton Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
   - Reinforcement Learning 2nd Edition (Original Book by Richard S. Sutton,Andrew G. Barto) 풀이코드 깃헙.
+* [파이썬 딥러닝 텐서플로](https://github.com/lovedlim/tensorflow)
+  - 정보문화사에서 출판한 파이썬 딥러닝 텐서플로 (2021) 깃헙. 서적에 대한 예제 코드가 수록되어 있음.
 
 ## 웹사이트 (Web Sites)
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
