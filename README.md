@@ -301,6 +301,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [시퀀스 투 시퀀스 + 어텐션 모델 - 허민석님](https://youtu.be/WsQLdu2JMgI)
   * [Seq2Seq: Sequence to Sequence Learning with Neural Networks - 동빈나님](https://www.youtube.com/watch?v=4DzKM0vgG1Y)
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
+  * [자연어 처리 특강 - 텐초](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
+    * 자연어 처리를 위한 딥러닝 알고리즘, 워드 임베딩(Word2Vec, TF-IDF), BERT, GPT
 
 * **음성인식 (Speech Recognition)** 
   * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
