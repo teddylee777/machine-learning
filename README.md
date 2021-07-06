@@ -592,6 +592,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - Reinforcement Learning 2nd Edition (Original Book by Richard S. Sutton,Andrew G. Barto) 풀이코드 깃헙.
 * [파이썬 딥러닝 텐서플로](https://github.com/lovedlim/tensorflow)
   - 정보문화사에서 출판한 파이썬 딥러닝 텐서플로 (2021) 깃헙. 서적에 대한 예제 코드가 수록되어 있음.
+* [데이콘 경진대회 1등 솔루션](https://github.com/wikibook/dacon)
+  - 위키북스 - 데이콘 경진대회 1등 솔루션 서적의 예제 코드 깃헙.
 
 ## 웹사이트 (Web Sites)
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
