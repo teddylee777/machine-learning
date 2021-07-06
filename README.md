@@ -401,11 +401,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * r 기본 사용법 이해
 * [Getting staRted in R: Load Data Into R - Rachael Tatman](https://www.kaggle.com/rtatman/getting-started-in-r-load-data-into-r)
   * r로 데이터를 다루는 방법
-* [Getting staRted in R: Summarize Data](https://www.kaggle.com/rtatman/getting-started-in-r-summarize-data)
+* [Getting staRted in R: Summarize Data - Rachael Tatman](https://www.kaggle.com/rtatman/getting-started-in-r-summarize-data)
   * `파이프(%>%)` 문법 이해, 데이터 집계 및 요약
-* [Getting staRted in R: Graphing Data](https://www.kaggle.com/rtatman/getting-started-in-r-graphing-data/)
+* [Getting staRted in R: Graphing Data - Rachael Tatman](https://www.kaggle.com/rtatman/getting-started-in-r-graphing-data/)
   * `ggplot2` 라이브러리 사용법 및 시각화 기법 이해
-* [Welcome to Data Science in R](https://www.kaggle.com/rtatman/welcome-to-data-science-in-r)
+* [Welcome to Data Science in R - Rachael Tatman](https://www.kaggle.com/rtatman/welcome-to-data-science-in-r)
   * `modelr` 라이브러리를 활용한 머신러닝, 의사결정트리 이해
 
 ### 강의 & 강연
