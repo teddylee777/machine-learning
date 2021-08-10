@@ -753,6 +753,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [KorQuAD2.0 - 한글 질문답변 데이터셋](https://korquad.github.io/)
 * [모두의말뭉치 - 국립국어원](https://corpus.korean.go.kr/)
 * [Microsoft Azure Dataset](https://azure.microsoft.com/ko-kr/services/open-datasets/catalog/)
+* [PhysioNet 의료 오픈데이터셋](https://physionet.org/about/database/)
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
