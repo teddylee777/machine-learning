@@ -7,7 +7,7 @@
 5. [연산(+, -, *, /, //, %)](https://colab.research.google.com/drive/1vQsSsntwyM1wehqjy_tRP4Odqi8GDVvZ?usp=sharing)
 6. [비교연산자, 논리연산자, 삼항연산자, 조건문](https://colab.research.google.com/drive/1AOgbPnhwUa3xrQfHF4tfIDJH6qojznWB?usp=sharing)
 7. [반복문](https://colab.research.google.com/drive/1lRfUiP7HhkP1gXNT54aewQ5jKcYdvXrC?usp=sharing)
-8. Comprehension
+8. [Comprehension](https://bit.ly/2Up4rL0)
 9. 함수(function)
 10. 내장함수(built-in function)
 11. 패키지(package), 모듈(module)
