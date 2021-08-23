@@ -9,5 +9,5 @@
 7. [반복문](https://colab.research.google.com/drive/1lRfUiP7HhkP1gXNT54aewQ5jKcYdvXrC?usp=sharing)
 8. [Comprehension](https://bit.ly/2Up4rL0)
 9. [함수(function)](https://bit.ly/2W6pHpy)
-10. 내장함수(built-in function)
+10. [내장함수(built-in function)](https://bit.ly/3yfouJz)
 11. 패키지(package), 모듈(module)
