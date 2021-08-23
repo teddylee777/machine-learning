@@ -10,4 +10,4 @@
 8. [Comprehension](https://bit.ly/2Up4rL0)
 9. [함수(function)](https://bit.ly/2W6pHpy)
 10. [내장함수(built-in function)](https://bit.ly/3yfouJz)
-11. 패키지(package), 모듈(module)
+11. [패키지(package), 모듈(module)](https://bit.ly/2WiGdD9)
