@@ -54,7 +54,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **파이썬 (Python), 데이터분석 (Pandas, Numpy), 시각화 (Matplotlib, Seaborn, Bokeh, Folium)**
 
-* [전자책으로 함께보는 파이썬(Python) 강의 몰아보기](https://www.youtube.com/watch?v=dpwTOQri42s)
+* [전자책으로 함께보는 파이썬(Python) 강의 몰아보기 - ](https://www.youtube.com/watch?v=dpwTOQri42s)
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
 * [파이썬 강좌 코딩 기초 강의 Python | 김왼손의 왼손코딩](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=1)
