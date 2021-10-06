@@ -1,4 +1,9 @@
-## Python 튜토리얼 실습파일
+# Python 튜토리얼 
+
+## 영상(YouTube)
+- [전자책으로 함께보는 파이썬(python) 강의 몰아보기 (통합본) - 3시간 10분](https://youtu.be/dpwTOQri42s)
+
+## 실습파일
 
 1. [자료구조](https://colab.research.google.com/drive/1Ktuc9Cb2AmYowV-5nO4LbCbqJvvYFIxs?usp=sharing)
 2. [리스트(list)와 튜플(tuple)](https://colab.research.google.com/drive/1N8HTGWUcIWB51qjbmQ24_etbGvSry17o?usp=sharing)
