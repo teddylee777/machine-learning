@@ -369,6 +369,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 캐글에 대한 소개, 컨트리부터 되기, 대회 진행하는 법, 데이터셋, API 등이 설명되어 있는 문서
 * [인공지능 분야 천상계 대한민국 단 4명 뿐인 캐글 그랜드 마스터 인터뷰](https://www.youtube.com/watch?v=tu6b3xbTj6M)
   * 이유한 님 인터뷰 with 조코딩님
+* [학부 문과생이 세계 랭킹 24위 캐글 그랜드 마스터가 되기까지 - Upstage](https://www.youtube.com/watch?v=TwF2EB9UCsI)
+  * 문과생 캐글 그랜드마스터 동기부여 뿜뿜 해주는 영상
 
 
 **Kaggle Tutorial | PyTorch Basic**
@@ -679,6 +681,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 머신러닝을 활용한 프로젝트 및 강좌 채널
 * [통계의 본질 EOStatistics](https://www.youtube.com/channel/UCVrs4KiLQz_gvVWWK1pKR1g)
   * 통계의 이론 강의가 쉽게 설명되어 있는 유튜브 채널. 특히, 손으로 푸는 통계 강의 목록이 초심자에게는 매우 이해하기 쉽게 설명되어 있다.
+* [Upstage](https://www.youtube.com/channel/UCXJY5PPAToqqSketm5_PrDw)
+  * 김성훈 교수님, 이활석님, 박은정님께서 창업하신 인공지능(AI) 전문기업 업스테이지의 유튜브 채널. 입문자를 위한 캐글 관련 영상들이 게재되어 있고, 그 밖에 유용한 정보들도 있다.
   
 ## 논문 읽기 (YouTube)
 * [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
