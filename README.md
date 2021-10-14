@@ -117,7 +117,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [논문으로 시작하는 딥러닝 - 최성준님](https://www.edwith.org/deeplearningchoi)
 
-** 국가 공인 자격증 **
+**국가 공인 자격증**
 
 * [캐글로 함께하는 빅데이터 분석기사 - 김태헌님](https://www.kaggle.com/agileteam/bigdatacertificationkr)
   * 빅데이터 분석기사 실전 문제를 캐글에 꾸준히 업데이트 해주고 계시고, 캐글 노트북 커널과 강의를 함께 보실 수 있습니다.
