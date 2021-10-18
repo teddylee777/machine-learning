@@ -54,7 +54,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **파이썬 (Python), 데이터분석 (Pandas, Numpy), 시각화 (Matplotlib, Seaborn, Bokeh, Folium)**
 
-* [전자책으로 함께보는 파이썬(Python) 강의 몰아보기 - ](https://www.youtube.com/watch?v=dpwTOQri42s)
+* [전자책으로 함께보는 파이썬(Python) 강의 몰아보기 - 테디노트](https://www.youtube.com/watch?v=dpwTOQri42s)
 * [생애 첫 코딩 - 파이썬 (김정욱)](https://learnaday.kr/open-course/geNpyx)
   * 코딩 학원을 운영하고 있는 김정욱 대표의 파이썬 입문 강좌 (3시간). 라이트 과정은 무료로 제공하고 있습니다.
 * [파이썬 강좌 코딩 기초 강의 Python | 김왼손의 왼손코딩](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=1)
@@ -116,6 +116,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [모두를 위한 RL강좌 - 김성훈 교수님](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
 * [논문으로 시작하는 딥러닝 - 최성준님](https://www.edwith.org/deeplearningchoi)
+
+**국가 공인 자격증**
+
+* [캐글로 함께하는 빅데이터 분석기사 - 김태헌님](https://www.kaggle.com/agileteam/bigdatacertificationkr)
+  * 빅데이터 분석기사 실전 문제를 캐글에 꾸준히 업데이트 해주고 계시고, 캐글 노트북 커널과 강의를 함께 보실 수 있습니다.
 
 
 
@@ -369,6 +374,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 캐글에 대한 소개, 컨트리부터 되기, 대회 진행하는 법, 데이터셋, API 등이 설명되어 있는 문서
 * [인공지능 분야 천상계 대한민국 단 4명 뿐인 캐글 그랜드 마스터 인터뷰](https://www.youtube.com/watch?v=tu6b3xbTj6M)
   * 이유한 님 인터뷰 with 조코딩님
+* [학부 문과생이 세계 랭킹 24위 캐글 그랜드 마스터가 되기까지 - Upstage](https://www.youtube.com/watch?v=TwF2EB9UCsI)
+  * 문과생 캐글 그랜드마스터 동기부여 뿜뿜 해주는 영상
 
 
 **Kaggle Tutorial | PyTorch Basic**
@@ -679,6 +686,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 머신러닝을 활용한 프로젝트 및 강좌 채널
 * [통계의 본질 EOStatistics](https://www.youtube.com/channel/UCVrs4KiLQz_gvVWWK1pKR1g)
   * 통계의 이론 강의가 쉽게 설명되어 있는 유튜브 채널. 특히, 손으로 푸는 통계 강의 목록이 초심자에게는 매우 이해하기 쉽게 설명되어 있다.
+* [Upstage](https://www.youtube.com/channel/UCXJY5PPAToqqSketm5_PrDw)
+  * 김성훈 교수님, 이활석님, 박은정님께서 창업하신 인공지능(AI) 전문기업 업스테이지의 유튜브 채널. 입문자를 위한 캐글 관련 영상들이 게재되어 있고, 그 밖에 유용한 정보들도 있다.
   
 ## 논문 읽기 (YouTube)
 * [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
