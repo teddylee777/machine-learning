@@ -1,4 +1,6 @@
-## 실습파일 코랩(Colab) 링크
+## Pandas 튜토리얼
+
+### 실습파일 코랩(Colab) 링크
 
 1. [자료구조](https://colab.research.google.com/github/teddylee777/machine-learning/blob/master/05-Pandas/tutorial/01-pandas-자료구조-(실습).ipynb)
 2. [파일 입출력](https://colab.research.google.com/github/teddylee777/machine-learning/blob/master/05-Pandas/tutorial/02-pandas-파일입출력-(실습).ipynb)
