@@ -689,6 +689,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 통계의 이론 강의가 쉽게 설명되어 있는 유튜브 채널. 특히, 손으로 푸는 통계 강의 목록이 초심자에게는 매우 이해하기 쉽게 설명되어 있다.
 * [Upstage](https://www.youtube.com/channel/UCXJY5PPAToqqSketm5_PrDw)
   * 김성훈 교수님, 이활석님, 박은정님께서 창업하신 인공지능(AI) 전문기업 업스테이지의 유튜브 채널. 입문자를 위한 캐글 관련 영상들이 게재되어 있고, 그 밖에 유용한 정보들도 있다.
+* [AI프렌즈](https://www.youtube.com/channel/UC2L1DgDMD5pJ-35G47Objfw)
+  * 인공지능 기술을 공유하는 산-학-연 중심의 비영리 연구모임. 유튜브 라이브로 게스트를 초청하여 약 2시간 분량의 발표를 진행 / 녹화하여 공유하고 있다.
   
 ## 논문 읽기 (YouTube)
 * [딥러닝 논문 읽기 PR12-season1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
