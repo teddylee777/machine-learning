@@ -148,6 +148,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
  - [라이브러리 (Library)](#라이브러리-library)
  - [오픈데이터](#오픈데이터)
  - [텐서플로우 자격증](#텐서플로우-자격증)
+ - [빅데이터 분석기사](#빅데이터-분석기사)
  - [기타](#기타)
 
 
@@ -772,6 +773,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 ## 텐서플로우 자격증
 * [텐서플로우 자격증 취득 과정](https://learnaday.kr/open-course/tfcert)
+
+## 빅데이터 분석기사
+* [빅데이터 분석기사 실기(캐글) - KIM TAE HEON](https://www.kaggle.com/agileteam/bigdatacertificationkr)
+  * 캐글에서 빅데이터 분석기사 실기 문제를 모의고사 형태로 풀어볼 수 있음
 
 ## 기타
 * [Kaggle 도커에 기반한 딥러닝 서버 구축(한글 자연어처리 패키지 추가)](https://github.com/teddylee777/docker-kaggle-ko)
