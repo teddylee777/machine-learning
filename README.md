@@ -606,8 +606,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 웹사이트 (Web Sites)
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
   - 머신러닝 용어들이 정리되어 있는 구글 developer 사이트.
-* [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
-  - 10분안에 빠르게 끝내는 판다스 훓어보기 (주요 api 위주로 진행하는 튜토리얼)
+* [pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
+  - 판다스 튜토리얼 (주요 api 위주로 진행하는 튜토리얼)
 * [20 minutes to matplotlib](https://www.tutorialdocs.com/article/python-matplotlib-tutorial.html)
   - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [각 종 CheatSheet 모음](https://graspcoding.com/cheat-sheet-for-python-machine-learning-and-data-science/)
