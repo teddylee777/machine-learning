@@ -16,6 +16,8 @@
     <td align="center"><a href="https://github.com/lovedlim"><img src="https://avatars.githubusercontent.com/u/25129278?s=400&u=b0b5b71762434d2afc962add63ddb2a166d32dbe&v=4" width="100px;" alt=""/><br /><sub><b>Tae Heon Kim</b></sub></a><br /><a href="https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/stevekwon211"><img src="https://avatars.githubusercontent.com/u/61633137?s=400&u=fd514a668292884e640c15973976e0a0ec39fdbc&v=4" width="100px;" alt=""/><br /><sub><b>Steve Kwon</b></sub></a><br /><a href="https://velog.io/@kwonhl0211" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/sw-song"><img src="https://avatars.githubusercontent.com/u/49427979?s=400&v=4" width="100px;" alt=""/><br /><sub><b>SW Song</b></sub></a><br /><a href="https://www.linkedin.com/in/seungwonsong/" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/K1A2"><img src="https://avatars.githubusercontent.com/u/26255336?v=4" width="100px;" alt=""/><br /><sub><b>K1A2</b></sub></a><br /><a href="https://k1a2dev.tistory.com/" title="Code">🏠</a></td>
+    
   </tr>
 </table>
 
@@ -106,17 +108,15 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 평균 1분 내외의 굉장히 짤막한 강의로 이루어져 있음. 어느 정도 중급 단계에서 실전 코딩을 해보기 위하여 듣는 것을 추천 (Assignment를 완료해 보는 것을 추천)
 * [DEEP LEARNING, Spring 2020 - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
   * 딥러닝의 거장 얀 르쿤 교수님과 Alfredo Canziani 의 딥러닝 강의. 슬랑이드와 렉쳐를 제공하며, 한국어 자막은 진행중입니다.
-
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * 딥러닝에 대한 강좌라기 보다는 보다 재밌게 에피소드 별/ 카테고리 별로 짧고 쉽게 설명해 주시는 강의. 지루하지 않고 재밌게 들을 수 있으며, 알기 쉽게 설명해 주는 것이 포인트 (개념 정리용).
 * [TensorFlow2 강의 - Shin's Lab](https://www.youtube.com/watch?v=-MIH2wNfylo&list=PLtm_YtKTtDkQJtgGSQnZzMJBRHyqANnQi)
   * 깔끔한 설명과 수학에 대한 친절한 설명까지 곁들여진 강의. 강의자의 전달력이 좋고, 코드 설명과 더불어 논문에 대한 내용도 다룬다.
-  
 * [Pytorch Zero To All (영문) - 김성훈 교수님](<https://youtu.be/SKq-pmkekTk>)
-
 * [모두를 위한 RL강좌 - 김성훈 교수님](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
-
 * [논문으로 시작하는 딥러닝 - 최성준님](https://www.edwith.org/deeplearningchoi)
+* [PyTorch 튜토리얼 (한글)](https://tutorials.pytorch.kr/)
+  - PyTorch 웹사이트에서 제공하는 공식 튜토리얼의 한글 번역 버전
 
 **국가 공인 자격증**
 
@@ -608,8 +608,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 웹사이트 (Web Sites)
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
   - 머신러닝 용어들이 정리되어 있는 구글 developer 사이트.
-* [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
-  - 10분안에 빠르게 끝내는 판다스 훓어보기 (주요 api 위주로 진행하는 튜토리얼)
+* [pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
+  - 판다스 튜토리얼 (주요 api 위주로 진행하는 튜토리얼)
 * [20 minutes to matplotlib](https://www.tutorialdocs.com/article/python-matplotlib-tutorial.html)
   - 20분안에 빠르게 훓어보는 matplotlib (주요 api 위주로 진행하는 튜토리얼)
 * [각 종 CheatSheet 모음](https://graspcoding.com/cheat-sheet-for-python-machine-learning-and-data-science/)
@@ -637,6 +637,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 일정 기간동안 원하는 주제에 대한 인기 있는 arXiv 논문을 볼 수 있다.
 * [PyTorch 입문코스 5개](https://docs.microsoft.com/en-us/learn/browse/?terms=pytorch)
   - 마이크로소프트 Learn. 파이토치 기초, 파이토치를 사용한 이미지/자연어/오디오
+* [PyTorch 튜토리얼 (한글)](https://tutorials.pytorch.kr/)
+  - PyTorch 웹사이트에서 제공하는 공식 튜토리얼의 한글 번역 버전
 
 ## 위키독스 (Wiki Docs)
 
