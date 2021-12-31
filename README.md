@@ -17,7 +17,7 @@
     <td align="center"><a href="https://github.com/stevekwon211"><img src="https://avatars.githubusercontent.com/u/61633137?s=400&u=fd514a668292884e640c15973976e0a0ec39fdbc&v=4" width="100px;" alt=""/><br /><sub><b>Steve Kwon</b></sub></a><br /><a href="https://velog.io/@kwonhl0211" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/sw-song"><img src="https://avatars.githubusercontent.com/u/49427979?s=400&v=4" width="100px;" alt=""/><br /><sub><b>SW Song</b></sub></a><br /><a href="https://www.linkedin.com/in/seungwonsong/" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/K1A2"><img src="https://avatars.githubusercontent.com/u/26255336?v=4" width="100px;" alt=""/><br /><sub><b>K1A2</b></sub></a><br /><a href="https://k1a2dev.tistory.com/" title="Code">🏠</a></td>
-    
+    <td align="center"><a href="https://github.com/wooiljeong"><img src="https://avatars.githubusercontent.com/u/38076110?v=4" width="100px;" alt=""/><br /><sub><b>Wooil Jeong</b></sub></a><br /><a href="https://wooiljeong.github.io" title="Code">🏠</a></td>
   </tr>
 </table>
 
@@ -533,6 +533,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * Tensorflow, PyTorch, MxNet으로 기본 모델부터 다양한 ImageNet 등등이 구현되어 정리되어 있는 깃헙.
 * [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
   * 무려 840개의 오픈소스 ML 프로젝트 깃헙을 모아놓은 저장소
+* [CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker)
+  * 보안문자 이미지 인식을 위한 딥 러닝 모델 생성 기능과 적용 기능을 제공하는 Python Module
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
@@ -758,6 +760,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 라이브러리
 
 ## 오픈데이터
+* [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
+  * 공공 데이터를 Pandas DataFrame으로 조회할 수 있는 Python SDK
+* [통합 데이터 지도](https://www.bigdata-map.kr)
+* [서울 열린데이터 광장](https://data.seoul.go.kr/)
 * [Papers with Code|Datasets](https://paperswithcode.com/datasets)
 * [공공데이터포털](https://www.data.go.kr/)
 * [Open Data Inception](https://opendatainception.io/)
