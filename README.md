@@ -584,6 +584,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **논문**
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
   - 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
+* [Papers You Must Read (PYMR)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
+  - 고려대 Data Science & Business Analytics Lab에서 공유한 머신러닝을 학습을 위하여 필독해야할 논문 리스트 (노션)
   
 **서적 예제**
 * [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
