@@ -762,6 +762,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 라이브러리
 
 ## 오픈데이터
+* [문화 빅데이터 플랫폼](https://www.bigdata-culture.kr/bigdata/user/main.do)
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
   * 공공 데이터를 Pandas DataFrame으로 조회할 수 있는 Python SDK
 * [통합 데이터 지도](https://www.bigdata-map.kr)
