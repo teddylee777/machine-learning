@@ -311,6 +311,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
   * [자연어 처리 특강 - 텐초](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
     * 자연어 처리를 위한 딥러닝 알고리즘, 워드 임베딩(Word2Vec, TF-IDF), BERT, GPT
+  * [자연어처리 강의 기초부터 고급까지 - Ready-To-Use Tech](https://www.youtube.com/watch?v=Z201jwWo-xs&list=PLrLEKGJAgXxL-R9IqDH7HANWXRsS900tF)
+    * kiyoungkim1 님께서 공유해 주신 자연어처리 기초 부터 고급 강의
 
 * **음성인식 (Speech Recognition)** 
   * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
@@ -535,6 +537,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 무려 840개의 오픈소스 ML 프로젝트 깃헙을 모아놓은 저장소
 * [CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker)
   * 보안문자 이미지 인식을 위한 딥 러닝 모델 생성 기능과 적용 기능을 제공하는 Python Module
+* [Pretrained Language Models For Korean - kiyoungkim1](https://github.com/kiyoungkim1/LMkor)
+  * Pretrained 자연어처리 모델을 공유한 github
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
