@@ -1,10 +1,59 @@
-## 실습파일 
+# 자동 머신러닝 도구 튜토리얼 
 
-- [01-분류-level1](https://colab.research.google.com/github/teddylee777/incheon_univ/blob/main/03-AutoML/01-%EB%B6%84%EB%A5%98-level1.ipynb)
-- [01_분류_level2](https://colab.research.google.com/github/teddylee777/incheon_univ/blob/main/03-AutoML/01_%EB%B6%84%EB%A5%98_level2.ipynb)
-- [02_회귀_level1](https://colab.research.google.com/github/teddylee777/incheon_univ/blob/main/03-AutoML/02_%ED%9A%8C%EA%B7%80_level1.ipynb)
-- [03_연관규칙_level1](https://colab.research.google.com/github/teddylee777/incheon_univ/blob/main/03-AutoML/03_%EC%97%B0%EA%B4%80%EA%B7%9C%EC%B9%99_level1.ipynb)
-- [04_이상치탐지_level1](https://colab.research.google.com/github/teddylee777/incheon_univ/blob/main/03-AutoML/04_%EC%9D%B4%EC%83%81%EC%B9%98%ED%83%90%EC%A7%80_level1.ipynb)
-- [05_자연어처리(한글)_level1](https://colab.research.google.com/github/teddylee777/incheon_univ/blob/main/03-AutoML/05_%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC(%ED%95%9C%EA%B8%80)_level1.ipynb)
-- [06 AutoKeras](https://colab.research.google.com/drive/1Ip21Knv-c-hwT6oiXmAYjFzamBYZ5GB0?usp=sharing)
- 
+"This repository is an ULTIMATE TUTORIALS for different frameworks of AutoML"
+
+입문자를 위한 튜토리얼이며, 튜토리얼 진행을 위해서 Python 기본 문법은 알고 있어야 합니다.
+
+
+
+----
+
+### 설치(Installation)
+
+본 튜토리얼 **Repository를 복제(Clone)** 하거나 **"Download ZIP"**으로 내려 받습니다.
+
+![image-20220828033638915](./images/README/image-20220828033638915.png)
+
+
+
+아나콘다 가상환경 및 Python 설치 [**(링크)**](https://www.anaconda.com/products/distribution)
+
+- [참고] 아나콘다 가상환경 설치 관련 블로그 글 [**(링크)**](https://teddylee777.github.io/python/anaconda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-%ED%8C%81-%EA%B0%95%EC%A2%8C)
+
+![image-20220828033256739](./images/README/image-20220828033256739-16616257474351.png)
+
+`automl` 가상환경을 설치 합니다.
+
+- (Windows) anaconda prompt 열기
+- (Mac OS) "Terminal" 열기
+
+```bash
+conda create -n automl python=3.8
+```
+
+
+
+생성한 **가상환경에 진입**합니다.
+
+> Windows
+
+```bash
+conda activate automl
+```
+
+> MacOS
+
+```bash
+source activate automl
+```
+
+
+
+`requirements.txt`에 설정된 패키지들을 **일괄 설치** 합니다.
+
+```bash
+pip install -r requirements.txt
+```
+
+
+
