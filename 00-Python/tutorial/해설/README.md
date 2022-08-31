@@ -1,3 +1,13 @@
+![](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+
+# Python 해설
+
+## 영상(YouTube)
+- [전자책으로 함께보는 파이썬(python) 강의 몰아보기 (통합본) - 3시간 10분](https://youtu.be/dpwTOQri42s)
+
+## 위키독스 전자책
+- [한 권으로 끝내는 <파이썬 노트>](https://wikidocs.net/book/6708)
+
 ## 튜토리얼 링크(Google Colab) - 해설
 
 1. Jupyter Notebook / Google Colab 튜토리얼 [**(링크)**](https://colab.research.google.com/github/teddylee777/machine-learning/blob/master/00-Python/tutorial/%ED%95%B4%EC%84%A4/00-Jupyter-Notebook-튜토리얼-(해설).ipynb)
