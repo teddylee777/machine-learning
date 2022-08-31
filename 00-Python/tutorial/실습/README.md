@@ -1,4 +1,4 @@
-## 튜토리얼 링크(Google Colab)
+## 튜토리얼 링크(Google Colab) - 실습
 
 1. Jupyter Notebook / Google Colab 튜토리얼[**(링크)**](https://colab.research.google.com/github/teddylee777/machine-learning/blob/master/00-Python/tutorial/%EC%8B%A4%EC%8A%B5/00-Jupyter-Notebook-튜토리얼-(실습).ipynb)
 2. 기본 자료구조 [**(링크)**](https://colab.research.google.com/github/teddylee777/machine-learning/blob/master/00-Python/tutorial/%EC%8B%A4%EC%8A%B5/01-파이썬-자료구조-(실습).ipynb)
