@@ -120,7 +120,7 @@ networkx==2.8.6
 nltk==3.7
 notebook==6.4.12
 numba==0.55.2
-numpy==1.21.6
+numpy==1.22.0
 oauthlib==3.2.0
 opendata-kr==0.0.4
 opt-einsum==3.3.0
