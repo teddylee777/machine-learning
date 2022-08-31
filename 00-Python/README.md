@@ -1,7 +1,7 @@
 # Python 튜토리얼 
 
 ## [업데이트] 2022-09-01
-- tutorial 폴더에 Python 실습용 버전과 해설 버전을 업데이트해 놓았습니다.
+- `tutorial` 폴더에 Python 실습용 버전과 해설 버전을 업데이트해 놓았습니다.
 
 ## 영상(YouTube)
 - [전자책으로 함께보는 파이썬(python) 강의 몰아보기 (통합본) - 3시간 10분](https://youtu.be/dpwTOQri42s)
