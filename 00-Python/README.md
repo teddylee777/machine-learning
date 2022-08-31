@@ -6,6 +6,8 @@
 - `tutorial` 폴더에 Python 실습용 버전과 해설 버전을 업데이트해 놓았습니다.
 - **실습** 폴더에 위치한 파일은 `코드`가 채워져 있지 않은 파일입니다. 강의와 함께 직접 실습해 볼 수 있는 파일입니다.
 - **해설** 폴더에 위치한 파일은 `해설코드`가 채워져 있습니다. 연습문제에 대한 해설을 확인할 수 있습니다.
+- **실습 폴더 바로가기** [**(링크)**](https://github.com/teddylee777/machine-learning/tree/master/00-Python/tutorial/%EC%8B%A4%EC%8A%B5)
+- **해설 폴더 바로가기** [**(링크)**](https://github.com/teddylee777/machine-learning/tree/master/00-Python/tutorial/%ED%95%B4%EC%84%A4)
 
 ## 영상(YouTube)
 - [전자책으로 함께보는 파이썬(python) 강의 몰아보기 (통합본) - 3시간 10분](https://youtu.be/dpwTOQri42s)
