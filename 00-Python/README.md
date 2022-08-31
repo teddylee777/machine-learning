@@ -12,6 +12,9 @@
 ## 영상(YouTube)
 - [전자책으로 함께보는 파이썬(python) 강의 몰아보기 (통합본) - 3시간 10분](https://youtu.be/dpwTOQri42s)
 
+## 위키독스 전자책
+- [한 권으로 끝내는 <파이썬 노트>](https://wikidocs.net/book/6708)
+
 ## 실습파일(구 버전)
 
 1. [자료구조](https://colab.research.google.com/drive/1Ktuc9Cb2AmYowV-5nO4LbCbqJvvYFIxs?usp=sharing)
