@@ -1,4 +1,6 @@
-![](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+<div align="center">
+<img width="500" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"/>
+</div>
 
 # Python 튜토리얼 
 
