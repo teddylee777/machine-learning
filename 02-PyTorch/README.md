@@ -7,8 +7,7 @@
 (현재 PyTorch 튜토리얼 파일 작업중입니다..)
 
 
-**파이토치 Conv2d, MaxPool2d 계산기**
-- Simple Conv2d, MaxPool2d Calculator [**링크**](https://bit.ly/torch-calc)
+**파이토치 Conv2d, MaxPool2d 계산기** [**(링크)**](https://bit.ly/torch-calc)
 
 
 **주요 레퍼런스**
