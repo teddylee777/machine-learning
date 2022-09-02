@@ -1,4 +1,6 @@
-![](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+<div align="center">
+<img width="500" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"/>
+</div>
 
 ## 영상(YouTube)
 - [전자책으로 함께보는 파이썬(python) 강의 몰아보기 (통합본) - 3시간 10분](https://youtu.be/dpwTOQri42s)
