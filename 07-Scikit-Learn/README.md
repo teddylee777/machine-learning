@@ -3,3 +3,13 @@
 </div>
 
 # Scikit Learn을 활용한 머신러닝 튜토리얼
+
+## 설치
+
+```bash
+pip install scikit-learn
+```
+
+## 튜토리얼
+
+- 실습파일[**(링크)**](https://github.com/teddylee777/machine-learning/tree/master/07-Scikit-Learn/tutorial)
