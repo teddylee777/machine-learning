@@ -121,7 +121,7 @@ nltk==3.7
 notebook==6.4.12
 numba==0.55.2
 numpy==1.22.0
-oauthlib==3.2.0
+oauthlib==3.2.1
 opendata-kr==0.0.4
 opt-einsum==3.3.0
 orjson==3.7.12
