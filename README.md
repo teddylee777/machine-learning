@@ -422,7 +422,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Welcome to Data Science in R - Rachael Tatman](https://www.kaggle.com/rtatman/welcome-to-data-science-in-r)
   * `modelr` 라이브러리를 활용한 머신러닝, 의사결정트리 이해
   
-**Kaggle 우승 솔루션 모음
+**Kaggle 우승 솔루션
 * [Winning solutions of kaggle competitions](https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 
 
