@@ -651,6 +651,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 마이크로소프트 Learn. 파이토치 기초, 파이토치를 사용한 이미지/자연어/오디오
 * [PyTorch 튜토리얼 (한글)](https://tutorials.pytorch.kr/)
   - PyTorch 웹사이트에서 제공하는 공식 튜토리얼의 한글 번역 버전
+* [PyTorch 자연어 처리 입문 - 김기현님](https://kh-kim.gitbooks.io/pytorch-natural-language-understanding/content/)
+  - 김기현님께서 공유해주신 PyTorch를 활용한 자연어 처리 입문 독스(Docs)
 
 ## 위키독스 (Wiki Docs)
 
