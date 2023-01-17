@@ -277,6 +277,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [RNN 기초 (순환신경망 - Vanilla RNN) - 허민석님](https://youtu.be/PahF2hZM6cs)
   * [LSTM 쉽게 이해하기 - 허민석님](https://youtu.be/bX6GLbpw-A4)
   * [(CS231n 한글설명) RNN, LSTM - 송교석님](https://youtu.be/2ngo9-YCxzY)
+  * [RNN & LSTM 설명 및 구현(pytorch) - Donghoon Note](https://dhpark1212.tistory.com/entry/RNN-LSTM-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84pytorch)
 
 * **생성적 적대 신경망 (Generative Adversarial Network)**
   * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
