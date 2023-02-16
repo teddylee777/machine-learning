@@ -235,7 +235,7 @@ varname==0.8.3
 watchdog==2.1.9
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.2.2
+Werkzeug==2.2.3
 widgetsnbextension==3.6.1
 wincertstore==0.2
 wordcloud==1.8.2.2
