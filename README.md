@@ -1,5 +1,14 @@
 # Machine Learning Study 혼자 해보기
 
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/teddylee777/machine-learning)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/teddylee777/machine-learning)
+[![GitHub issues](https://img.shields.io/github/issues/teddylee777/machine-learning?color=%232da44e)](https://github.com/teddylee777/machine-learning/issues)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/teddylee777/machine-learning?color=%238250df)](https://github.com/teddylee777/machine-learning/pulls)
+
+</div>
+
 </div>
 <br />
 
@@ -12,7 +21,7 @@
   <tr>
     <td align="center"><a href="https://github.com/teddylee777"><img src="https://avatars.githubusercontent.com/u/10074379?s=400&u=ee37ac1a4bb730df9c80d1ac92311cbbf61c680e&v=4" width="100px;" alt=""/><br /><sub><b>Teddy Lee</b></sub></a><br /><a href="https://teddylee777.github.io/" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/HongJaeKwon"><img src="https://avatars.githubusercontent.com/u/44965354?s=400&v=4" width="100px;" alt=""/><br /><sub><b>HongJaeKwon</b></sub></a><br /><a href="https://github.com/HongJaeKwon" title="Code">🏠</a></td>
-    <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://kaintels.github.io/" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/lovedlim"><img src="https://avatars.githubusercontent.com/u/25129278?s=400&u=b0b5b71762434d2afc962add63ddb2a166d32dbe&v=4" width="100px;" alt=""/><br /><sub><b>Tae Heon Kim</b></sub></a><br /><a href="https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/stevekwon211"><img src="https://avatars.githubusercontent.com/u/61633137?s=400&u=fd514a668292884e640c15973976e0a0ec39fdbc&v=4" width="100px;" alt=""/><br /><sub><b>Steve Kwon</b></sub></a><br /><a href="https://velog.io/@kwonhl0211" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/sw-song"><img src="https://avatars.githubusercontent.com/u/49427979?s=400&v=4" width="100px;" alt=""/><br /><sub><b>SW Song</b></sub></a><br /><a href="https://www.linkedin.com/in/seungwonsong/" title="Code">🏠</a></td>
@@ -129,29 +138,39 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 # 주제별 (By Subjects)
 
- - [수학 (Mathmatics)](#수학-mathmatics)
- - [통계 (Statistics)](#통계-statistics)
- - [머신러닝 (Machine Learning)](#머신러닝-machine-learning)
- - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
- - [최적화 & AutoML (Optimization-AutoML)](#최적화--AutoML-optimization--automl)
- - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
- - [액티브러닝 (Active Learning)](#액티브러닝-active-learning)
- - [연합학습 (Federated learning)](#연합학습-federated-learning)
- - [시각화 (Visualization)](#시각화-visualization)
- - [캐글 & 데이콘](#캐글--데이콘)
- - [블로그 (Blogs)](#블로그-blogs)
- - [깃헙 저장소 (GitHub)](#깃헙-저장소-github)
- - [웹사이트 (Web Sites)](#웹사이트-web-sites)
- - [위키독스 (Wiki Docs)](#위키독스-wiki-docs)
- - [유튜브 채널 (YouTube Channel)](#유튜브-채널-youtube-channel)
- - [논문 읽기 (YouTube)](#논문-읽기-youtube)
- - [데이터 사이언티스트 스토리 (Data Scientist Story)](#데이터-사이언티스트-스토리-data-scientist-story)
- - [페이스북 그룹 (Facebook Groups)](#페이스북-그룹-facebook-groups)
- - [라이브러리 (Library)](#라이브러리-library)
- - [오픈데이터](#오픈데이터)
- - [텐서플로우 자격증](#텐서플로우-자격증)
- - [빅데이터 분석기사](#빅데이터-분석기사)
- - [기타](#기타)
+- [Machine Learning Study 혼자 해보기](#machine-learning-study-혼자-해보기)
+  - [기여자 (Contributors) ✨](#기여자-contributors-)
+  - [지식공유 (Knowledge Sharings)](#지식공유-knowledge-sharings)
+  - [동영상 강의 묶음, 재생목록 (Video Lectures)](#동영상-강의-묶음-재생목록-video-lectures)
+- [주제별 (By Subjects)](#주제별-by-subjects)
+  - [수학 (Mathmatics)](#수학-mathmatics)
+  - [통계 (Statistics)](#통계-statistics)
+  - [머신러닝 (Machine Learning)](#머신러닝-machine-learning)
+  - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
+  - [최적화 \& AutoML (Optimization \& AutoML)](#최적화--automl-optimization--automl)
+  - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
+  - [액티브러닝 (Active Learning)](#액티브러닝-active-learning)
+  - [연합학습 (Federated Learning)](#연합학습-federated-learning)
+  - [증분학습 (Incremental Learning)](#증분학습-incremental-learning)
+  - [시각화 (Visualization)](#시각화-visualization)
+  - [기타 (Others)](#기타-others)
+  - [캐글 \& 데이콘](#캐글--데이콘)
+    - [캐글이 처음이라면?](#캐글이-처음이라면)
+    - [강의 \& 강연](#강의--강연)
+    - [캐글 \& 데이콘 대회 분류](#캐글--데이콘-대회-분류)
+  - [블로그 (Blogs)](#블로그-blogs)
+  - [깃헙 저장소 (GitHub)](#깃헙-저장소-github)
+  - [웹사이트 (Web Sites)](#웹사이트-web-sites)
+  - [위키독스 (Wiki Docs)](#위키독스-wiki-docs)
+  - [유튜브 채널 (YouTube Channel)](#유튜브-채널-youtube-channel)
+  - [논문 읽기 (YouTube)](#논문-읽기-youtube)
+  - [데이터 사이언티스트 스토리 (Data Scientist Story)](#데이터-사이언티스트-스토리-data-scientist-story)
+  - [페이스북 그룹 (Facebook Groups)](#페이스북-그룹-facebook-groups)
+  - [라이브러리 (Library)](#라이브러리-library)
+  - [오픈데이터](#오픈데이터)
+  - [텐서플로우 자격증](#텐서플로우-자격증)
+  - [빅데이터 분석기사](#빅데이터-분석기사)
+  - [기타](#기타)
 
 
 ## 수학 (Mathmatics)
@@ -297,11 +316,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
   * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
+  * [강화학습 관련 노하우 - 강화학습 KR](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EA%B4%80%EB%A0%A8-%EB%85%B8%ED%95%98%EC%9A%B0)
+  * [강화학습 100제 - Koki Saitoh](https://koki0702.github.io/dezero-p100/)
+    * 일본어 강화학습 문제풀이 사이트. 채점 및 해설 제공. 그림 문제 외에는 번역하면서 풀 수 있을 정도
 
 * **컴퓨터 비전 (Computer Vision)**
+  * [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
+    * 대부분의 컴퓨터 비전의 내용이 담겨 있습니다.
+  * [OpenCV 강좌 - Daehee YUN Tech Blog](https://076923.github.io/posts/Python-opencv-1/)
+    * Python 강좌 뿐만 아니라 C# OpenCV 강좌도 제공됩니다.
   * [Object Detection(객체 탐지) - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
   * [Semantic Segmentation (의미론적 분할) - UNet 케라스 구현](https://github.com/zhixuhao/unet)
   * [Self-Driving Car (자율주행) - source code of all the projects of Udacity Self-Driving Car Engineer Nanodegree](https://github.com/ndrplz/self-driving-car)
+  * [객체탐지 소개 - 가짜연구소](https://pseudo-lab.github.io/Tutorial-Book/chapters/object-detection/Ch1-Object-Detection.html)
+
 
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
@@ -353,6 +381,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 연합학습 (Federated Learning)
 * **이론**
   * [연합 학습(Federated Learning), 그리고 챌린지](https://medium.com/curg/%EC%97%B0%ED%95%A9-%ED%95%99%EC%8A%B5-federated-learning-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B1%8C%EB%A6%B0%EC%A7%80-b5c481bd94b7)
+
+## 증분학습 (Incremental Learning)
+* **이론**
+  * [Incremental / Continual learning의 거의 모든 것 (설명, 성능 측정 방식, 연구 흐름)](https://ffighting.tistory.com/112)
 
 ## 시각화 (Visualization)
 * **Bokeh**
