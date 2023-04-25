@@ -126,8 +126,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [논문으로 시작하는 딥러닝 - 최성준님](https://www.edwith.org/deeplearningchoi)
 * [PyTorch 튜토리얼 (한글)](https://tutorials.pytorch.kr/)
   - PyTorch 웹사이트에서 제공하는 공식 튜토리얼의 한글 번역 버전
+* [파이토치 - 빠른시작 따라하기! 한국 사용자 모임 공식문서 번역본 by 파이토치코리아 운영진 오늘코드todaycode](https://youtu.be/CVrT23QVfxA)
+  - 파이토치(PyTorch) 한국어 번역본을 활용하는 간단 튜토리얼. 약 30분짜리 영상으로 짧지만 친절한 설명!
 * [아마존 AWS부스트](http://www.awsboost.io/)
   - 아마존에서 Zoom으로 진행한 머신러닝/딥러닝 교육. Sagemaker의 활용법도 소개되어 있다.
+  
 
 **빅데이터 분석 기사**
 
