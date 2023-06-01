@@ -25,6 +25,7 @@ subprocess.run(['pip', 'install', 'scipy==1.7.3'])
 subprocess.run(['pip', 'install', 'pandas==1.4.2'])
 subprocess.run(['pip', 'install', 'urllib3'])
 subprocess.run(['pip', 'install', 'protobuf==3.19.6'])
+subprocess.run(['pip', 'install', 'tensorflow-metadata==1.12.0'])
 
 print('==='*20)
 print('[알림] TensorFlow 시험환경 구성이 완료 되었습니다.')
