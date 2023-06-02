@@ -1,3 +1,4 @@
+#! /bin/bash
 !wget http://data.jaen.kr/download?download_path=%2Fdata%2Ffiles%2FmySUNI%2Fdatasets%2FNanumGothic.zip -O NanumGothic.zip
 !rm -rf NanumGothic
 !mkdir NanumGothic
