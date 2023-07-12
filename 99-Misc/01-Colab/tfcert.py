@@ -20,7 +20,7 @@ else:
 subprocess.run(['pip', 'install', 'tensorflow==2.9.0'])
 subprocess.run(['pip', 'install', 'tensorflow-datasets==4.6.0'])
 subprocess.run(['pip', 'install', 'numpy==1.22.4'])
-subprocess.run(['pip', 'install', 'Pillow==9.1.1'])
+subprocess.run(['pip', 'install', 'Pillow==9.0.0'])
 subprocess.run(['pip', 'install', 'scipy==1.7.3'])
 subprocess.run(['pip', 'install', 'pandas==1.4.2'])
 subprocess.run(['pip', 'install', 'urllib3'])
