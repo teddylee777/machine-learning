@@ -402,6 +402,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [랭체인(langchain) + 정형데이터(CSV, Excel) - ChatGPT 기반 데이터분석](https://teddylee777.github.io/langchain/langchain-tutorial-04/)
   * [랭체인(langchain) + 웹사이트 크롤링 - 웹사이트 문서 요약](https://teddylee777.github.io/langchain/langchain-tutorial-05/)
   * [랭체인(langchain) + 웹사이트 정보 추출 - 스키마 활용법](https://teddylee777.github.io/langchain/langchain-tutorial-06/)
+  * [랭체인(langchain) + PDF 문서요약, Map-Reduce](https://teddylee777.github.io/langchain/langchain-tutorial-07/)
 
 
 ## 기타 (Others)
