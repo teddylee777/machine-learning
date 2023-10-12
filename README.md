@@ -395,6 +395,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [대화형 웹 시각화 Bokeh - 재즐보프](https://www.youtube.com/watch?v=XbfQNJrIXZc)
 
 ## 랭체인 (LangChain)
+* **OpenAI**
+  * [OpenAI Cookbook](https://cookbook.openai.com/)
+    * OpenAI Python API 레시피 쿡푹. 상황에 맞는 코드 및 튜토리얼 정리가 잘 되어 있는 곳
 * **랭체인 튜토리얼(블로그)**
   * [랭체인(langchain)의 OpenAI GPT 모델(ChatOpenAI) 사용법](https://teddylee777.github.io/langchain/langchain-tutorial-01/)
   * [랭체인(langchain) + 허깅페이스(HuggingFace) 모델 사용법](https://teddylee777.github.io/langchain/langchain-tutorial-02/)
@@ -403,7 +406,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [랭체인(langchain) + 웹사이트 크롤링 - 웹사이트 문서 요약](https://teddylee777.github.io/langchain/langchain-tutorial-05/)
   * [랭체인(langchain) + 웹사이트 정보 추출 - 스키마 활용법](https://teddylee777.github.io/langchain/langchain-tutorial-06/)
   * [랭체인(langchain) + PDF 문서요약, Map-Reduce](https://teddylee777.github.io/langchain/langchain-tutorial-07/)
-
+ 
+* **유튜브 튜토리얼**
+  * [랭체인 Featured YouTube 튜토리얼]https://python.langchain.com/docs/additional_resources/tutorials
+    * 전부 외국인의 튜토리얼 이지만, 쉬운 설명과 따라하기 쉬운 예제들이 많음. 랭체인 공식 홈페이지에서 피처링한 튜토리얼 페이지.
 
 ## 기타 (Others)
 * **파이프라인**
@@ -530,10 +536,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [테디노트](https://teddylee777.github.io/)
   * 데이터분석, 머신러닝, 딥러닝 블로그
-
 * [생새우초밥집](https://freshrimpsushi.tistory.com/)
   * 통계 관련 지식이 잘 정리되어 있는 블로그
-  
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
   * 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/01/09/Bayes_rule.html)
@@ -850,8 +854,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 캐글에서 빅데이터 분석기사 실기 문제를 모의고사 형태로 풀어볼 수 있음
 
 ## 기타
-* [Kaggle 도커에 기반한 딥러닝 서버 구축(한글 자연어처리 패키지 추가)](https://github.com/teddylee777/docker-kaggle-ko)
-* [docker-kaggle-ko 도커 허브](https://hub.docker.com/repository/docker/teddylee777/docker-kaggle-ko)
+* [Kaggle 도커에 기반한 딥러닝 서버 구축(한글 자연어처리 패키지 추가)](https://teddylee777.github.io/linux/docker-kaggle-ko2/)
+* [파이썬(Python) 기반의 데이터 분석 / 머신러닝 / 딥러닝 도커(docker)](https://hub.docker.com/repository/docker/teddylee777/deepko)
 * [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
 * [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
   * 데이터 이해하기 (통계, 시각화) 
