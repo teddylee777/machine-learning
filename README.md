@@ -408,7 +408,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [랭체인(langchain) + PDF 문서요약, Map-Reduce](https://teddylee777.github.io/langchain/langchain-tutorial-07/)
  
 * **유튜브 튜토리얼**
-  * [랭체인 Featured YouTube 튜토리얼]https://python.langchain.com/docs/additional_resources/tutorials
+  * [랭체인 Featured YouTube 튜토리얼](https://python.langchain.com/docs/additional_resources/tutorials)
     * 전부 외국인의 튜토리얼 이지만, 쉬운 설명과 따라하기 쉬운 예제들이 많음. 랭체인 공식 홈페이지에서 피처링한 튜토리얼 페이지.
 
 ## 기타 (Others)
