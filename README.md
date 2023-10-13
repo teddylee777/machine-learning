@@ -732,6 +732,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 스칼라, 스파크를 배우고 싶다면
 
 ## 유튜브 채널 (YouTube Channel)
+* [3Blue1Brown 한국어 채널](https://www.youtube.com/@3Blue1BrownKR)
+  * 인공지능을 위한 수학을 쉽게 설명해주는 3Blue1Brown 채널의 한국어 버전. 정말 감사합니다!!
 * [SKPlanet TAcademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
   * 인공지능 강의 뿐만아니라 테크 분야의 다양한 분야의 정말 좋은 강의를 무료로 제공합니다.
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
