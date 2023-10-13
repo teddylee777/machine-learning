@@ -156,6 +156,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - [연합학습 (Federated Learning)](#연합학습-federated-learning)
   - [증분학습 (Incremental Learning)](#증분학습-incremental-learning)
   - [시각화 (Visualization)](#시각화-visualization)
+  - [LLM (Large Language Model)](#LLM-Large-Language-Model)
   - [랭체인 (LangChain)](#랭체인-langchain)
   - [기타 (Others)](#기타-others)
   - [캐글 \& 데이콘](#캐글--데이콘)
@@ -393,6 +394,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 시각화 (Visualization)
 * **Bokeh**
   * [대화형 웹 시각화 Bokeh - 재즐보프](https://www.youtube.com/watch?v=XbfQNJrIXZc)
+ 
+## LLM (Large Language Model)
+* **AutoGPT**
+  * [AutoGPT 설치 및 실행 방법 - 테디노트](https://teddylee777.github.io/machine-learning/autogpt/)
+    * 사용자가 설정한 목표(Goal)를 자동으로 달성 하는 GPT.
 
 ## 랭체인 (LangChain)
 * **OpenAI**
