@@ -71,7 +71,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [파이썬 강좌 코딩 기초 강의 Python | 김왼손의 왼손코딩](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=1)
 * [딥러닝을 위한 파이썬 - 신경식님](https://learnaday.kr/open-course/ZiYShf)
 * [NumPy(넘파이) 기본 - T아카데미](https://www.youtube.com/watch?v=zNrDbG4tNGo&list=PL9mhQYIlKEhf04ToiDFvNzKL0OP4W27TW)
-* [한 방으로 끝내는 판다스(Pandas) - 테디노트](https://learnaday.kr/open-course/pandas)
+* [한 방으로 끝내는 판다스(Pandas) - 테디노트](https://www.inflearn.com/course/%ED%85%8C%EB%94%94%EB%85%B8%ED%8A%B8-%ED%95%9C%EB%B0%A9-%ED%8C%90%EB%8B%A4%EC%8A%A4)
 * [Pandas 기본기 다지기 - T아카데미](https://www.youtube.com/watch?v=M_lKmt-wSvY&list=PL9mhQYIlKEhfG_gWF-DclKs6vXS6SkmQN)
 * [Pandas로 하는 시계열 데이터분석 - T아카데미](https://www.youtube.com/watch?v=oNLaw2Q8Irw&list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
 * [입문자를 위한 파이썬 기초 따라잡기 - 재즐보프](https://www.youtube.com/watch?v=BvJhYPQSDLI&list=PLnIaYcDMsScyhT18mwY71rV_aHdP-OhLd)
