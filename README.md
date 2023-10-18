@@ -80,6 +80,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **수학 (Mathmatics) & 통계 (Statistics)**
 
+* [선형대수학을 시각적으로 먼저 이해해야 하는 이유 - 3Blue1Brown 한국어](https://youtu.be/ic_hG2M2nG0?feature=shared)
 * [선형대수 기초 - 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Mathematical Monk Youtube(영문)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
   * 딥러닝에 관련된 수학을 굉장히 쉽게 풀어놓은 유튜브.
