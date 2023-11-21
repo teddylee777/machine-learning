@@ -247,7 +247,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [경사하강법 기본 개념 (수학편) - 테디노트](https://www.youtube.com/watch?v=GEdLNvPIbiM)
   * [경사하강법 파이썬 코드로 구현 - 테디노트](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
- 
+
 * **오차 역전파 (Back Propagation)**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
@@ -397,11 +397,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 ## 시각화 (Visualization)
 * **Bokeh**
   * [대화형 웹 시각화 Bokeh - 재즐보프](https://www.youtube.com/watch?v=XbfQNJrIXZc)
- 
+
 ## LLM (Large Language Model)
 * **AutoGPT**
   * [AutoGPT 설치 및 실행 방법 - 테디노트](https://teddylee777.github.io/machine-learning/autogpt/)
     * 사용자가 설정한 목표(Goal)를 자동으로 달성 하는 GPT.
+* **FineTuning**
+  * [KoChatGPT-replica(RLHF) 프로젝트](https://github.com/airobotlab/KoChatGPT)
+    * ChatGPT-replica 실습 깃헙. GPT fine-tuning, 강화학습(PPO), RLHF, ChatGPT 데이터셋 구축에 대하여 다룹니다. 다양한 Colab 예제가 수록되어 있습니다.
+  * [KoAlphaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
+    * Stanford Alpaca 모델을 학습한 방식과 동일한 방식으로 학습을 진행한, 한국어를 이해하는 Alpaca 모델. Lora Peft 를 활용한 파인튜닝 방법 등이 수록되어 있고, 한국어 데이터셋에 대한 소개도 되어 있습니다.
 
 ## 랭체인 (LangChain)
 * **OpenAI**
@@ -416,7 +421,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [랭체인(langchain) + 웹사이트 정보 추출 - 스키마 활용법](https://teddylee777.github.io/langchain/langchain-tutorial-06/)
   * [랭체인(langchain) + PDF 문서요약, Map-Reduce](https://teddylee777.github.io/langchain/langchain-tutorial-07/)
   * [랭체인(langchain) + PDF 기반 질의응답(Question-Answering)](https://teddylee777.github.io/langchain/langchain-tutorial-08/)
- 
+
 * **유튜브 튜토리얼**
   * [랭체인 Featured YouTube 튜토리얼](https://python.langchain.com/docs/additional_resources/tutorials)
     * 전부 외국인의 튜토리얼 이지만, 쉬운 설명과 따라하기 쉬운 예제들이 많음. 랭체인 공식 홈페이지에서 피처링한 튜토리얼 페이지.
@@ -488,6 +493,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Welcome to Data Science in R - Rachael Tatman](https://www.kaggle.com/rtatman/welcome-to-data-science-in-r)
   * `modelr` 라이브러리를 활용한 머신러닝, 의사결정트리 이해
   
+
 **Kaggle 우승 솔루션**
 * [Winning solutions of kaggle competitions](https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 
@@ -653,12 +659,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
   * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
   
+
 **논문**
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
   - 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
 * [Papers You Must Read (PYMR)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
   - 고려대 Data Science & Business Analytics Lab에서 공유한 머신러닝을 학습을 위하여 필독해야할 논문 리스트 (노션)
   
+
 **서적 예제**
 * [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
   - 파이썬을 배우기 위한 서적 연습문제 및 예제 소스코드 제공
