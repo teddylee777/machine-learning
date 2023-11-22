@@ -690,6 +690,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 위키북스 - 데이콘 경진대회 1등 솔루션 서적의 예제 코드 깃헙.
 
 ## 웹사이트 (Web Sites)
+* [Toolify AI](https://www.toolify.ai/ko/Best-trending-AI-Tools)
+  - 인기있는 AI 웹사이트 및 도구의 순위를 알려주고, 각 도구(웹사이트) 별로 간단 설명과 사용자 수 등등의 정보를 제공합니다.
 * [GPTers 그룹](https://www.gpters.org/home)
   - ChatGPT 활용 커뮤니티. ChatGPT를 활용 및 확장한 여러 소그룹으로 이루어져 있고, 각각의 소그룹에서 ChatGPT 를 활용한 유용한 정보를 공유합니다.
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
