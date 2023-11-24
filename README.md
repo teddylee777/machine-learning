@@ -159,8 +159,9 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - [연합학습 (Federated Learning)](#연합학습-federated-learning)
   - [증분학습 (Incremental Learning)](#증분학습-incremental-learning)
   - [시각화 (Visualization)](#시각화-visualization)
-  - [LLM (Large Language Model)](#LLM-Large-Language-Model)
+  - [LLM (Large Language Model)](#llm-large-language-model)
   - [랭체인 (LangChain)](#랭체인-langchain)
+  - [ChatGPT](#chatgpt)
   - [기타 (Others)](#기타-others)
   - [캐글 \& 데이콘](#캐글--데이콘)
     - [캐글이 처음이라면?](#캐글이-처음이라면)
@@ -409,9 +410,6 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
     * Stanford Alpaca 모델을 학습한 방식과 동일한 방식으로 학습을 진행한, 한국어를 이해하는 Alpaca 모델. Lora Peft 를 활용한 파인튜닝 방법 등이 수록되어 있고, 한국어 데이터셋에 대한 소개도 되어 있습니다.
 
 ## 랭체인 (LangChain)
-* **OpenAI**
-  * [OpenAI Cookbook](https://cookbook.openai.com/)
-    * OpenAI Python API 레시피 쿡푹. 상황에 맞는 코드 및 튜토리얼 정리가 잘 되어 있는 곳
 * **랭체인 튜토리얼(블로그)**
   * [랭체인(langchain)의 OpenAI GPT 모델(ChatOpenAI) 사용법](https://teddylee777.github.io/langchain/langchain-tutorial-01/)
   * [랭체인(langchain) + 허깅페이스(HuggingFace) 모델 사용법](https://teddylee777.github.io/langchain/langchain-tutorial-02/)
@@ -421,12 +419,28 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [랭체인(langchain) + 웹사이트 정보 추출 - 스키마 활용법](https://teddylee777.github.io/langchain/langchain-tutorial-06/)
   * [랭체인(langchain) + PDF 문서요약, Map-Reduce](https://teddylee777.github.io/langchain/langchain-tutorial-07/)
   * [랭체인(langchain) + PDF 기반 질의응답(Question-Answering)](https://teddylee777.github.io/langchain/langchain-tutorial-08/)
-
 * **유튜브 튜토리얼**
   * [랭체인 Featured YouTube 튜토리얼](https://python.langchain.com/docs/additional_resources/tutorials)
     * 전부 외국인의 튜토리얼 이지만, 쉬운 설명과 따라하기 쉬운 예제들이 많음. 랭체인 공식 홈페이지에서 피처링한 튜토리얼 페이지.
 
+## ChatGPT
+
+**OpenAI**
+
+* [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
+  * OpenAI API 공식 도큐먼트
+* [OpenAI Cookbook](https://cookbook.openai.com/)
+  * OpenAI Python API 레시피 쿡북. 상황에 맞는 코드 및 튜토리얼 정리가 잘 되어 있는 곳.
+
+**전자책**
+
+* [생성 AI 활용기](https://wikidocs.net/book/9451) - 전뇌해커
+  * 생성 AI를 활요한 다양한 예제 수록
+* [이미지 생성 AI 활용](https://wikidocs.net/book/12852) - 전뇌해커
+  * 이미지, 그림 그리기 등 생성 AI 를 활용한 이미지 생성/활용 내용 수록
+
 ## 기타 (Others)
+
 * **파이프라인**
   * [머신러닝 시스템 디자인 패턴 - mecari](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
 * **Azure 머신러닝**
@@ -752,6 +766,12 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 하둡, 하이브에 대한 내용 수록
 * [빅데이터 - 스칼라(scala), 스파크(spark)로 시작하기](https://wikidocs.net/book/2350)
   * 스칼라, 스파크를 배우고 싶다면
+* [생성 AI 활용기](https://wikidocs.net/book/9451) - 전뇌해커
+  * 생성 AI를 활요한 다양한 예제 수록
+
+* [이미지 생성 AI 활용](https://wikidocs.net/book/12852) - 전뇌해커
+  * 이미지, 그림 그리기 등 생성 AI 를 활용한 이미지 생성/활용 내용 수록
+
 
 ## 유튜브 채널 (YouTube Channel)
 * [3Blue1Brown 한국어 채널](https://www.youtube.com/@3Blue1BrownKR)
