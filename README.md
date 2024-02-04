@@ -629,6 +629,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * Pretrained 자연어처리 모델을 공유한 github
 * [LangChain Tutorial](https://github.com/gkamradt/langchain-tutorials)
   * LangChain 튜토리얼. 다양한 예제와 쿡북(cookbook), Use Case 등이 수록되어 있음.
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
+  *  대규모 언어 모델, 특히 ChatGPT와 관련된 엄선된 논문 목록.
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
