@@ -751,6 +751,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - PyTorch 웹사이트에서 제공하는 공식 튜토리얼의 한글 번역 버전
 * [PyTorch 자연어 처리 입문 - 김기현님](https://kh-kim.gitbooks.io/pytorch-natural-language-understanding/content/)
   - 김기현님께서 공유해주신 PyTorch를 활용한 자연어 처리 입문 독스(Docs)
+* [Machine Learning Career](https://www.scaler.com/blog/machine-learning-career/)
+  - Machine Learning: 종합 가이드. 역동적인 ML 분야에서 탁월한 성과를 거두기 위한 경로, 기술, 업계 통찰력 및 팁을 알아보세요.
 
 ## 위키독스 (Wiki Docs)
 
