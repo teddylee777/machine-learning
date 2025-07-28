@@ -1,5 +1,5 @@
 # Machine Learning Study 혼자 해보기
-
+이건 테스트 용도입니다.
 <div align="center">
 
 ![GitHub contributors](https://img.shields.io/github/contributors/teddylee777/machine-learning)
