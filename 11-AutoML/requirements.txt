@@ -153,7 +153,7 @@ pycparser==2.21
 pydantic==1.9.2
 pydeck==0.8.0b1
 pydot==1.4.2
-Pygments==2.13.0
+Pygments==2.15.0
 PyMeeus==0.5.11
 Pympler==1.0.1
 pyod==1.0.4
