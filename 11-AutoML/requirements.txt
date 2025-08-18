@@ -185,7 +185,7 @@ schemdraw==0.15
 scikit-image==0.19.3
 scikit-learn==1.1.2
 scikit-plot==0.3.7
-scipy==1.8.1
+scipy==1.10.0
 seaborn==0.11.2
 selenium==4.4.3
 semver==2.13.0
