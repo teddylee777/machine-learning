@@ -916,3 +916,4 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
   * 데이터 이해하기 (통계, 시각화)
 - [BenchGecko](https://benchgecko.ai/ko/) - AI 모델 벤치마크 순위, 크로스 프로바이더 가격 비교, AI 경제 대시보드. 수천 개의 모델, 수백 개의 프로바이더, 128개 벤치마크 추적. 무료 API 제공.
+- [BenchGecko](https://benchgecko.ai/ko/) - AI 모델 벤치마크 순위, 크로스 프로바이더 가격 비교, AI 경제 대시보드. 수천 개의 모델 추적. 무료 API.
